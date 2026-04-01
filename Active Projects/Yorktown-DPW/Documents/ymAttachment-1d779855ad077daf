@@ -1,0 +1,351 @@
+Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-bf1.omega.yahoo.com pod-id atlas--production-bf1-5c9bb5ff4d-8547f.bf1.yahoo.com with HTTP; Wed, 2 Jul 2025 12:44:35 +0000
+Received: from 209.85.215.177 (EHLO mail-pg1-f177.google.com)
+ by 10.194.205.106 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Wed, 02 Jul 2025 12:44:35 +0000
+Received: by mail-pg1-f177.google.com with SMTP id 41be03b00d2f7-b2fd091f826so5862181a12.1
+        for <peter.camilli@verizon.net>; Wed, 02 Jul 2025 05:44:35 -0700 (PDT)
+From: "David Tetro" <dtetarchitect@gmail.com>
+To: <peter.camilli@verizon.net>
+References: <044201dbeb4b$db9214a0$92b63de0$.ref@verizon.net> <044201dbeb4b$db9214a0$92b63de0$@verizon.net>
+In-Reply-To: <044201dbeb4b$db9214a0$92b63de0$@verizon.net>
+Subject: Re: DPW - Alum Windows + Additional Alum windows at Bathroom Area
+Date: Wed, 2 Jul 2025 08:44:22 -0400
+Message-ID: <CAE0EMESiSVWHQvakxjyWYhknrj73k-86-iSNJrZ7Ry9pDE=UcA@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_005E_01DCBCF9.8401EEB0"
+X-Mailer: Microsoft Outlook 16.0
+X-Originating-Ip: [209.85.215.177]
+Authentication-Results: atlas-production.v2-mail-prod1-bf1.omega.yahoo.com;
+ dkim=pass header.i=@gmail.com header.s=20230601 arc_overridden_status=NOT_OVERRIDDEN;
+ spf=pass smtp.mailfrom=gmail.com arc_overridden_status=NOT_OVERRIDDEN;
+ dmarc=pass(p=NONE,sp=QUARANTINE) header.from=gmail.com arc_overridden_status=NOT_OVERRIDDEN;
+X-Apparently-To: peter.camilli@verizon.net; Wed, 2 Jul 2025 12:44:35 +0000
+X-YMailISG: J1zdO3wWLDu9q76sRoI52v5jXK16pqCn5HpgeqXNYK4wiBa1
+ n1ShxnCamPAtcvZ986q2rHFd0AQ3UNTu6mKMboptMobYQ7PTciSEjgFOiMg6
+ tZ.4KBpw2dbaTQCeDuDRSpFPbQGA0AtlASkMwWCg2923OH1470CdUmK4SJal
+ M8Rou45fwawu5irpk.wmCZ8DRhynwrzgQ4.swBdB0jTYR96eF5LtVBOUg9Vq
+ 3hfyv1z.2Wqd6HPz4FKkBt.FkNIEuvTY.K6OCD88S_jQzjYC3r4EByuPkiG5
+ UguvKig9FdA5EuBwuNLqIssb.B200q.8BMxuWZzcxeDWHY3yZYPd8CA2y5v4
+ Gd44_vtwlmoONb_7pRLESYDLoC4UJnt1Si0xZwevq7tYrm5uwNrvKPi62V0p
+ k5NPmVA.607EcfF7rr8VBY.DAhIGVSWXt.8osinKjs6imkOIpyiSHV9ihjUp
+ ewme5NktlxPdl2WmUiMvgMRwyO.fHAH5gAFvq6zVCSjo1Mf7aF407qV4N8bz
+ IvgKWFcwsBmR94Hkc551A.xzNpG0AiZF41LHu4.6FOhbHKgntMr3UMHJ94LT
+ HfXxMkG6IfM0exWol0bCJU8IffNIKZ1SYvxYG1Bw4IoeiPDUGWWPYum8Dh5x
+ qSJHDxmD6vdW9QOP0srqgyT_OAf596pBd2v3Q4YpXEa_AY5MRwVGBiEI7qIZ
+ gusqBwPUVHNML7DNRSUqcFW97IVccSh2paIBwwp9fsSmZ0RufZgvjY1yOAcr
+ rpmO_QWemHhLXAXu9ij5cdH9e_CO71uivMMLr660F0rAFT5lMQ5jq7yak9e7
+ se3zk9viEucOg4kR.bPS1BI8QgWjpogHDP_bsyKGtadQE3dmlYegbGAEFmGC
+ 2_1e.z7CjgM4jxcRY4xtZptlld_Ps5jdOkILFpumkSzd_6x26BEfxN6MrklS
+ oku3
+	757Fkigl61zvD7E88fxyXCORhZbEglIKikb9lcwM4jOs4ZkslLst5WyE
+ BfJTAqDmDBGv1wmeytPhPkT97JLrOW3.rX0ka1iE5JRhb.RiUtjp7udIkbt7
+ GcnY7iJTb70UESJbGjIZUTtU13UHgcdh81FPBi8RaGiMvb1MCiGgrgbbrgm4
+ gYCQzTApySIjY6vwzTNkMxeQZ7KaOA--
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20230601; t=1751460275; x=1752065075;
+        h=to:subject:message-id:date:from:in-reply-to:references:mime-version
+         :x-gm-message-state:from:to:cc:subject:date:message-id:reply-to;
+        bh=uFptDqq0b+n19zIK5vq9gRbpEYaRuDZoOxiDPjLAXjo=;
+        b=CzxBg0qtnVx1Phb0d2y0AFcyi9TkDo+UeigS0QQ0u+CXOOk13zcVPR2pw4b4dQjc7k
+         cH856eiOdnLN3pO/9USrj+q+QI9SfBl+Ay0R12cVfLBrMnfBEl+dOIb8CMxg/d3gLVCB
+         zd9TGcGlu/n7QW0Gz4rp3E1xke1Mx7mtZhvoOu/gvBp8WYSKfIq5nojkW6dSgbA1AFp8
+         lOK4jB5X1Ld5QZPvwgS3iugzSV4vH8KKX7InXyqw6bRgRxV5+VkahmmkcMLR/LzvFgIR
+         1mY2Eckbxd37hh8IlR+mdUNYs+1tzIAs5uYjChTiIWAAwE5OWXYHZmXma3GIBEr2c6Zf
+         fddw==
+X-Gm-Message-State: AOJu0YwQEru1vMRhHjn4eJsjhQUtrO4eqYKruRFh0/DzHpusWCXySEL5
+	cuPtaaV0xtlwBXeKqC6XSNS8aVZ5UGYdMnZLsFSxnp0Zz7knt6JdpGHTqewaCe/zXKZepkMzb3b
+	9cvlndryRKlhGFaqp80lrz7pfXluX/JoHpQ==
+X-Received: by 2002:a17:90b:53d0:b0:315:9624:37db with SMTP id
+ 98e67ed59e1d1-31a91783b15mr3436385a91.3.1751460274836; Wed, 02 Jul 2025
+ 05:44:34 -0700 (PDT)
+Thread-Index: AQIPpz2Q7pd7AtYAgtJ5b3NEFX3JWQHN6iNwAcw7o3k=
+X-Gm-Gg: ASbGncveYc2kl0fDBxsFov8bmk+4iqBPeFeu4f6OorfxXqC9qUnJDxlXJaOlR6ZV9Wq
+	l2beM/FQvFurfXRWJRIDdqohvW608q29OA2QFrVd7YM+UgK4Nba8DmTC4IP1I4/XSx3t/WoOu8K
+	F9wwZoEypjb3a2RLzhblfiaPWC6jB2IfUGd00dxQ77vODdlkTz2NiWUwU/85UzqwjKmCorUClqZ
+	VsckA==
+X-Gm-Features: Ac12FXwi-j_t2OWF2PXXADXR15gs7am_OeouXw_QJbpSfcggvAvNOUZTXh2T7-k
+X-Google-Smtp-Source: AGHT+IHl0ABgjWYAd/jJYD93JjcVrJp0hAuIdDQuKHes25/Nj3jWgxx6kY0lQ5wEDD8Wypnqtecwzu+nQYy9jbFX1FA=
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_005E_01DCBCF9.8401EEB0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Bob - that is fine. Please keep in mind that the window mullions in the =
+toilet rooms will need to align with the existing columns. My drawings =
+do not accurately reflect that.
+
+Also, we will need to supply headers / lintels over the new units. So, =
+can we get a sketch or a mark-up as to where they are going?
+
+You can provide some submittals for review and approval showing the =
+U-Value and SHGC Values of the units. Please do not just send along the =
+architectural manual.
+
+The studio will be closed starting on July 3rd for Independence Day. We =
+will reopen on Tuesday, July 8th. Emails will be responded to at that =
+time.
+
+Thank you. Please contact me if you have any questions or require =
+additional information.
+
+Studio Hours:
+
+
+Monday thru Thursday: 8:30 AM to 4:30 PM
+
+Friday hours resume after Labor Day.
+
+Thank you.
+
+
+David A. Tetro,  Architect P.C.
+
+
+Residential    Commercial   Light Industrial
+
+LEED-Accredited Professional
+
+302 Lewis Avenue
+
+
+Yorktown Heights, NY 10598
+
+T   914.962.3113
+
+E   dtetarchitect@gmail.com <mailto:dtetarchitect@gmail.com>=20
+
+ <http://www.davidtetroarchitect.com/> www.DavidTetroArchitect.com
+
+
+ <http://www.davidtetroarchitect.com/>=20
+
+
+
+
+On Wed, Jul 2, 2025 at 8:21=E2=80=AFAM <peter.camilli@verizon.net =
+<mailto:peter.camilli@verizon.net> > wrote:
+
+
+Morning David =E2=80=93=20
+
+=20
+
+The Town now wants to go with the complete package which would be =
+=E2=80=93
+
+=20
+
+Supt Office =E2=80=90 Two (2) Units 3'6" x 6'6" ea
+
+Day Room =E2=80=90 Three (3) units 6'0" x 6'6" ea
+
+Rest Room Windows=E2=80=90 Five (5) units 48" x 48: Glazed with Frost =
+Tempered Glass
+
+=20
+
+As you know cost is an issue and we are trying to keep the additional =
+work requested at a minimum per my meeting with the Town.
+
+=20
+
+Do you have any objections with us using a Kawneer 451T Storefront =
+Framing System with Awning Type Glass Vents=20
+
+=20
+
+Finish to be Clear anodized Aluminum with screens
+
+Glazing to be 1" Solar Ban 60 Low E Insulated over Solar Cool Grey =
+Tempered per spec.
+
+=20
+
+Always appreciated!!
+
+=20
+
+Bob C.
+
+=20
+
+Robert P. Camilli Jr. - President
+
+Peter A. Camilli & Sons Construction Ltd.
+
+210 Marble Avenue
+
+Pleasantville, New York 10570
+
+Phone: (914) 769 - 1164
+
+Fax: (914) 741 - 6082
+
+ <mailto:peter.camilli@verizon.net> peter.camilli@verizon.net
+
+established 1915
+
+=20
+
+=20
+
+
+------=_NextPart_000_005E_01DCBCF9.8401EEB0
+Content-Type: text/html;
+	boundary="000000000000851ad10638f19fe9";
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Bob - that is fine. Please keep in mind that the =
+window mullions in the toilet rooms will need to align with the existing =
+columns. My drawings do not accurately reflect =
+that.</div><div><br></div><div>Also, we will need to supply headers / =
+lintels over the new units. So, can we get a sketch or a mark-up as to =
+where they are going?</div><div><br></div><div>You can provide some =
+submittals for review and approval showing the U-Value and SHGC Values =
+of the units. Please do not just=C2=A0send along the architectural =
+manual.</div><div><div dir=3D"ltr" class=3D"gmail_signature" =
+data-smartmail=3D"gmail_signature"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><div =
+dir=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr"><p><font =
+color=3D"#000000"><span style=3D"font-size:12.8px">The studio will be =
+closed starting on July 3rd for Independence Day. We will reopen on =
+Tuesday, July 8th. Emails will be responded to at that =
+time.</span></font></p><p><span =
+style=3D"color:rgb(0,0,0);font-size:12.8px">Thank you. Please contact me =
+if you have any questions or require additional =
+information.</span></p><p><span =
+style=3D"color:rgb(0,0,0);font-size:12.8px;letter-spacing:0.2px">Studio =
+Hours:</span><br></p><p><span =
+style=3D"color:rgb(0,0,0);font-size:12.8px;letter-spacing:0.2px">Monday =
+thru Thursday: 8:30 AM to 4:30 PM</span></p><p><span =
+style=3D"color:rgb(0,0,0);font-size:12.8px;letter-spacing:0.2px">Friday =
+hours resume after Labor Day.</span></p><p><span =
+style=3D"color:rgb(0,0,0);font-size:12.8px;letter-spacing:0.2px">T</span>=
+<span =
+style=3D"color:rgb(0,0,0);font-size:12.8px;letter-spacing:0.2px">hank =
+you.</span><br></p><p><u style=3D"font-size:12.8px"><span =
+style=3D"font-size:14pt;color:rgb(31,73,125)">David A. Tetro,=C2=A0 =
+Architect P.C.</span></u><br></p>
+
+<p><span =
+style=3D"font-size:10pt;color:rgb(0,112,192)">Residential=C2=A0=C2=A0=C2=A0=
+
+Commercial=C2=A0=C2=A0 Light Industrial</span></p>
+
+<p><span style=3D"color:rgb(31,73,125)">LEED-Accredited
+Professional</span></p>
+
+<p><span style=3D"color:rgb(31,73,125)">302 Lewis
+Avenue</span><br></p>
+
+<p><span style=3D"color:rgb(31,73,125)">Yorktown
+Heights, NY 10598</span></p>
+
+<p><span style=3D"color:rgb(0,112,192)">T=C2=A0 </span><span =
+style=3D"color:rgb(31,73,125)">=C2=A0914.962.3113</span></p>
+
+<p><span style=3D"color:rgb(0,112,192)">E =C2=A0 </span><span =
+style=3D"font-size:10pt;color:rgb(0,112,192)"><span =
+style=3D"color:rgb(0,112,192)"><a =
+href=3D"mailto:dtetarchitect@gmail.com" =
+target=3D"_blank">dtetarchitect@gmail.com</a></span></span></p>
+
+<p><span style=3D"font-size:10pt;color:rgb(0,112,192)"><a =
+href=3D"http://www.davidtetroarchitect.com/" target=3D"_blank"><span =
+style=3D"color:blue">www.DavidTetroArchitect.com<br></span></a></span></p=
+><p><span style=3D"font-size:10pt;color:rgb(0,112,192)"><a =
+href=3D"http://www.davidtetroarchitect.com/" target=3D"_blank"><span =
+style=3D"color:blue"><br></span></a></span></p></div></div></div></div></=
+div></div></div></div></div></div></div></div></div></div></div></div></d=
+iv></div></div></div></div></div></div></div></div></div></div></div></di=
+v></div></div></div></div></div></div></div></div></div></div></div></div=
+></div></div></div></div></div></div></div></div></div></div></div></div>=
+</div><br></div><br><div class=3D"gmail_quote =
+gmail_quote_container"><div dir=3D"ltr" class=3D"gmail_attr">On Wed, Jul =
+2, 2025 at 8:21=E2=80=AFAM &lt;<a =
+href=3D"mailto:peter.camilli@verizon.net">peter.camilli@verizon.net</a>&g=
+t; wrote:<br></div><blockquote class=3D"gmail_quote" style=3D"margin:0px =
+0px 0px 0.8ex;border-left:1px solid =
+rgb(204,204,204);padding-left:1ex"><div =
+class=3D"msg-2941797049272318672"><div lang=3D"EN-US" =
+style=3D"overflow-wrap: break-word;"><div =
+class=3D"m_-3326370293332351288WordSection1"><p =
+class=3D"MsoNormal">Morning David =E2=80=93 <u></u><u></u></p><p =
+class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><p class=3D"MsoNormal">The =
+Town now wants to go with the complete package which would be =
+=E2=80=93<u></u><u></u></p><p =
+class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><p class=3D"MsoNormal">Supt =
+Office <span style=3D"font-family:&quot;Cambria =
+Math&quot;,serif">=E2=80=90</span> Two (2) Units 3&#39;6&quot; x =
+6&#39;6&quot; ea<u></u><u></u></p><p class=3D"MsoNormal">Day Room <span =
+style=3D"font-family:&quot;Cambria Math&quot;,serif">=E2=80=90</span> =
+Three (3) units 6&#39;0&quot; x 6&#39;6&quot; ea<u></u><u></u></p><p =
+class=3D"MsoNormal">Rest Room Windows<span =
+style=3D"font-family:&quot;Cambria Math&quot;,serif">=E2=80=90</span> =
+Five (5) units 48&quot; x 48: Glazed with Frost Tempered =
+Glass<u></u><u></u></p><p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><p =
+class=3D"MsoNormal">As you know cost is an issue and we are trying to =
+keep the additional work requested at a minimum per my meeting with the =
+Town.<u></u><u></u></p><p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><p =
+class=3D"MsoNormal">Do you have any objections with us using a Kawneer =
+451T Storefront Framing System with Awning Type Glass Vents =
+<u></u><u></u></p><p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><p =
+class=3D"MsoNormal">Finish to be Clear anodized Aluminum with =
+screens<u></u><u></u></p><p class=3D"MsoNormal">Glazing to be 1&quot; =
+Solar Ban 60 Low E Insulated over Solar Cool Grey Tempered per =
+spec.<u></u><u></u></p><p class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><p =
+class=3D"MsoNormal">Always appreciated!!<u></u><u></u></p><p =
+class=3D"MsoNormal"><u></u>=C2=A0<u></u></p><p class=3D"MsoNormal">Bob =
+C.<u></u><u></u></p><p class=3D"MsoNormal"><span =
+style=3D"font-size:11pt"><u></u>=C2=A0<u></u></span></p><p =
+class=3D"MsoNormal"><span =
+style=3D"font-size:14pt;font-family:&quot;Matura MT Script =
+Capitals&quot;;color:rgb(31,73,125)">Robert P. Camilli Jr. - =
+President<u></u><u></u></span></p><p class=3D"MsoNormal"><span =
+style=3D"font-family:&quot;Times New =
+Roman&quot;,serif;color:rgb(31,73,125)">Peter A. Camilli &amp; Sons =
+Construction Ltd.<u></u><u></u></span></p><p class=3D"MsoNormal"><span =
+style=3D"font-family:&quot;Times New =
+Roman&quot;,serif;color:rgb(31,73,125)">210 Marble =
+Avenue<u></u><u></u></span></p><p class=3D"MsoNormal"><span =
+style=3D"font-family:&quot;Times New =
+Roman&quot;,serif;color:rgb(31,73,125)">Pleasantville, New York =
+10570<u></u><u></u></span></p><p class=3D"MsoNormal"><span =
+style=3D"font-family:&quot;Times New =
+Roman&quot;,serif;color:rgb(31,73,125)">Phone: (914) 769 - =
+1164<u></u><u></u></span></p><p class=3D"MsoNormal"><span =
+style=3D"font-family:&quot;Times New =
+Roman&quot;,serif;color:rgb(31,73,125)">Fax: (914) 741 - =
+6082<u></u><u></u></span></p><p class=3D"MsoNormal"><span =
+style=3D"font-family:&quot;Times New =
+Roman&quot;,serif;color:rgb(31,73,125)"><a =
+href=3D"mailto:peter.camilli@verizon.net" target=3D"_blank"><span =
+style=3D"color:blue">peter.camilli@verizon.net</span></a><u></u><u></u></=
+span></p><p class=3D"MsoNormal"><b><i><span =
+style=3D"font-size:11pt;color:rgb(31,73,125)">established =
+1915</span></i></b><span =
+style=3D"font-size:11pt"><u></u><u></u></span></p><p =
+class=3D"MsoNormal"><span =
+style=3D"font-size:11pt"><u></u>=C2=A0<u></u></span></p><p =
+class=3D"MsoNormal"><u></u>=C2=A0<u></u></p></div></div></div></blockquot=
+e></div>
+
+------=_NextPart_000_005E_01DCBCF9.8401EEB0--

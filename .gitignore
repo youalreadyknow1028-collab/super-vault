@@ -1,0 +1,38 @@
+# Binary files - keep in Google Drive
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.docx
+*.xlsx
+*.mp4
+*.mp3
+
+# Credentials and secrets
+.credentials/
+*.txt
+.env
+SUPER-CREDENTIALS.md
+
+# Logs
+*.log
+super_heartbeat.log
+
+# Browser and cache
+chrome_profile/
+node_modules/
+.next/
+cache/
+
+# Build artifacts
+build/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large data directories
+crm-upload/
+uploads/
