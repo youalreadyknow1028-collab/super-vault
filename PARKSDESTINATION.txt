@@ -1,0 +1,50 @@
+# DRAFT - MASTER CHANGE LOG — Mamaroneck Parks
+**Project:** 150 Myrtle Ave (Parks Dept & Sign Shop)  
+**Generated:** 2026-03-13T04:40:04Z
+**Status:** DRAFT - PENDING VERIFICATION
+
+---
+
+## Timeline of Events (Chronological)
+*   **Jan 19, 2026:** Pre-Installation Conferences protocol established. *(Source: 26-02-26 Meeting Agenda, Section: COORDINATION)* #Protocol #Coordination
+*   **Jan 21, 2026:** Revised Drawings A-2.0, A-6.0, & A-6.1 issued. *(Source: 26-02-26 Meeting Agenda, Section: CONTRACT DOCUMENTS)* #PlanRevision #Drawings
+*   **Feb 10, 2026:** Abatement Submittal returned as "For Record Only". *(Source: 26-02-26 Meeting Agenda, Section: DEMOLITION REQUIREMENTS)* #Abatement #Submittal
+*   **Feb 13, 2026:** Construction Meeting Held. *(Source: 26-02-13 Meeting Agenda)* #Meeting
+*   **Feb 16, 2026:** Tentative start of demolition scheduled. *(Source: 26-02-26 Meeting Agenda, Section: PROJECT DATES)* #Schedule #Demolition
+*   **Feb 18, 2026:** AC Unit submittals returned by TVE. *(Source: 26-02-26 Meeting Agenda, Section: SUBMITTALS)* #Submittal #HVAC #TVE
+*   **Feb 25, 2026:** RFI #1 (AHU Drain Pan) created. *(Source: ACC Audit)* #RFI #RFI-1 #AHU-Drain-Pan
+*   **Feb 26, 2026:** Construction Meeting Held. *(Source: 26-02-26 Meeting Agenda)* #Meeting
+*   **Mar 05, 2026:** RFI #2 (Water Meter Pit) created. *(Source: ACC Audit)* #RFI #RFI-2 #Water-Meter-Pit
+*   **Mar 10, 2026:** Demolition Permit issued. *(Source: Email "Demolition Permit - Issued 260310.pdf")* #Permit #Demolition
+*   **Mar 10, 2026:** Temporary water secured via restaurant spigot. *(Source: 2026-03-10-Daily-Log.md)* #Sitework #Water
+*   **Mar 11, 2026:** E&SC work (silt fence, inlet protection) completed. *(Source: 2026-03-11-Daily-Log.md)* #Sitework #ESC
+*   **Mar 12, 2026:** Building demolition commenced. *(Source: 2026-03-12-Daily-Log.md)* #Demolition
+*   **Mar 13, 2026:** **Ground Breaking Ceremony scheduled for AFTER demolition** *(Source: Nick Verification)* #Schedule #Ceremony
+*   **Mar 13, 2026:** **NYS DOL Abatement Inspection scheduled** *(Source: Nick Verification)* #Inspection #Abatement #Complete
+*   **Mar 13, 2026:** **Neighbor Notification completed by Town of Mamaroneck** *(Source: Nick Verification)* #Permit #Legal #Complete
+
+---
+
+## Key Decisions & Changes
+*   **Toilet Wall Relocation:** Wall location revised per drawings A-2.0, A-6.0, & A-6.1. *(Source: 26-02-26 Meeting Agenda, Section: CONTRACT DOCUMENTS)* #PlanRevision #Decision #Change
+*   **Hardware Changes:** Hardware specifications changed per drawings A-2.0, A-6.0, & A-6.1. *(Source: 26-02-26 Meeting Agenda, Section: CONTRACT DOCUMENTS)* #PlanRevision #Decision #Change
+*   **Water Line:** Main water line to building to be fully replaced. *(Source: 26-02-26 Meeting Agenda, Section: DEMOLITION REQUIREMENTS)* #Plumbing #Decision #Change
+
+---
+
+## New Actionable Items (Not on MASTER-TODO)
+*   **GC:** Submit Construction Schedule. *(Source: 26-02-26 Meeting Agenda, Section: CONSTRUCTION SCHEDULE)* #GC #ActionItem #Schedule
+*   **GC:** Submit Two-Week Look-Ahead schedule weekly. *(Source: 26-02-26 Meeting Agenda, Section: CONSTRUCTION SCHEDULE)* #GC #ActionItem #Schedule
+*   **GC:** Submit "Health & Safety Plan". *(Source: 26-02-26 Meeting Agenda, Section: SAFETY)* #GC #ActionItem #Safety
+*   **GC:** Provide name of Safety Officer. *(Source: 26-02-26 Meeting Agenda, Section: FINANCIALS)* #GC #ActionItem #Safety
+*   **GC:** Post "Demolition Notification" sign. *(Source: 26-02-26 Meeting Agenda, Section: DEMOLITION REQUIREMENTS)* #GC #ActionItem #Permit
+*   **ToM:** Arrange for Special Inspections & Testing Agency. *(Source: 26-02-26 Meeting Agenda, Section: TESTING AND INSPECTIONS)* #ToM #ActionItem #Inspection
+
+---
+
+## Open Questions / Gap Analysis
+*   **✅ Ground Breaking Ceremony:** Scheduled for AFTER demolition. *(Resolved: 2026-03-13)* #Complete
+*   **✅ NYS DOL Inspection:** Abatement inspection is already scheduled. *(Resolved: 2026-03-13)* #Complete
+*   **✅ Neighbor Notification:** Town of Mamaroneck has already notified neighbors. *(Resolved: 2026-03-13)* #Complete
+*   **✅ Site Security:** **Lockbox code is 618.** All keys are inside and must be returned/hung up daily. *(Resolved: 2026-03-13)* #Complete
+*   **Loft Access Ladder:** Should a ladder be included at the hatch? **Question for next meeting.** *(Source: 26-02-26 Meeting Agenda, Section: NEW BUSINESS)* #Question #Change #Design
