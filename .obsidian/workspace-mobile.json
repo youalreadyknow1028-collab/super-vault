@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "d7cfe9bb9a62629b",
+    "type": "split",
+    "children": [
+      {
+        "id": "619175f929d1da65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68079637539febb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z Might be useful/Yorktown-DPW.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Yorktown-DPW"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "251d551e749128d0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e3a0ea8f2658d8c5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "081a69e8fbe10b04",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Yorktown pulse",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "adf540ed60cb19c4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f0cb45dd19da898d",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "52acf82250f1cb32",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "502e278b6eb7f011",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9d02eda5562c5d71",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Active Projects/Mamaroneck-Parks/Tracking Systems/parks-pending.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "bda9f8ba6bbc69df",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "MASTER-TODO.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "16659f5eb42d63b1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "MASTER-TODO.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "share-to-notionnext:Sync to NotionNext": false
+    }
+  },
+  "active": "e3a0ea8f2658d8c5",
+  "lastOpenFiles": [
+    "Active Projects/Mamaroneck-LMC/Tracking Systems/Mamroneck-LMC-Pulse.md",
+    "SUPER-CORE-WORKFLOW-2.0.md",
+    "Active Projects/Yorktown-DPW/Tracking Systems/Yorktown-DPW-pulse.md",
+    "Active Projects/Mamaroneck-Parks/Tracking Systems/Mamaroneck Parks-Pulse.md",
+    "Active Projects/Mamaroneck-Parks/Tracking Systems/PENDING-DECISIONS-AND-CO-TRACKER.md",
+    "Z Might be useful/2026-04-01-parks-pulse.md",
+    "Z Might be useful/yorktown-pulse-full.md/yorktown_pulse_complete.md",
+    "Z Might be useful",
+    "Active Projects/Yorktown-DPW/Tracking Systems/DRAFT-MASTER-CHANGE-LOG-YORKTOWN.md",
+    "Active Projects/Yorktown-DPW/Documents/ALUM WINDOWS - KAWNEER SUBMITTALS & SHOP DRAWINGS-AAN.pdf",
+    "Z Might be useful/LMC-Pulse-FULL.md/lmc_pulse_complete.md",
+    "CRM/David-Muratore.md",
+    "CRM/Dominic-Calgi.md",
+    "Operations & Reporting/Daily Log/Daily-Log-2026-03-31.md",
+    "Operations & Reporting/Daily Log/Daily-Log-2026-03-30.md",
+    "MASTER-TODO.md",
+    "Z Might be useful/Yorktown-DPW.md",
+    "Active Projects/Mamaroneck-Parks/Tracking Systems/parks-pending.md",
+    "Active Projects/Mamaroneck-Parks/Mamaroneck-Parks-Pulse.md",
+    "Active Projects/Yorktown-DPW/Tracking Systems/Yorktown-Pulse-ADDENDUM-2026-03-31.md",
+    "Active Projects/Mamaroneck-Parks/Tracking Systems/PENDING-DECISIONS-AND-CO-TRACKER (conflict 2026-03-26-11-55-08).md",
+    "CRM/Ritchie-Price.md",
+    "Active Projects/Mamaroneck-Parks/Tracking Systems/Mamaroneck-Parks-Pulse.md",
+    "Active Projects/Mamaroneck Parks/Tracking Systems/Parks-Pulse-ADDENDUM-2026-03-31.md",
+    "CRM/Robert-Camilli.md",
+    "Operations & Reporting/Daily-reports/2026-03-31-DAILY-CONSTRUCTION-REPORT-BOB.md",
+    "CRM/Advanced-Wall-Systems.md",
+    "Operations & Reporting/Daily Truth/2026-03-31-Daily-Truth.md",
+    "Active Projects/Yorktown-DPW/Plans/Drawings with level spreader.pdf",
+    "Operations & Reporting",
+    "00-INBOX/photos/20260330_112037.jpg",
+    "Active Projects/Yorktown-DPW/Plans/Architectural drawings 12 pages.pdf",
+    "00-INBOX/photos/20260326_133837.jpg",
+    "00-INBOX/photos/20260326_134031.jpg",
+    "Active Projects/Mamaroneck-Parks/Permits/Letter of Demolition Completion - 260324.pdf",
+    "00-INBOX/photos/20260326_134104.jpg",
+    "Active Projects/Mamaroneck-Parks/Permits/Rock Removal Permit.pdf",
+    "Active Projects/Yorktown-DPW/Documents/Main distribution panel 2.jpg",
+    "Active Projects/Yorktown-DPW/Documents/Picture of electrical panel.jpg",
+    "Active Projects/Mamaroneck-LMC/Documents",
+    "Active Projects/Mamaroneck-Parks/Documents",
+    "Active Projects/Mamaroneck-Parks/Untitled",
+    "notes/0_Agents/super/notes/00-INBOX/photos/2026-03-12/2026-03-12-Parks-PreDemo-011.jpg",
+    "notes/0_Agents/super/notes/00-INBOX/photos/2026-03-12/2026-03-12-Parks-PreDemo-009.jpg",
+    "notes/0_Agents/super/notes/00-INBOX/photos/2026-03-12/2026-03-12-Parks-PreDemo-008.jpg",
+    "notes/0_Agents/super/notes/00-INBOX/photos/2026-03-12/2026-03-12-Parks-PreDemo-007.jpg"
+  ]
+}
