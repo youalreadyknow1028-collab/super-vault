@@ -2,7 +2,7 @@
 uid: crm-David-Tetro
 type: contact
 role: Architect
-organization: David A. Tetro, Architect PC (representing Tietjen Venegas)
+organization: David A. Tetro, Architect PC
 email: dtetarchitect@gmail.com
 phone: ""
 projects: Yorktown DPW
@@ -13,13 +13,13 @@ last_updated: 2026-04-01
 # David Tetro
 
 **Role:** Architect (Architect of Record for Yorktown Highway Garage)
-**Organization:** [[David A. Tetro, Architect PC]] (representing [[Tietjen Venegas Consulting Engineers]])
+**Organization:** [[David A. Tetro, Architect PC]]
 **Email:** dtetarchitect@gmail.com
 **Projects:** [[Yorktown DPW]]
 
 ## CONTACT DETAILS
 - 📧 Email: dtetarchitect@gmail.com
-- 🏢 Organization: [[David A. Tetro, Architect PC]] / [[Tietjen Venegas Consulting Engineers]]
+- 🏢 Organization: [[David A. Tetro, Architect PC]]
 - 💼 Role: Architect of Record — Highway Garage renovation
 
 ## PROJECT LINKS
@@ -28,7 +28,6 @@ last_updated: 2026-04-01
 
 ## ONTOLOGY RELATIONSHIPS
 - [[David Tetro]] IS_ARCHITECT_FOR [[Yorktown DPW]]
-- [[David Tetro]] IS_TIETJEN_VENEGAS_REP_FOR [[Yorktown DPW Highway Garage]]
 
 ## PULSE — Relationship Status
 | | |
@@ -86,6 +85,6 @@ Per forwarded email from July 2, 2025 (referenced in Mar 26, 2026 thread):
 - Requires submittals showing U-Value and SHGC Values (not just architectural manual)
 
 ## NOTES
-David Tetro is the architectural representative from Tietjen Venegas for the Yorktown Highway Garage project. He is copied on all major coordination emails and has been actively involved in resolving field issues. His key stance: window approval does NOT override EIFS requirements — both must be followed independently. He worries too much, but his concerns are valid and keep the project honest. Recommend keeping him informed of all field decisions and ensuring shop drawings for EIFS work are submitted and approved promptly. Bob committed to calling Tetro the day they start EIFS work.
+David Tetro is the Architect of Record for the Yorktown Highway Garage project. He is NOT associated with Tietjen-Venegas Consulting Engineers. He is copied on all major coordination emails and has been actively involved in resolving field issues. His key stance: window approval does NOT override EIFS requirements — both must be followed independently. He worries too much, but his concerns are valid and keep the project honest. Recommend keeping him informed of all field decisions and ensuring shop drawings for EIFS work are submitted and approved promptly. Bob committed to calling Tetro the day they start EIFS work.
 
 *PULSE LAST UPDATED: 2026-04-01 | Source: Email (nflanagan1028@aol.com) — Yorktown Highway Garage threads*

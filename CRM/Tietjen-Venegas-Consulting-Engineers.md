@@ -27,7 +27,6 @@ last_updated: 2026-03-31
 
 | Contact | Role | Email |
 |---------|------|-------|
-| [[David Tetro]] | Architect | dtetarchitect@gmail.com |
 | [[Paul Revans]] | Electrical Engineer (sub-consultant) | rdpepc@gmail.com |
 | [[Edison Venegas]] | MEP Engineer | edison@tietjenpe.com |
 | [[Erica Alvarez]] | Engineer | erica@tietjenpe.com |
