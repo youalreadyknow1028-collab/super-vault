@@ -47,7 +47,7 @@
 **Spruce Construction — Anthony + Jimmy Spruce:**
 - [x] Ceiling grid completed in break room
 - [x] Ceiling tiles installed in break room
-- [x] Access door installed in break room for stormwater cleanout — **CO COMPLETE**
+- [x] Access door installed in break room for stormwater cleanout ✅
 
 **Spruce Spackler:**
 - [x] Dave Paganelli's office — sanded, needs polish coat
