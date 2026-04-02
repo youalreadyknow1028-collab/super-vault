@@ -41,10 +41,10 @@ date: 2026-04-02
 - [ ] #priority-critical **EIFS pan flashing coordination** | [[Yorktown DPW]] | #EIFS | [[Bob Camilli]] to call [[David Tetro]] when ready
 - [ ] #priority-high **Deliver stucco sample to Bob for records** | [[Yorktown DPW]] | #Stucco | Nick to deliver — color ALREADY APPROVED
 - [ ] #priority-critical **Restrict door to 90°** | [[Yorktown DPW]] | #Stucco | Door opens 180° — will hit stucco/base when installed — must restrict before AWS starts
-- [ ] #priority-critical **Contact ABM Mechanical — 3 items** | [[Yorktown DPW]] | #HVAC | STILL NOT CONTACTED
+- [ ] #priority-critical **ABM Mechanical — CEILING BLOCKER** | [[Yorktown DPW]] | #HVAC | 🔴 SCHEDULE NOW — Spruce waiting on this to finish ceilings
   - 🔴 Condensate drains: all 3 cassettes (1 bunk room, 2 break room)
   - 🔴 ERV ductwork: break room + bunk room ceilings
-  - 🔴 Cassette height adjustment: 2 cassettes in break room hung at different heights — MUST fix before ceiling tiles go up
+  - 🔴 Cassette height adjustment: 2 cassettes in break room at DIFFERENT heights — MUST match before ceiling tiles
 - [ ] #priority-critical **Northeast Sprinkler on site** | [[Yorktown DPW]] | #FireSuppression | ✅ CONFIRMED — Tuesday April 7th — blocks ceiling close
 - [ ] #priority-critical **RFI-Y-7: Gas line in kitchen wall** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~12 DAYS OVERDUE
 - [ ] #priority-critical **RFI-Y-9: Door D8 condition** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~12 DAYS OVERDUE
