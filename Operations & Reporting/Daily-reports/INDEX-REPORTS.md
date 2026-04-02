@@ -1,5 +1,15 @@
 # Daily Reports Index
 
+## 📊 PARA Classification
+- **Category:** #para-reference
+- **Path:** 1_Projects/Daily-Reports/
+- **Priority:** #priority-medium
+- **Tags:** #super #construction #daily-reports #index #para-reference
+
+## 🕸️ Ontology Links
+- [[Bob-Camilli]] RECEIVES [[Daily-Reports]]
+- [[Nick Flanagan]] GENERATES [[Daily-Reports]]
+
 | Date           | File                                               | Status               |
 | -------------- | -------------------------------------------------- | -------------------- |
 | 2026-03-09     | [[2026-03-09-DAILY-CONSTRUCTION-REPORT-BOB]]       | Sent                 |
@@ -15,3 +25,6 @@
 | **2026-03-24** | [[2026-03-24-DAILY-CONSTRUCTION-REPORT-BOB]]       | Sent                 |
 
 **Drive:** /Super/daily-reports/ (next sync).
+
+## HASHTAGS
+#super #construction #daily-reports #index #para-reference

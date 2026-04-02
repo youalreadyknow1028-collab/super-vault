@@ -1,8 +1,15 @@
 # 2026-03-22 - Supervisor Daily Log
-**Agent:** Supervisor (Super)  
-**Status:** ✅ OPERATIONAL  
-**Date:** Sunday, March 22, 2026  
-**Shift:** Weekend — Light Operations
+## 📊 PARA Classification
+- **Category:** #para-projects
+- **Path:** 2_Supers-Notes/Daily-Logs/
+- **Priority:** #priority-medium
+- **Tags:** #super #supervisor-log #mamaroneck-parks #mamaroneck-lmc #yorktown #para-projects
+
+## 🕸️ Ontology Links
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-Parks]]
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-LMC]]
+- [[Nick Flanagan]] OVERSEES [[Yorktown-DPW]]
+- [[Bob-Camilli]] COORDINATES_WITH [[Nick Flanagan]]
 
 ---
 
@@ -33,12 +40,7 @@
 
 ---
 
-## 🕸️ Ontology Links
-- [[Nick]] OFF [[Yorktown-DPW]]
-- [[Nick]] OFF [[Mamaroneck-Parks]]
-- [[Nick]] OFF [[Mamaroneck-LMC]]
-
-## 🏷️ Tags
+## HASHTAGS
 #super #supervisor-log #2026-03-22 #weekend #para-projects
 
 ---

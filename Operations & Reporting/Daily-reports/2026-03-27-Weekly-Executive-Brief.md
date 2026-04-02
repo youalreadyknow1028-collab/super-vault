@@ -5,6 +5,18 @@
 **Distribution:** Bob Camilli
 **Classification:** #para-projects #priority-high
 
+## 📊 PARA Classification
+- **Category:** #para-projects
+- **Path:** 1_Projects/Daily-Reports/
+- **Priority:** #priority-high
+- **Tags:** #super #construction #weekly-brief #mamaroneck-parks #mamaroneck-lmc #yorktown #para-projects
+
+## 🕸️ Ontology Links
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-Parks]]
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-LMC]]
+- [[Nick Flanagan]] OVERSEES [[Yorktown-DPW]]
+- [[Bob-Camilli]] COORDINATES_WITH [[Nick Flanagan]]
+
 ---
 
 ## 🎯 EXECUTIVE SUMMARY
@@ -343,3 +355,5 @@ Call David Tetro Monday AM for RFI-Y-7 and RFI-Y-9 — these are now one week ov
 **Next Brief:** Friday, April 3, 2026
 
 **🏷️ Tags:** #super #construction #weekly-brief #executive-summary #mamaroneck-parks #mamaroneck-lmc #yorktown-dpw #ardsley #para-projects #priority-high #bob-camilli #pulse
+## HASHTAGS
+#super #construction #weekly-brief #mamaroneck-parks #mamaroneck-lmc #yorktown #ardsley #para-projects #priority-high

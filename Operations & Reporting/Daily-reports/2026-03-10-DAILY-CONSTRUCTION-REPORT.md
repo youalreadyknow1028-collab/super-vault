@@ -4,6 +4,18 @@
 **Prepared by:** Supervisor (Site Operations)  
 **Superintendent:** Nick Flanagan
 
+## 📊 PARA Classification
+- **Category:** #para-projects
+- **Path:** 1_Projects/Daily-Reports/
+- **Priority:** #priority-high
+- **Tags:** #super #construction #daily-report #mamaroneck-parks #mamaroneck-lmc #yorktown #para-projects
+
+## 🕸️ Ontology Links
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-Parks]]
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-LMC]]
+- [[Nick Flanagan]] OVERSEES [[Yorktown-DPW]]
+- [[Bob-Camilli]] COORDINATES_WITH [[Nick Flanagan]]
+
 ---
 
 ## 🏗️ SITE-BY-SITE SUMMARY
@@ -30,3 +42,6 @@
 
 ---
 *Nick runs the job. Super runs the paper.*
+
+## HASHTAGS
+#super #construction #daily-report #mamaroneck-parks #mamaroneck-lmc #yorktown #para-projects #priority-high

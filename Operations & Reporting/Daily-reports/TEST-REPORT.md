@@ -19,6 +19,16 @@ date: 2026-04-01
 
 # MASTER-TODO
 
+## 📊 PARA Classification
+- **Category:** #para-projects
+- **Path:** 1_Projects/
+- **Priority:** #priority-high
+- **Tags:** #super #construction #master-todo #para-projects
+
+## 🕸️ Ontology Links
+- [[Nick Flanagan]] OVERSEES [[Active-Projects]]
+- [[Bob-Camilli]] COORDINATES_WITH [[Nick Flanagan]]
+
 > [!info]+ RELATIONSHIPS
 > - [[Nick Flanagan]] MANAGES [[Yorktown DPW]]
 > - [[Nick Flanagan]] MANAGES [[Mamaroneck LMC]]
@@ -183,3 +193,6 @@ date: 2026-04-01
 
 *MASTER-TODO UPDATED: 2026-04-01 06:35 EDT | Source: Daily Truth 2026-03-31, subagent outputs*
 *CORRECTION 2026-04-01 REVERSED: The prior "correction" claiming Timmy was a fabrication was WRONG. Nick's original Daily Truth explicitly names Timmy. Level spreader entry corrected — Timmy restored. The original removal was my error.*
+
+## HASHTAGS
+#super #construction #master-todo #para-projects #priority-high

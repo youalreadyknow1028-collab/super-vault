@@ -1,5 +1,25 @@
 # DAILY TRUTH — Wednesday, April 1, 2026
 
+## 📊 PARA Classification
+- **Category:** #para-projects
+- **Path:** 1_Projects/Daily-Truth/
+- **Priority:** #priority-high
+- **Tags:** #super #construction #daily-truth #mamaroneck-parks #mamaroneck-lmc #yorktown #ardsley #para-projects
+
+## 🕸️ Ontology Links
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-Parks]]
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-LMC]]
+- [[Nick Flanagan]] OVERSEES [[Yorktown-DPW]]
+- [[Bob-Camilli]] COORDINATES_WITH [[Nick Flanagan]]
+- [[Richie-Puleo]] LEADS [[Spruce-Contracting]] AT [[Yorktown-DPW]]
+- [[Andrew-Luzzi]] PERFORMS [[Advanced-Wall-Systems]] AT [[Yorktown-DPW]]
+- [[Timmy]] PERFORMS labor AT [[Yorktown-DPW]]
+- [[Paul-Revans]] COORDINATES [[Yorktown-DPW]]
+- [[David-Tetro]] DESIGNS [[Yorktown-DPW]]
+- [[Billy-Cerutti]] DELAYS [[Ardsley]]
+- [[Katarina-Legener]] RECEIVED_plans AT [[Mamaroneck-Parks]]
+- [[Anthony-Puleo]] PERFORMS drywall AT [[Yorktown-DPW]]
+
 **Site:** [[Yorktown-DPW]] | [[Mamaroneck-Parks]] | [[Mamaroneck-LMC]] | [[Ardsley-High-School]]
 **Day:** Wednesday
 **Weather:** ☀️ Clear / Mild — no weather-related delays noted
@@ -199,3 +219,6 @@
 *Source: [[Nick-Flanagan]], Site Superintendent*
 *Logged by: [[Supervisor]] — Construction Operations Brain*
 *Timestamp: April 1, 2026*
+
+## HASHTAGS
+#super #construction #daily-truth #mamaroneck-parks #mamaroneck-lmc #yorktown #ardsley #spruce-contracting #advanced-wall-systems #para-projects

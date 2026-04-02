@@ -5,7 +5,18 @@
 ---
 
 ## PARA Classification
-#para-projects #yorktown-dpw #bob-report
+- **Category:** #para-projects
+- **Path:** 1_Projects/Daily-Reports/
+- **Priority:** #priority-high
+- **Tags:** #super #construction #daily-report #yorktown #mamaroneck-parks #mamaroneck-lmc #para-projects
+
+## 🕸️ Ontology Links
+- [[Nick Flanagan]] OVERSEES [[Yorktown-DPW]]
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-Parks]]
+- [[Bob-Camilli]] COORDINATES_WITH [[Nick Flanagan]]
+- [[Mike-Hanover]] INSPECTS [[Hanover-Electric]] AT [[Yorktown-DPW]]
+- [[Richie-Puleo]] SCHEDULES [[Spruce-Contracting]] AT [[Yorktown-DPW]]
+- [[Katarina-Legener]] SCHEDULED [[Tectonic]] AT [[Mamaroneck-Parks]]
 
 ---
 
@@ -102,3 +113,6 @@
 
 **Nick Flanagan — Site Superintendent**
 *Report generated from Daily Truth — 2026-03-30*
+
+## HASHTAGS
+#super #construction #daily-report #yorktown #mamaroneck-parks #mamaroneck-lmc #para-projects #priority-high

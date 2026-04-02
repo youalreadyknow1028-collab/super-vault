@@ -3,6 +3,18 @@
 **Superintendent:** Nick Flanagan  
 **Prepared by:** Super (Administrative Brain)
 
+## 📊 PARA Classification
+- **Category:** #para-projects
+- **Path:** 1_Projects/Daily-Reports/
+- **Priority:** #priority-high
+- **Tags:** #super #construction #daily-report #mamaroneck-parks #mamaroneck-lmc #yorktown #para-projects
+
+## 🕸️ Ontology Links
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-Parks]]
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-LMC]]
+- [[Nick Flanagan]] OVERSEES [[Yorktown-DPW]]
+- [[Bob-Camilli]] COORDINATES_WITH [[Nick Flanagan]]
+
 ---
 
 ## 📊 EXECUTIVE SUMMARY
@@ -116,3 +128,6 @@
 **Nick runs the job. Super runs the paper. Nothing gets missed.**
 
 *All data from: Plans, daily logs, emails, submittals, field notes*
+
+## HASHTAGS
+#super #construction #daily-report #mamaroneck-parks #mamaroneck-lmc #yorktown #para-projects #priority-high

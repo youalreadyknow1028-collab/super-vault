@@ -5,6 +5,18 @@
 **Distribution:** Bob Camilli  
 **Classification:** #para-projects #priority-high
 
+## 📊 PARA Classification
+- **Category:** #para-projects
+- **Path:** 1_Projects/Daily-Reports/
+- **Priority:** #priority-high
+- **Tags:** #super #construction #weekly-brief #mamaroneck-parks #mamaroneck-lmc #yorktown #para-projects
+
+## 🕸️ Ontology Links
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-Parks]]
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-LMC]]
+- [[Nick Flanagan]] OVERSEES [[Yorktown-DPW]]
+- [[Bob-Camilli]] COORDINATES_WITH [[Nick Flanagan]]
+
 ---
 
 ## 🎯 EXECUTIVE SUMMARY
@@ -224,3 +236,5 @@ Escalate Tetro RFIs to Bob for Monday morning priority. Consider withholding pro
 **Next Brief:** Friday, March 27, 2026
 
 **🏷️ Tags:** #super #construction #weekly-brief #executive-summary #mamaroneck-parks #mamaroneck-lmc #yorktown-dpw #para-projects #priority-high #bob-camilli
+## HASHTAGS
+#super #construction #weekly-brief #mamaroneck-parks #mamaroneck-lmc #yorktown #para-projects #priority-high

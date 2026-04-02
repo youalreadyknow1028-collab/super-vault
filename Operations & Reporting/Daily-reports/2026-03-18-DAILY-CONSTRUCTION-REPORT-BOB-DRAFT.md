@@ -220,3 +220,5 @@ Peter Camilli & Sons Construction Ltd.
 - ✅ Parks PENDING-DECISIONS
 - ✅ LMC PENDING-DECISIONS  
 - ✅ Yorktown PENDING-DECISIONS
+## HASHTAGS
+#super #construction #daily-report #para-projects #priority-high

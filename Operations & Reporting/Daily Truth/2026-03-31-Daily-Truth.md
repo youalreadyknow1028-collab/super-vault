@@ -1,4 +1,22 @@
-Daily Report – Tuesday, March 31, 2026 
+# Daily Truth – Tuesday, March 31, 2026
+
+## 📊 PARA Classification
+- **Category:** #para-projects
+- **Path:** 1_Projects/Daily-Truth/
+- **Priority:** #priority-high
+- **Tags:** #super #construction #daily-truth #mamaroneck-parks #mamaroneck-lmc #yorktown #ardsley #para-projects
+
+## 🕸️ Ontology Links
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-Parks]]
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-LMC]]
+- [[Nick Flanagan]] OVERSEES [[Yorktown-DPW]]
+- [[Bob-Camilli]] COORDINATES_WITH [[Nick Flanagan]]
+- [[Richie-Puleo]] LEADS [[Spruce-Contracting]] AT [[Yorktown-DPW]]
+- [[Katarina-Legener]] PERFORMS [[Tectonic]] AT [[Mamaroneck-Parks]]
+- [[Richie-Price]] OVERSEES [[Calgi-Construction]] AT [[Mamaroneck-Parks]]
+- [[Timmy]] PERFORMS labor AT [[Yorktown-DPW]]
+- [[David-Tetro]] DESIGNS [[Yorktown-DPW]]
+- [[Billy-Cerutti]] DELAYS [[Ardsley]] 
 
 
 Site Summary 
@@ -57,3 +75,11 @@ Pending
 
 Tomorrow (Wednesday, April 1) 
 - Richie Puleo with Spruce Construction crew: start ceilings. 
+
+---
+**Source:** Nick Flanagan — Field Notes
+**Date:** 2026-03-31
+**Agent:** Supervisor (@super)
+
+## HASHTAGS
+#super #construction #daily-truth #mamaroneck-parks #mamaroneck-lmc #yorktown #ardsley #spruce-contracting #tectonic #calgi-construction #para-projects

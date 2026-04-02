@@ -1,5 +1,23 @@
 # Daily Truth – Monday, March 30, 2026
 
+## 📊 PARA Classification
+- **Category:** #para-projects
+- **Path:** 1_Projects/Daily-Truth/
+- **Priority:** #priority-high
+- **Tags:** #super #construction #daily-truth #mamaroneck-parks #mamaroneck-lmc #yorktown #ardsley #para-projects
+
+## 🕸️ Ontology Links
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-Parks]]
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-LMC]]
+- [[Nick Flanagan]] OVERSEES [[Yorktown-DPW]]
+- [[Bob-Camilli]] COORDINATES_WITH [[Nick Flanagan]]
+- [[Richie-Puleo]] SCHEDULES [[Spruce-Contracting]] AT [[Yorktown-DPW]]
+- [[Katarina-Legener]] SCHEDULED [[Tectonic]] AT [[Mamaroneck-Parks]]
+- [[Mike-Hanover]] INSPECTS [[Hanover-Electric]] AT [[Yorktown-DPW]]
+- [[Billy-Cerutti]] DELAYS [[Ardsley]]
+- [[Anne]] COORDINATES [[Yorktown-DPW]]
+- [[David-Tetro]] DESIGNS [[Yorktown-DPW]]
+
 ---
 
 ## Site Summary – By Job
@@ -79,3 +97,6 @@
 **Source:** Nick Flanagan — Field Notes
 **Date:** 2026-03-30
 **Agent:** Supervisor (@super)
+
+## HASHTAGS
+#super #construction #daily-truth #mamaroneck-parks #mamaroneck-lmc #yorktown #ardsley #spruce-contracting #hanover-electric #tectonic #para-projects

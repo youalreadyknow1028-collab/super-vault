@@ -1,7 +1,17 @@
 # DAILY CONSTRUCTION LOG
 Project: {{project_name}}
 Date: {{date}}
-Log #: 
+Log #:
+
+## 📊 PARA Classification
+- **Category:** #para-projects
+- **Path:** 2_Supers-Notes/Daily-Logs/
+- **Priority:** #priority-medium
+- **Tags:** #super #supervisor-log #template #para-projects
+
+## 🕸️ Ontology Links
+- [[Nick Flanagan]] OVERSEES [[Project]]
+- [[Bob-Camilli]] COORDINATES_WITH [[Nick Flanagan]] 
 
 ## WEATHER
 7:00 AM: 
@@ -26,3 +36,6 @@ Impact:
 
 ## TOMORROW'S PLAN
 - 
+
+## HASHTAGS
+#super #supervisor-log #template #para-projects

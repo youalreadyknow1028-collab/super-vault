@@ -224,3 +224,5 @@ Peter Camilli & Sons Construction Ltd.
 - ✅ Parks PENDING-DECISIONS
 
 **DRAFT STATUS:** Pending Nick review before sending to Bob
+## HASHTAGS
+#super #construction #daily-report #para-projects #priority-high

@@ -3,6 +3,18 @@
 📅 **Date:** Friday, March 13, 2026  
 **Subject:** Weekly Briefing: Multi-Site Operations | March 10–14 | Progress & Next Steps
 
+## 📊 PARA Classification
+- **Category:** #para-projects
+- **Path:** 1_Projects/Daily-Reports/
+- **Priority:** #priority-high
+- **Tags:** #super #construction #weekly-brief #mamaroneck-parks #mamaroneck-lmc #yorktown #para-projects
+
+## 🕸️ Ontology Links
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-Parks]]
+- [[Nick Flanagan]] OVERSEES [[Mamaroneck-LMC]]
+- [[Nick Flanagan]] OVERSEES [[Yorktown-DPW]]
+- [[Bob-Camilli]] COORDINATES_WITH [[Nick Flanagan]]
+
 ---
 
 ### 🎯 Executive Summary
@@ -61,3 +73,6 @@ All flagged in project trackers. **No work proceeds on CO items until drafted an
 ---
 
 *Report prepared by Supervisor Engine | Peter Camilli & Sons*
+
+## HASHTAGS
+#super #construction #weekly-brief #mamaroneck-parks #mamaroneck-lmc #yorktown #para-projects #priority-high
