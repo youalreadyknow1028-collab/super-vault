@@ -5,7 +5,7 @@ role: Stucco / EIFS Contractor
 organization: Advanced Wall Systems (AWS)
 projects: Yorktown DPW
 priority: P2-ACTIVE
-last_updated: 2026-04-01
+last_updated: 2026-04-02
 aliases:
   - AWS
   - Advanced Wall
@@ -56,9 +56,9 @@ aliases:
 
 | | |
 |---|---|
-| **Relationship health** | 🟢 GOOD — MOBILIZING |
+| **Relationship health** | 🟢 GOOD — ACTIVE |
 | **Channel** | Field / through Bob Camilli |
-| **Status** | ACTIVE — Materials delivered, starting work April 2 |
+| **Status** | ACTIVE — EIFS installation IN PROGRESS (April 2) |
 
 ---
 
@@ -121,16 +121,29 @@ aliases:
 
 ---
 
+### April 2, 2026 (Thursday)
+**Source:** Nick update — April 2, 2026
+
+| Event | Details | Status |
+|-------|---------|--------|
+| Manuel on site | Manuel with AWS setting up scaffolding and beginning EIFS installation | 🟢 ACTIVE |
+| EIFS starting | EIFS installation beginning today | ✅ STARTED |
+| Color approved | Bob approved color — sample to be delivered for records | ✅ APPROVED |
+
+> *"Manuel with Advanced Wall Systems is on-site setting up scaffolding and beginning the EIFS installation. One man on site."* — Nick, April 2
+
+---
+
 ## 📋 EIFS WORK SCOPE AT YORKTOWN DPW
 
 | Item | Details | Status |
 |------|---------|--------|
 | Exterior sheathing preparation | Missing sheathing installed (Nick) | ✅ DONE |
 | Window flashing correction | Flashing removed/adjusted (Nick) | ✅ DONE |
-| Stucco base installation | Scheduled to start April 2 | 📅 SCHEDULED |
+| Stucco base installation | **STARTED April 2** | 🟡 IN PROGRESS |
 | Door frame detail | To be coordinated with door opening restriction | 🔴 PENDING — door must be restricted to 90° |
 | Exterior lighting coordination | Hanover Electric must rough in BEFORE stucco base | 🔴 PENDING |
-| Stucco color approval | Sample provided — awaiting Bob Camilli approval | 🔴 PENDING |
+| Stucco color approval | Sample provided — Bob APPROVED | ✅ APPROVED |
 
 ---
 
@@ -138,10 +151,11 @@ aliases:
 
 | Item | Project | Priority | Status |
 |------|---------|----------|--------|
-| Stucco color approval from Bob | Yorktown DPW | 🔴 CRITICAL | Sample provided — awaiting approval |
-| Restrict door opening to 90° | Yorktown DPW | 🔴 HIGH | Must do before stucco hits door |
+| Stucco color approval from Bob | Yorktown DPW | ✅ CLOSED | Color approved — April 2 |
+| Deliver color sample to Bob | Yorktown DPW | 🟡 TODAY | Color approved — need to deliver sample for records |
+| Restrict door opening to 90° | Yorktown DPW | 🔴 HIGH | Must do before stucco base hits door |
 | Hanover Electric exterior lighting rough-in | Yorktown DPW | 🔴 BLOCKING | Must complete before stucco base |
-| Stucco work to begin | Yorktown DPW | 🔴 HIGH | Scheduled April 2 |
+| EIFS installation | Yorktown DPW | 🟡 IN PROGRESS | Manuel on site — started April 2 |
 
 ---
 
@@ -160,4 +174,4 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-01 | Source: Daily Truth (March 24, 31, April 1), Bob Reports (March 27 Weekly, April 1)*
+*PULSE LAST UPDATED: 2026-04-02 | Source: Daily Truth (March 24, 31, April 1), Bob Reports (March 27 Weekly, April 1), Nick update April 2*
