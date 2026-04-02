@@ -1,7 +1,7 @@
 # 📍 MAMARONECK LMC PULSE — Complete History
 ## 740 Boston Post Rd, Mamaroneck, NY
 **Project:** Mamaroneck Language Commissioner Office Renovation  
-**Last Updated:** 2026-03-27 01:21 EDT  
+**Last Updated:** 2026-04-02 EDT  
 **Phase:** NEAR CLOSEOUT  
 **Maintained by:** Supervisor (@super)
 
@@ -13,21 +13,30 @@
 | Punchlist Touch-ups | ✅ COMPLETE | 2026-03-17 |
 | Electrical | ✅ COMPLETE | 2026-03-26 |
 | HVAC Equipment | ✅ POWERED UP | 2026-03-25/26 |
-| HVAC Startup | 🟡 FRIDAY OR MONDAY TBD | 2026-03-26 |
+| HVAC Startup | 🟡 STILL UNCONFIRMED | 2026-04-02 |
 | Architect Punchlist | 🔴 NOT RECEIVED | 2026-03-26 |
-| Site Items | 🔴 Shop vac + ladders ON SITE | 2026-03-26 |
-| Closeout | 🟡 BLOCKED | 2026-03-26 |
+| Site Items | 🔴 Shop vac + ladders STILL ON SITE | 2026-04-02 |
+| Closeout | 🟡 BLOCKED | 2026-04-02 |
 
 ---
 
 ## 🔴 CURRENT BLOCKERS
 | Blocker | Trade | Status |
 |---------|-------|--------|
-| **Official punch list from Sarah (KGD)** | inspection | 🔴 OPEN |
-| **Shop vac + ladders on site** | cleanup | 🔴 OPEN — still on site |
-| **Daikin startup scheduling** | HVAC | 🟡 TBD — Friday or Monday |
+| **Official punch list from Sarah (KGD)** | inspection | 🔴 OPEN — still not received |
+| **Shop vac + ladders on site** | cleanup | 🔴 OPEN — STILL ON SITE (April 2) |
+| **Daikin startup scheduling** | HVAC | 🟡 STILL TBD — as of April 2 (was supposed to be Fri/Mon March 27/30) |
 | **Paint touch-up blocked (blue base molding)** | painting | 🔴 OPEN |
 | **Paint splatter on glass** | painting | 🔴 OPEN |
+
+## 📋 APRIL 2 UPDATE
+| Item | Status | Notes |
+|------|--------|-------|
+| HVAC rooftop units powered up | ✅ DONE | March 25/26 — Juan wired, Willy from Buchanan Mechanical powered up |
+| Daikin startup | 🔴 NOT CONFIRMED | Was supposed to be Fri March 27 or Mon March 30 — no confirmation |
+| Shop vac + ladders | 🔴 STILL ON SITE | Must remove — blocking closeout |
+| Punch list from Sarah/KGD | 🔴 NOT RECEIVED | Blocking final closeout |
+| Richie Puleo shelves/doors CO | 🟡 PENDING | Awaiting date from Richie (Spruce Construction) |
 
 ---
 

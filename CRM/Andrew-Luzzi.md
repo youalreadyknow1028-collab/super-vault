@@ -51,9 +51,9 @@ aliases:
 
 | | |
 |---|---|
-| **Relationship health** | 🟢 GOOD — MOBILIZING |
+| **Relationship health** | 🟢 GOOD — ACTIVE |
 | **Channel** | Field / through Bob Camilli |
-| **Status** | ACTIVE — Materials delivered, starting work |
+| **Status** | 🟡 WAITING — Bob needs to approve stucco color before AWS can start |
 
 ---
 
@@ -92,6 +92,16 @@ aliases:
 | Scaffold drop-off | Andrew dropped off scaffold and material on site | ✅ DELIVERED |
 | Scope walkthrough | Andrew and Nick went over stucco base finishing and door frame detail | ✅ WALKTHROUGH DONE |
 | Door opening issue | Door currently opens 180° — when stucco and base are installed, door will hit | 🔴 ISSUE IDENTIFIED |
+
+### April 2, 2026 (Thursday)
+**Source:** Daily Truth — April 2, 2026
+
+| Event | Details | Status |
+|-------|---------|--------|
+| Stucco color sample | Finalized sample provided to Nick for Bob approval | ✅ DONE |
+| Bob approval needed | Bob must approve color before AWS can start stucco | 🔴 PENDING — URGENT |
+| Door restriction | Door 180° issue still not resolved — must restrict to 90° before stucco hits door | 🔴 PENDING |
+| Work status | Stucco NOT started — waiting on Bob color approval | ⏳ ON HOLD |
 
 > *"Andrew from Advanced Wall Systems was on site dropping off scaffold and material to start the stucco work tomorrow."*
 > *"We went over how he was going to finish the base and around the door frame—the door is currently opening 180°; when he installs stucco and base, the door will hit it unless we restrict the amount it opens."*
@@ -137,10 +147,10 @@ aliases:
 
 | Item | Project | Priority | Status |
 |------|---------|----------|--------|
-| Stucco color approval from Bob | Yorktown DPW | 🔴 CRITICAL | Sample provided — awaiting approval |
+| Stucco color approval from Bob | Yorktown DPW | 🔴 CRITICAL | Sample provided — Bob MUST approve TODAY |
 | Restrict door opening to 90° | Yorktown DPW | 🔴 HIGH | Must do before stucco hits door |
 | Hanover Electric exterior lighting rough-in | Yorktown DPW | 🔴 BLOCKING | Must complete before stucco base |
-| Stucco work to begin | Yorktown DPW | 🔴 HIGH | Scheduled April 2 |
+| Stucco work to begin | Yorktown DPW | 🔴 HIGH | Stalled — awaiting Bob color approval |
 
 ---
 

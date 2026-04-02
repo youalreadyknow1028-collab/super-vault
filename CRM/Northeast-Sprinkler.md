@@ -44,11 +44,15 @@ aliases:
 |---|---|
 | **Relationship health** | 🟡 ACTIVE — WAITING |
 | **Channel** | Through [[Bob-Camilli]] |
-| **Status** | PENDING — schedule unconfirmed; blocks ceiling closure |
+| **Status** | ✅ CONFIRMED — Tuesday April 7th at Yorktown DPW |
 
 ---
 
 ## WORK HISTORY
+
+### April 2, 2026 — Schedule Confirmed
+- **CONFIRMED:** Tuesday April 7th at Yorktown DPW
+- Nick confirmed sprinkler rough-in date from pending list
 
 ### March 31, 2026 — Schedule Unconfirmed
 - Listed in Nick's pending items: "Confirm [[Northeast-Sprinkler]] coming to Yorktown on Tuesday April 7th"
@@ -64,7 +68,7 @@ aliases:
 
 | Item | Project | Priority | Status |
 |------|---------|----------|--------|
-| Confirm sprinkler rough-in date (reported April 7th) | [[Yorktown-DPW]] | 🔴 HIGH | UNCONFIRMED — must call |
+| Confirm sprinkler rough-in date (reported April 7th) | [[Yorktown-DPW]] | 🔴 HIGH | ✅ CONFIRMED — Tuesday April 7th |
 | Schedule blocks ceiling closure by [[Spruce-Contracting]] | [[Yorktown-DPW]] | 🔴 HIGH | PENDING |
 
 ---

@@ -51,9 +51,9 @@ aliases:
 
 | | |
 |---|---|
-| **Relationship health** | 🟡 ACTIVE — ACCESS REQUIRED |
-| **Channel** | Through [[Billy-Cerutti]] |
-| **Status** | PENDING — need building access for sign installation |
+| **Relationship health** | 🟡 ACTIVE — SCOPE ISSUE |
+| **Channel** | Through [[Billy-Cerutti]] + [[Dorothy-Tumen]] |
+| **Status** | ACCESS GOT — but Tumen missing 7 Type C + 9 Type WV signs. Awaiting revised schedule from Tumen. |
 
 ---
 
@@ -64,13 +64,24 @@ aliases:
 - Need to call [[Billy-Cerutti]] in the morning to get into the school
 - One-time sign installation project
 
+### April 2, 2026 — Site Visit + Scope Issue
+- [[Billy-Cerutti]] gave access — got into school, unlocked classrooms ✅
+- Met [[Oliver-Tumen]] from [[Tumen-Signage]] on site
+- Oliver had NO plans or drawings — Nick obtained approved shop drawings from Bob
+- Nick marked sign locations for Oliver
+- **ISSUE:** Tumen missing 7 Type C signs and 9 Type WV signs
+- Conference call: Nick + Bob Camilli + [[Dorothy-Tumen]] — informed of missing signage
+- Emergency evacuation plan signs confirmed REMOVED from scope (cost engineering)
+- Tumen to provide revised installation date (must be around school hours)
+
 ---
 
 ## 🔴 ACTIVE ITEMS
 
 | Item | Project | Priority | Status |
 |------|---------|----------|--------|
-| Call [[Billy-Cerutti]] — get into Ardsley High School | [[Ardsley-High-School]] | 🔴 HIGH | Tomorrow morning |
+| Get revised installation date from [[Dorothy-Tumen]] | [[Ardsley-High-School]] | 🔴 HIGH | Awaiting Tumen's schedule |
+| Install remaining 7 Type C + 9 Type WV signs | [[Ardsley-High-School]] | 🔴 HIGH | Waiting on Tumen |
 | Signs installation | [[Ardsley-High-School]] | 🔴 HIGH | Thursday April 2nd |
 
 ---

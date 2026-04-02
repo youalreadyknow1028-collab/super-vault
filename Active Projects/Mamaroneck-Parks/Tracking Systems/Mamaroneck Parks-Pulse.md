@@ -3,9 +3,9 @@
 ## Peter Camilli & Sons Construction Ltd.
 ## Complete Chronological Project History
 
-**Last Updated:** April 1, 2026  
+**Last Updated:** April 2, 2026  
 **Prepared by:** Supervisor Agent (@super)  
-**Status:** ACTIVE PROJECT — Survey Complete, Construction Crew On-Site April 3, 2026
+**Status:** ACTIVE PROJECT — Tectonic crew on site Friday April 3, 2026 at 7:00 AM
 
 ---
 
@@ -639,6 +639,27 @@ Bob C.
 - Dust mitigation via water hosing per Ritchie Price email
 - Temporary fence reinforced with rebar (per Bob Camilli's direction March 17)
 - Water line located and exposed (hand-dug March 19)
+
+---
+
+## April 2, 2026 — Current Status
+
+**Source:** Supervisor Analysis
+
+### PROJECT STATUS
+- **Demolition Phase:** COMPLETE
+- **Survey:** COMPLETE (March 31, 2026)
+- **Permits:** All in hand
+- **Next Milestone:** Tectonic crew on site Friday April 3, 2026 at 7:00 AM
+
+### TODAY'S ACTIVITY (April 2)
+- Bob confirmed Katarina Legener has full plan set
+- Tectonic crew confirmed for Friday April 3rd at 7:00am — elevations and stake-out
+- No field activity today at Parks
+
+### TOMORROW (April 3)
+- **7:00 AM — Tectonic crew on site** — elevations, stake building corners, stake retaining walls
+- Bob Camilli expected on site
 
 ---
 

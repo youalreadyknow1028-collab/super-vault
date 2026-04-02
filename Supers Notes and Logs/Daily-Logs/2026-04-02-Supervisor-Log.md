@@ -53,18 +53,39 @@
 ### CRM Pulse Updates
 - [x] Created all 6 new CRM entries with full work history from Daily Truth files
 - [x] Updated [[Bob-Camilli]] pulse — big update with all March 25-April 1 activity
+- [x] Created [[Tumen-Signage]] CRM — sign installation contractor (Ardsley)
+- [x] Created [[Oliver-Tumen]] CRM — field installer (Ardsley)
+- [x] Created [[Dorothy-Tumen]] CRM — office/scheduling (Ardsley)
+- [x] Updated [[Northeast-Sprinkler]] — confirmed April 7th
+- [x] Updated [[Andrew-Luzzi]] / [[Advanced-Wall-Systems]] — stucco blocked on color approval
+- [x] Updated [[Ardsley-High-School]] — Tumen scope issue, missing signs
+- [x] Updated [[Mamaroneck-Parks]] pulse — Tectonic tomorrow 7am confirmed
+- [x] Updated [[Mamaroneck-LMC]] pulse — Daikin still unconfirmed, shop vac still on site
+- [x] Updated [[Yorktown-DPW]] pulse — April 2 entries added
 
 ---
 
 ## 🔴 HIGH PRIORITY — Today April 2
 | Item | Project | Question |
 |------|---------|----------|
-| **ACTIVE:** Call Billy Cerutti — get into Ardsley | [[Ardsley-High-School]] | FIRST THING — signs being installed today |
-| **ACTIVE:** Stucco color approval from Bob | [[Yorktown-DPW]] | Andrew Luzzi sample waiting |
-| **ACTIVE:** Restrict door to 90° | [[Yorktown-DPW]] | Before stucco hits door |
-| **ACTIVE:** LG Plumbing — raise copper lines | [[Yorktown-DPW]] | Before ceiling grid goes up |
-| **ACTIVE:** Hanover Electric — remove conduit | [[Yorktown-DPW]] | Before stucco starts |
-| **ACTIVE:** Tectonic crew Friday 7am | [[Mamaroneck-Parks]] | CRITICAL — corners and retaining walls |
+| **ACTIVE:** Call Billy Cerutti — get into Ardsley | [[Ardsley-High-School]] | ✅ GOT ACCESS |
+| **ACTIVE:** Stucco color approval from Bob | [[Yorktown-DPW]] | 🔴 URGENT — Bob must approve TODAY |
+| **ACTIVE:** Restrict door to 90° | [[Yorktown-DPW]] | 🔴 STILL OPEN |
+| **ACTIVE:** Tectonic crew Friday 7am | [[Mamaroneck-Parks]] | 🔴 TOMORROW — CRITICAL |
+| **DONE:** Timmy re-digging weeping pit | [[Yorktown-DPW]] | ✅ IN PROGRESS |
+| **DONE:** Dorothy (Tumen) schedule | [[Ardsley-High-School]] | 🔴 FOLLOW UP — missing signs |
+
+## ✅ FIELD ACTIVITIES — April 2 (from Nick's report)
+| Site | Activity | Status |
+|------|---------|--------|
+| Ardsley HS | Got access via Billy Cerutti ✅ | ✅ DONE |
+| Ardsley HS | Met Oliver (Tumen) — no plans | ✅ Resolved |
+| Ardsley HS | Marked sign locations for Oliver | ✅ DONE |
+| Ardsley HS | Conference call with Bob + Dorothy (Tumen) re: missing signs | ✅ DONE |
+| Yorktown | Timmy re-digging weeping pit | 🟡 IN PROGRESS |
+| Yorktown | Gravel + pipe insulation picked up at Lowe's | ✅ DONE |
+| Yorktown | Stucco color sample STILL waiting for Bob approval | 🔴 BLOCKED |
+| Yorktown | Northeast Sprinkler CONFIRMED April 7 | ✅ DONE |
 
 ---
 

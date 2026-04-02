@@ -12,9 +12,9 @@ tags:
   - #change-order
   - #punchlist
 created: 2026-03-27
-modified: 2026-04-01
+modified: 2026-04-02
 type: master-todo
-date: 2026-04-01
+date: 2026-04-02
 ---
 
 # MASTER-TODO
@@ -39,11 +39,13 @@ date: 2026-04-01
 - [ ] #priority-critical **RFI-Y-7: Gas line in kitchen wall** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~10 DAYS OVERDUE
 - [ ] #priority-critical **RFI-Y-9: Door D8 condition** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~10 DAYS OVERDUE
 - [ ] #priority-critical **EIFS pan flashing coordination** | [[Yorktown DPW]] | #EIFS | [[Bob Camilli]] to call [[David Tetro]] when ready
-- [ ] #priority-critical **Northeast Sprinkler on site** | [[Yorktown DPW]] | #FireSuppression | DATE NOT CONFIRMED — blocks ceiling close
-- [ ] #priority-critical **Exterior lighting rough-in** | [[Yorktown DPW]] | #Electrical | [[Hanover Electric]] — blocks [[Andrew/AWS]] stucco
-- [ ] #priority-critical **Drip edge removal** | [[Yorktown DPW]] | #Stucco | [[Andrew/AWS]] — blocks stucco
-- [ ] #priority-critical **Get full plans to Katarina Legener (Tectonic)** | [[Mamaroneck Parks]] | #Survey | **URGENT**
-- [ ] #priority-high **Sheetrock break room** | [[Yorktown DPW]] | #Carpentry | 🔴 IN PROGRESS — finishing TODAY April 1
+- [ ] #priority-critical **Stucco color approval from Bob** | [[Yorktown DPW]] | #Stucco | Bob must approve Andrew Luzzi's color sample TODAY — blocks ALL stucco work
+- [ ] #priority-critical **Restrict door to 90°** | [[Yorktown DPW]] | #Stucco | Door opens 180° — will hit stucco/base when installed — must restrict before AWS starts
+- [ ] #priority-critical **Contact ABM Mechanical** | [[Yorktown DPW]] | #HVAC | ERV ductwork + condensate drain — STILL NOT CONTACTED
+- [ ] #priority-critical **Northeast Sprinkler on site** | [[Yorktown DPW]] | #FireSuppression | ✅ CONFIRMED — Tuesday April 7th — blocks ceiling close
+- [ ] #priority-critical **RFI-Y-7: Gas line in kitchen wall** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~12 DAYS OVERDUE
+- [ ] #priority-critical **RFI-Y-9: Door D8 condition** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~12 DAYS OVERDUE
+- [ ] #priority-high **Sheetrock break room** | [[Yorktown DPW]] | #Carpentry | 🟡 IN PROGRESS
 - [ ] #priority-high **Window trim** (J-bead or break-away tape) | [[Yorktown DPW]] | #Carpentry
 - [ ] #priority-high **Floor grinding** at bunk/break room doorway | [[Yorktown DPW]] | #General | 1/2" diff
 - [ ] #priority-high **W8 formal CO** | [[Yorktown DPW]] | #ChangeOrder
@@ -70,7 +72,7 @@ date: 2026-04-01
 
 ### Mamaroneck Parks
 
-- [ ] #priority-critical **Get full plans to Katarina (Tectonic)** | [[Mamaroneck Parks]] | #Survey | **URGENT** — Tectonic crew Friday April 3 at 7 AM
+- [x] #para-archives ✅ **Get full plans to Katarina (Tectonic)** | [[Mamaroneck Parks]] | ✅ DELIVERED — Bob gave plans to Katarina
 - [x] #para-archives ✅ **Groundbreaking ceremony** | [[Mamaroneck Parks]] | 2026-03-30
 - [x] #para-archives ✅ **SOV APPROVED** | [[Mamaroneck Parks]] | 2026-03-26
 - [x] #para-archives ✅ **CAD drawings to Tectonic** | [[Mamaroneck Parks]] | 2026-03-26
@@ -79,25 +81,29 @@ date: 2026-04-01
 - [x] #para-archives ✅ **Abatement 100%** | [[Mamaroneck Parks]] | 2026-03-25
 - [x] #para-archives ✅ **Demolition 100%** | [[Mamaroneck Parks]] | 2026-03-19
 - [x] #para-archives ✅ **Tectonic site visit** | [[Mamaroneck Parks]] | 2026-03-31
+- [ ] #priority-critical **Tectonic crew Friday 7am** | [[Mamaroneck Parks]] | #Survey | 🔴 TOMORROW — 7:00 AM sharp
 
 ### Ardsley Signs
 
-- [ ] #priority-high **Ardsley sign installation** | [[Ardsley]] | RESCHEDULED to Thursday April 2 — need building access via Billy
+- [ ] #priority-critical **Missing signage from Tumen** | [[Ardsley]] | 7× Type C + 9× Type WV signs missing — Dorothy to provide revised schedule
+- [ ] #priority-high **Ardsley sign installation** | [[Ardsley]] | RESCHEDULED — Tumen to contact with new date (around school hours)
+- [x] #para-archives ✅ **Building access via Billy Cerutti** | [[Ardsley]] | ✅ GOT ACCESS April 2
+- [x] #para-archives ✅ **Sign locations marked** | [[Ardsley]] | ✅ Nick marked locations April 2
+- [x] #para-archives ✅ **Emergency evacuation plan signs** | [[Ardsley]] | ✅ REMOVED FROM SCOPE per shop drawings
 
 ---
 
-## 📅 APRIL 1 — TODAY / UPCOMING
+## 📅 APRIL 2-3 — TODAY / UPCOMING
 
 | Date | Event | Project | Status |
 |------|-------|---------|--------|
-| **April 1 (Wed) — TODAY** | Spruce: start ceilings (both rooms) | Yorktown | 🔴 ACTIVE |
-| **April 1 (Wed) — TODAY** | Fix bottom 4" sheetrock (kitchen wall, bunk room) | Yorktown | 🔴 ACTIVE |
-| **April 1 (Wed) — TODAY** | Redo level spreader / weeping pit (per David Tetro dimensions) | Yorktown | 🔴 ACTIVE |
-| **April 1 (Wed) — TODAY** | Copper pipe insulation (hot/cold water lines — bunk room, break room) | Yorktown | 🔴 ACTIVE |
-| **April 1 (Wed) — TODAY** | 2x2 panel lights arriving | Yorktown | 🟡 INCOMING |
-| **April 2 (Thu)** | Ardsley sign installation | Ardsley |
-| **April 2 (Thu)** | 2x2 emergency lights arrive | Yorktown |
-| **April 3 (Fri), 7:00 AM** | Tectonic crew — stake building + retaining walls | Mamaroneck Parks |
+| **April 2 (Thu) — TODAY** | Bob approve stucco color | Yorktown | 🔴 URGENT — blocks AWS stucco |
+| **April 2 (Thu) — TODAY** | Restrict door to 90° | Yorktown | 🔴 URGENT — blocks stucco |
+| **April 2 (Thu) — TODAY** | Timmy re-dig weeping pit | Yorktown | 🟡 IN PROGRESS |
+| **April 2 (Thu) — TODAY** | Dorothy (Tumen) to call with revised sign schedule | Ardsley | 🔴 FOLLOW UP |
+| **April 2 (Thu) — TODAY** | 2x2 emergency lights arrive | Yorktown | 🟡 INCOMING |
+| **April 3 (Fri), 7:00 AM** | Tectonic crew — stake building + retaining walls | Mamaroneck Parks | 🔴 CRITICAL |
+| **April 7 (Tue)** | Northeast Sprinkler on site | Yorktown | ✅ CONFIRMED |
 | **April 9 (TBD)** | Next Construction Progress Meeting | Parks |
 
 ---
@@ -181,5 +187,4 @@ date: 2026-04-01
 
 ---
 
-*MASTER-TODO UPDATED: 2026-04-01 06:35 EDT | Source: Daily Truth 2026-03-31, subagent outputs*
-*CORRECTION 2026-04-01 REVERSED: The prior "correction" claiming Timmy was a fabrication was WRONG. Nick's original Daily Truth explicitly names Timmy. Level spreader entry corrected — Timmy restored. The original removal was my error.*
+*MASTER-TODO UPDATED: 2026-04-02 | Source: Daily Truth 2026-04-02, Nick's field notes*

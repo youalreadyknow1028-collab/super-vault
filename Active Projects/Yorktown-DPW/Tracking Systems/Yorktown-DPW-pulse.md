@@ -1,7 +1,6 @@
 # 📍 YORKTOWN DPW PULSE — Complete History
 ## 281 Underhill Avenue, Yorktown Heights, NY
-**Last Updated:** 2026-03-31 23:55 EDT  
-**Tracker Status:** ACTIVE — Active Construction  
+**Last Updated:** 2026-04-02 (April 2 entries added)  
 **Maintained by:** Supervisor (@super)
 
 ---
@@ -27,6 +26,22 @@
 ---
 
 ## 📋 COMPLETE PROJECT HISTORY (Chronological)
+
+### APRIL 2026
+
+#### 2026-04-02 — TODAY
+| Time | Event | Source | Status |
+|------|-------|--------|--------|
+| AM | Timmy on site — re-digging weeping pit to David Tetro dimensions | Daily Truth | 🟡 IN PROGRESS |
+| AM | Timmy went to Lowe's 9am — picked up gravel + pipe insulation | Daily Truth | ✅ DONE |
+| AM | Advanced Wall Systems stucco work STALLED — Bob hasn't approved color sample | Daily Truth | 🔴 BLOCKED |
+| AM | Door restriction 180° still not resolved | Daily Truth | 🔴 PENDING |
+| AM | Northeast Sprinkler CONFIRMED — Tuesday April 7th | Daily Truth | ✅ CONFIRMED |
+
+**Tomorrow's Plan (April 3):**
+- Check Timmy's weeping pit
+- Continue stucco if Advanced Wall Systems can start (waiting on Bob color approval)
+- Awaiting ABM Mechanical contact for ERV ductwork + condensate
 
 ### MARCH 2026
 
@@ -157,9 +172,10 @@
 ## 🔴 CURRENT BLOCKERS
 | Blocker | Identified | Blocks | Status |
 |---------|------------|--------|--------|
-| **Sprinkler date unconfirmed** | 2026-03-31 | Ceiling close — cannot finish | 🔴 UNCONFIRMED |
-| **Level spreader / weeping pit** | 2026-03-31 | stormwater system | 🔴 NEEDS REDO |
-| **Bump out around heater pipe** | 2026-03-31 | CO in progress | 🟡 IN PROGRESS |
+| **Stucco color approval** | 2026-04-02 | AWS stucco cannot start | 🔴 BOB MUST APPROVE TODAY |
+| **Door restriction 180°** | 2026-04-02 | Door will hit stucco/base | 🔴 MUST RESOLVE |
+| **Level spreader / weeping pit** | 2026-03-31 | stormwater system | 🔴 TIMMY RE-DOING |
+| **ABM Mechanical contact** | 2026-04-02 | ERV ductwork + condensate | 🔴 NOT CONTACTED YET |
 | RFI-Y-7: Gas line | 2026-03-20 | Scope | 🔴 PENDING |
 | RFI-Y-8: Roof drains | 2026-03-20 | Waterproofing | 🔴 PENDING |
 | RFI-Y-9: Door D8 | 2026-03-20 | ADA/Code | 🔴 PENDING |
@@ -202,19 +218,18 @@
 
 ---
 
-## 📋 TOMORROW'S FOLLOW-UPS (April 1)
+## 📋 TOMORROW'S FOLLOW-UPS (April 3)
 | Item | Action | Owner | Status |
 |------|--------|-------|--------|
-| Ceilings — both rooms | Spruce starts ceilings | Spruce Contracting | 📅 APR 01 |
-| Bottom 4" sheetrock fix | Kitchen wall + bunk room (concrete curb issue) | Spruce Contracting | 📅 APR 01 |
-| Structolite + spackle | Pack bottom 4" where concrete curb kicks out sheetrock | Spruce Contracting | 📅 APR 01 |
-| Copper pipe insulation | Hot and cold water lines in bunk room and break room | Spruce/TBD | 📅 APR 01 |
-| Level spreader / weeping pit | Redo with proper dimensions per David Tetro | Nick / Timmy | 📅 APR 01 |
-| 2x2 panel lights | Arriving — coordinate installation | Hanover Electric | 📅 APR 01 |
-| Sprinkler date | Confirm date — BLOCKS ceiling close | Northeast Sprinkler | 🔴 FOLLOW UP |
-| Water issue | Monitor break room floor — abandoned drain + roof leak | Nick | 🔴 MONITOR |
+| Check Timmy's weeping pit | Verify proper dimensions per David Tetro | Nick | 📅 APR 03 |
+| Stucco work | AWS can start once Bob approves color | Bob / AWS | 🔴 URGENT |
+| Door restriction | Restrict door to 90° before stucco | Nick | 🔴 URGENT |
+| Copper pipe insulation | Hot and cold lines — materials on site | Nick / Timmy | 📅 APR 03 |
+| Bottom 4" sheetrock fix | Kitchen wall bunk room — pack structolite + spackle | Spruce | 📅 APR 03 |
+| Northeast Sprinkler | Confirmed Tuesday April 7th | Northeast Sprinkler | ✅ CONFIRMED |
+| ABM Mechanical | Contact for ERV ductwork + condensate drain | Nick | 🔴 FOLLOW UP |
 
 ---
 
-**Last Updated:** 2026-03-31 23:55 EDT  
+**Last Updated:** 2026-04-02  
 **Agent:** Supervisor (@super)
