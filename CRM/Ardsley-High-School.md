@@ -23,15 +23,15 @@ aliases:
 - 📞 Phone: TBD
 - 🏢 Organization: Ardsley High School
 - 💼 Role: Client / End User
-- Primary Contact: [[Billy-Cerutti]] (sign installation)
+- Primary Contact: [[Billy-Cerutti]] (Custodian — (845) 551-4447)
 
 ---
 
 ## CONTACTS AT THIS ORGANIZATION
 
-| Contact | Role |
-|---------|------|
-| [[Billy-Cerutti]] | Sign installation contractor — access point to school |
+| Contact | Role | Contact Info |
+|---------|------|--------------|
+| [[Billy-Cerutti]] | Custodian — access point to school | 📱 (845) 551-4447 📧 bcerutti@ardsleyschools.org |
 
 ---
 
