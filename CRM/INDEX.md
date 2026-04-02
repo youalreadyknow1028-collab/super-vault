@@ -6,202 +6,237 @@ tags:
   - #contacts
   - #super
 created: 2026-03-27
-modified: 2026-03-27
+modified: 2026-04-01
 type: crm-index
 ---
 
-# CRM INDEX — All Contacts
+# CRM INDEX — All Contacts & Organizations
 
 > [!info]+ SYSTEM INFO
-> Master CRM for the Exocortex Hive Mind.
+> Master CRM index for the Exocortex Hive Mind.
 > Managed by: [[Supervisor]] / [[Nick Flanagan]]
-> Last full extraction: 2026-03-27
-> Source agents: Master-Enhancer, Contacts-Enhancer, TechDocs-Enhancer
+> Last full update: 2026-04-01
+> Source: Deep research across all Bob Reports, Daily Logs, Daily Truth, and emails
+> Total entries: 48 CRM files
 
 ---
 
-## 👥 PEOPLE (35 contacts)
+## 🏷️ Hashtag Taxonomy
 
-| Name | Role | Organization | Projects | Email |
-|------|------|-------------|----------|-------|
-| [[Alex]] | Tietjen PE | — | — | — |
-| [[Andrew]] | Stucco/Exterior Cladding - Advanced Wall Systems | [[Yorktown DPW]] | [[Yorktown DPW]] | — |
-| [[Andrew (Advanced Wall Systems)]] | Stucco contractor | — | — | — |
-| [[Anne Anderson]] | Electrician contact | [[Yorktown DPW]] | [[Yorktown DPW]] | — |
-| [[Billy (Ardsley Signs)]] | Signs vendor | — | — | — |
-| [[Bob Camilli]] | Owner - Peter Camilli & Sons | — | [[Mamaroneck Parks]] [[Yorktown DPW]] | peter.camilli@verizon.net |
-| [[C. Murray]] | Town Official - Mamaroneck | — | — | cmurray@townofmamaroenckny.gov |
-| [[Chaim S.]] | Doors - AL Doors | — | — | chaims@aldoors.net |
-| [[Chris]] | Architect - Lewis + Lewis | [[Mamaroneck Parks]] | [[Mamaroneck Parks]] | chris@lewisandlewisarchitects.com |
-| [[Craig (Roofer)]] | Metal capping and flashing | [[Yorktown DPW]] | [[Yorktown DPW]] | — |
-| [[Daniel Binello]] | Cuono Engineering | — | — | — |
-| [[David]] | Tietjen PE | — | — | — |
-| [[David Paganelli]] | Electrical coordination | [[Yorktown DPW]] | [[Yorktown DPW]] | — |
-| [[David Tetro]] | Architect | — | [[Mamaroneck LMC]] [[Yorktown DPW]] | — |
-| [[Dominic Calgi]] | Owner - Calgi Construction | [[Mamaroneck Parks]] | [[Mamaroneck Parks]] | rprice@calgiconstruction.com |
-| [[Erica Alvarez]] | Civil/Site Engineer - Tietjen PE | [[Mamaroneck Parks]] | [[Mamaroneck Parks]] | erica@tietjenpe.com |
-| [[John Barreto]] | Town Official - Mamaroneck | — | — | jbarreto@townofmamaroneckny.gov |
-| [[Juan (Electrical)]] | Rooftop condenser wiring | — | — | — |
-| [[Katarina Legener]] | Tectonic Survey | [[Mamaroneck Parks]] | [[Mamaroneck Parks]] | — |
-| [[Mark Maliszewski]] | Electrician - Delta Electric | [[Mamaroneck Parks]] | [[Mamaroneck Parks]] | — |
-| [[Melissa Fitter]] | Structural Engineer - Cuono Engineering | [[Mamaroneck Parks]] | [[Mamaroneck Parks]] | mfitter@cuonoengineering.com |
-| [[Mike (Yorktown DPW Foreman)]] | DPW Foreman | — | — | — |
-| [[Mike Perri]] | Town Official - Mamaroneck | [[Town of Mamaroneck]] | — | mperri@townofmamaroneckny.gov |
-| [[Nick Flanagan]] | Site Superintendent | [[Peter Camilli & Sons]] | [[Mamaroneck LMC]] [[Mamaroneck Parks]] [[Yorktown DPW]] | nflanagan1028@aol.com |
-| [[Paige (CAD/Tectonic)]] | CAD drawing release | — | — | paigejlewis@gmail.com |
-| [[Paige Lewis]] | Architect - Lewis + Lewis | [[Mamaroneck Parks]] | [[Mamaroneck Parks]] | chris@lewisandlewisarchitects.com |
-| [[Paul Revans]] | Electrical sub-panel | [[Yorktown DPW]] | [[Yorktown DPW]] | — |
-| [[Richard Polcari]] | Town Official - Mamaroneck | [[Town of Mamaroneck]] | — | rpolcari@townofmamaroneckny.gov |
-| [[Ritchie Price]] | Project Manager - Calgi Construction | [[Mamaroneck Parks]] | [[Mamaroneck Parks]] | rprice@calgiconstruction.com |
-| [[Rob Wasp]] | Westchester Joint Water Works | — | — | rwasp@townofmamaroneckny.gov |
-| [[Robert Wasp]] | Town Official - Mamaroneck | [[Town of Mamaroneck]] | — | rwasp@townofmamaroneckny.gov |
-| [[Sarah KGD]] | KGD Architecture - Punchlist contact | [[Mamaroneck LMC]] | [[Mamaroneck LMC]] | — |
-| [[Steve Munsey (Munsey Glass)]] | Glass and glazing | — | — | — |
-| [[Supervisor]] | Agent - Construction Operations | — | — | — |
-| [[Tracey Arena]] | Calgi Construction | — | — | Tarena@calgiconstruction.com |
+| Hashtag | Use For |
+|---------|---------|
+| #P0-CRITICAL | Bob Camilli, Peter Camilli Sr., Nick Flanagan |
+| #P1-ACTIVE | Active trade contractors (Spruce, Ritchie Price, etc.) |
+| #P2-COMPLETED | Completed scope (Salazar Electric, etc.) |
+| #P3-ONGOING | Workers, laborers |
+| #GC | General Contractor contacts |
+| #Architect | Architects |
+| #Engineer | Engineers |
+| #Town | Municipal/town officials |
+| #Sub | Subcontractors |
+| #Labor | Day laborers |
+| #YorktownDPW | Yorktown DPW project |
+| #MamaroneckParks | Mamaroneck Parks project |
+| #MamaroneckLMC | Mamaroneck LMC project |
+| #Ardsley | Ardsley High School project |
 
 ---
 
-## 🏗️ ORGANIZATIONS (25 orgs)
+## 👥 PEOPLE (36 contacts)
 
-| Organization | Type | Key Contacts | Projects |
-|-------------|------|-------------|----------|
-| [[AL Doors]] | Door supplier | — | [[Mamaroneck Parks]] |
-| [[Advanced Wall Systems]] | Stucco contractor | — | [[Yorktown DPW]] |
-| [[Ardsley-Signs]] | Signage vendor | — | — |
-| [[Buchanan Mechanical]] | Mechanical/HVAC contractor | — | [[Yorktown DPW]] [[Mamaroneck LMC]] |
-| [[Calgi Construction]] | General contractor | — | [[Mamaroneck Parks]] |
-| [[Cuono Engineering]] | Structural Engineering | — | [[Mamaroneck Parks]] |
-| [[Daikin]] | HVAC equipment manufacturer | — | [[Mamaroneck LMC]] |
-| [[Delta Electric]] | Electrical subcontractor | — | [[Mamaroneck Parks]] |
-| [[Habis Electric]] | Electrical subcontractor | — | [[Yorktown DPW]] |
-| [[Hanover Electric]] | Electrical subcontractor | — | [[Yorktown DPW]] |
-| [[Insaren]] | Abatement contractor | — | [[Mamaroneck Parks]] |
-| [[KGD]] | Architecture firm | — | [[Mamaroneck LMC]] |
-| [[Lewis + Lewis Architects]] | Architecture firm | — | [[Mamaroneck Parks]] |
-| [[Mamaroneck LMC]] | Liquid Macro Bar | [[Peter Camilli & Sons]], [[Buchanan Mechanical]], [[Sarah KGD]] | — |
-| [[Mamaroneck Parks]] | Municipal Parks Project | [[Peter Camilli & Sons]], [[Richie-Spruce]], [[Insaren]], [[Katarina Legener]], [[Ritchie Price]] | — |
-| [[Munsey Glass]] | Glass and glazing | — | [[Yorktown DPW]] |
-| [[Neighbor Electric]] | Electrical subcontractor | — | [[Yorktown DPW]] |
-| [[Peter Camilli & Sons]] | General Contractor | [[Nick Flanagan]] | [[Mamaroneck LMC]] [[Yorktown DPW]] [[Mamaroneck Parks]] |
-| [[Richie-Spruce]] | Carpentry vendor | — | [[Yorktown DPW]] [[Mamaroneck Parks]] |
-| [[SendClaw]] | Email API service | — | — |
-| [[Tectonic Survey]] | Surveyor | — | [[Mamaroneck Parks]] |
-| [[Tietjen PE]] | Civil/Site Engineering | — | [[Mamaroneck Parks]] |
-| [[Town of Mamaroneck]] | Municipal government | [[Robert Wasp]], [[Richard Polcari]], [[Mike Perri]] | [[Mamaroneck Parks]] |
-| [[Westchester Joint Water Works]] | Utility | — | — |
-| [[Yorktown DPW]] | Municipal DPW Facility | [[Peter Camilli & Sons]], [[David Paganelli]], [[Anne Anderson]], [[Paul Revans]], [[Habis Electric]] | — |
+### 🔴 P0-CRITICAL (Owner / Superintendent)
 
----
+| Name | Role | Organization | Projects | Email | Wiki |
+|------|------|-------------|----------|-------|------|
+| [[Bob Camilli]] | President / Owner | [[Peter Camilli & Sons Construction Ltd.]] | [[Yorktown DPW]], [[Mamaroneck Parks]], [[Mamaroneck LMC]] | peter.camilli@verizon.net | [[Bob-Camilli]] |
+| [[Robert Camilli]] | Founder | [[Peter Camilli & Sons Construction Ltd.]] | [[Yorktown DPW]], [[Mamaroneck Parks]] | peter.camilli@verizon.net | [[Robert-Camilli]] |
+| [[Nick Flanagan]] | Site Superintendent | [[Peter Camilli & Sons Construction Ltd.]] | [[Yorktown DPW]], [[Mamaroneck Parks]], [[Mamaroneck LMC]] | nflanagan1028@aol.com | [[Nicholas-Flanagan]] |
 
-## 📍 LOCATIONS (6 locations)
+### 🟠 P1-ACTIVE (Project Managers / Architects / Engineers)
 
-| Location | Type | Projects |
-|---------|------|----------|
-| 150 Myrtle Ave | Mamaroneck Parks address | [[Mamaroneck Parks]] |
-| 281 Underhill Avenue | Project address | [[Yorktown DPW]] |
-| Ardsley | Town | — |
-| Mamaroneck | Town | [[Mamaroneck Parks]], [[Mamaroneck LMC]] |
-| Westchester | County | — |
-| Yorktown | Town | [[Yorktown DPW]] |
+| Name | Role | Organization | Projects | Email | Wiki |
+|------|------|-------------|----------|-------|------|
+| [[Ritchie Price]] | Project Manager | [[Calgi Construction]] | [[Mamaroneck Parks]] | rprice@calgiconstruction.com | [[Ritchie-Price]] |
+| [[David Tetro]] | Architect | [[David Tetro Architect P.C.]] | [[Yorktown DPW]], [[Mamaroneck LMC]] | dtetarchitect@gmail.com | [[David-Tetro]] |
+| [[Paul Revans]] | MEP Engineer | [[Paul Revans PE]] | [[Yorktown DPW]] | rdpepc@gmail.com | [[Paul-Revans]] |
+| [[Edison Venegas]] | Civil Engineer | [[Tietjen-Venegas Consulting Engineers]] | [[Mamaroneck Parks]] | evenegas@tietjenvenegas.com | [[Edison-Venegas]] |
+| [[Dominic Calgi]] | Owner | [[Calgi Construction]] | [[Mamaroneck Parks]] | dcalgi@calgiconstruction.com | [[Dominic-Calgi]] |
+| [[Katarina Legener]] | Surveyor | [[Tectonic Surveying]] | [[Mamaroneck Parks]], [[Yorktown DPW]] | klegener@tectonic.com | [[Katarina-Legener]] |
+| [[Robert Wasp]] | Town Engineer | [[Town of Mamaroneck]] | [[Mamaroneck Parks]] | rwasp@townofmamaroneckny.gov | [[Robert-Wasp]] |
+| [[Michael Perri]] | Town Civil Engineer | [[Town of Mamaroneck]] | [[Mamaroneck Parks]] | mperri@townofmamaroneckny.gov | [[Michael-Perri]] |
+| [[Dave Paganelli]] | Town Superintendent | [[Town of Yorktown]] | [[Yorktown DPW]] | dpaganelli@yorktownny.gov | [[Dave-Paganelli]] |
+| [[Anne Anderson]] | Town Clerk | [[Town of Yorktown]] | [[Yorktown DPW]] | aanderson@yorktownny.gov | [[Anne-Anderson]] |
 
----
+### 🟡 P2-ACTIVE TRADES (Subcontractors)
 
-## 🔗 RELATIONSHIPS (56 total)
+| Name | Role | Organization | Projects | Email | Wiki |
+|------|------|-------------|----------|-------|------|
+| [[Richie Puleo]] | Owner | [[Spruce Contracting]] | [[Yorktown DPW]], [[Mamaroneck LMC]] | TBD | [[Richie-Puleo]] |
+| [[Willie Willis]] | Carpenter Foreman | [[Spruce Contracting]] | [[Yorktown DPW]] | TBD | [[Willie-Willis]] |
+| [[Andrew Luzzi]] | EIFS/Stucco | [[Advanced Wall Systems]] | [[Yorktown DPW]] | TBD | [[Andrew-Luzzi]] |
+| [[Juan Salazar]] | Owner / Electrician | [[Salazar Electric Inc]] | [[Mamaroneck LMC]] | TBD | [[Juan-Salazar]] |
+| [[Melissa Fitter]] | Structural Engineer | [[Cuono Engineering]] | [[Mamaroneck Parks]] | mfitter@cuonoengineering.com | [[Melissa-Fitter]] |
+| [[Sarah Dirsa]] | Architect | [[KGD Architecture]] | [[Mamaroneck LMC]] | TBD | [[Sarah-Dirsa]] |
+| [[Billy Cerutti]] | Signs Vendor | [[Ardsley Signs]] | [[Ardsley]] | TBD | [[Billy-Cerutti]] |
+| [[Alex Doong]] | Town Staff | [[Town of Yorktown]] | [[Yorktown DPW]] | TBD | [[Alex-Doong]] |
+| [[Chris Lonegro]] | Town Staff | [[Town of Yorktown]] | [[Yorktown DPW]] | TBD | [[Chris-Lonegro]] |
 
-| From | Relationship | To | Confidence |
-|------|-------------|----|-----------|
-| [[281 Underhill Avenue]] | RELATED_TO | [[Yorktown DPW]] | 95% |
-| [[Advanced Wall Systems]] | WORKS_ON | [[Yorktown DPW]] | 90% |
-| [[Andrew]] | WORKS_ON | [[Yorktown DPW]] | 85% |
-| [[Anne Anderson]] | WORKS_ON | [[Yorktown DPW]] | 90% |
-| [[Bob Camilli]] | IS_OWNER_OF | [[Peter Camilli & Sons]] | 99% |
-| [[Bob Camilli]] | IS_OWNER_OF | [[Yorktown DPW]] | 95% |
-| [[Bob Camilli]] | IS_OWNER_OF | [[Mamaroneck Parks]] | 95% |
-| [[Bob Camilli]] | REQUESTED_BY | [[Nick Flanagan]] | 90% |
-| [[Buchanan Mechanical]] | WORKS_ON | [[Yorktown DPW]] | 90% |
-| [[Buchanan Mechanical]] | WORKS_ON | [[Mamaroneck LMC]] | 90% |
-| [[Chris]] | WORKS_ON | [[Mamaroneck Parks]] | 90% |
-| [[Craig (Roofer)]] | WORKS_ON | [[Yorktown DPW]] | 85% |
-| [[Daikin]] | SUPPLIES | [[Mamaroneck LMC]] | 90% |
-| [[David Paganelli]] | WORKS_ON | [[Yorktown DPW]] | 90% |
-| [[David Paganelli]] | WORKS_FOR | [[Yorktown DPW]] | 85% |
-| [[David Tetro]] | IS_ARCHITECT_FOR | [[Yorktown DPW]] | 99% |
-| [[David Tetro]] | IS_ARCHITECT_FOR | [[Mamaroneck LMC]] | 99% |
-| [[David Tetro]] | APPROVED_BY | [[RFI-Y-3]] | 90% |
-| [[David Tetro]] | IS_ARCHITECT_FOR | [[Highway Addition Drawings]] | 95% |
-| [[Dominic Calgi]] | OWNS | [[Calgi Construction]] | 95% |
-| [[Dominic Calgi]] | WORKS_ON | [[Mamaroneck Parks]] | 90% |
-| [[Erica Alvarez]] | WORKS_ON | [[Mamaroneck Parks]] | 90% |
-| [[Habis Electric]] | WORKS_ON | [[Yorktown DPW]] | 95% |
-| [[Hanover Electric]] | WORKS_ON | [[Yorktown DPW]] | 95% |
-| [[Highway Addition Drawings]] | RELATED_TO | [[Yorktown DPW]] | 95% |
-| [[Insaren]] | WORKS_ON | [[Mamaroneck Parks]] | 90% |
-| [[Katarina Legener]] | WORKS_ON | [[Mamaroneck Parks]] | 85% |
-| [[Mark Maliszewski]] | WORKS_ON | [[Mamaroneck Parks]] | 85% |
-| [[Melissa Fitter]] | WORKS_ON | [[Mamaroneck Parks]] | 90% |
-| [[Mike Perri]] | WORKS_FOR | [[Town of Mamaroneck]] | 95% |
-| [[Munsey Glass]] | WORKS_ON | [[Yorktown DPW]] | 90% |
-| [[Neighbor Electric]] | WORKS_ON | [[Yorktown DPW]] | 90% |
-| [[Nick Flanagan]] | MANAGES | [[Yorktown DPW]] | 99% |
-| [[Nick Flanagan]] | MANAGES | [[Mamaroneck LMC]] | 99% |
-| [[Nick Flanagan]] | MANAGES | [[Mamaroneck Parks]] | 99% |
-| [[Nick Flanagan]] | WORKS_FOR | [[Peter Camilli & Sons]] | 99% |
-| [[Nick Flanagan]] | REQUESTED_BY | [[RFI-Y-3]] | 90% |
-| [[Nick Flanagan]] | USES | [[Supers Notes and Logs/Resources/Daily Log Template]] | 95% |
-| [[Paige Lewis]] | WORKS_ON | [[Mamaroneck Parks]] | 90% |
-| [[Paul Revans]] | WORKS_ON | [[Yorktown DPW]] | 90% |
-| [[Paul Revans]] | WORKS_FOR | [[Yorktown DPW]] | 85% |
-| [[Peter Camilli & Sons]] | FUNDED_BY | [[Bob Camilli]] | 95% |
-| [[Peter Camilli & Sons]] | WORKS_ON | [[Yorktown DPW]] | 99% |
-| [[Peter Camilli & Sons]] | WORKS_ON | [[Mamaroneck LMC]] | 99% |
-| [[Peter Camilli & Sons]] | WORKS_ON | [[Mamaroneck Parks]] | 99% |
-| [[RFI-Y-3]] | RELATED_TO | [[Yorktown DPW]] | 95% |
-| [[Richard Polcari]] | WORKS_FOR | [[Town of Mamaroneck]] | 95% |
-| [[Richie-Spruce]] | WORKS_ON | [[Yorktown DPW]] | 90% |
-| [[Richie-Spruce]] | WORKS_ON | [[Mamaroneck Parks]] | 90% |
-| [[Ritchie Price]] | WORKS_ON | [[Mamaroneck Parks]] | 90% |
-| [[Robert Wasp]] | WORKS_FOR | [[Town of Mamaroneck]] | 95% |
-| [[Sarah KGD]] | WORKS_ON | [[Mamaroneck LMC]] | 85% |
-| [[Supervisor]] | GENERATES | [[Supers Notes and Logs/Resources/Daily Log Template]] | 95% |
-| [[Supervisor]] | PERFORMS | [[Comprehensive File Audit]] | 90% |
-| [[Yorktown DPW]] | LOCATED_AT | [[281 Underhill Avenue]] | 99% |
-| [[super_nick@sendclaw.com]] | USES | [[SendClaw]] | 99% |
+### 🟢 P3-ONGOING (Workers / Day Labor)
+
+| Name | Role | Organization | Projects | Email | Wiki |
+|------|------|-------------|----------|-------|------|
+| [[Timmy Fudale]] | Day Laborer | [[Peter Camilli & Sons]] | [[Yorktown DPW]] | TBD | [[Timmy-Fudale]] |
+| [[Anthony Puleo]] | Ceiling Grid / Drywall | [[Spruce Contracting]] | [[Yorktown DPW]] | TBD | [[Anthony-Puleo]] |
+
+### ⚪ P4-COMPLETED / INACTIVE
+
+| Name | Role | Organization | Projects | Email | Wiki |
+|------|------|-------------|----------|-------|------|
+| [[Ivan Tymchak]] | Abatement | [[Insaren]] | [[Mamaroneck Parks]] | TBD | [[Ivan-Tymchak]] |
+| [[Carol Murray]] | Town Official | [[Town of Mamaroneck]] | [[Mamaroneck Parks]] | cmurray@townofmamaroneckny.gov | [[Carol-Murray]] |
+| [[Mark Maliszewski]] | Electrician | [[Delta Electric]] | [[Mamaroneck Parks]] | TBD | [[Mark-Maliszewski]] |
+| [[Daniel Binello]] | Concrete | [[Binello Concrete]] | [[Mamaroneck LMC]] | TBD | [[Daniel-Binello]] |
+| [[Dorian DeLaurentiis]] | Structural | [[Cuono Engineering]] | [[Mamaroneck Parks]] | TBD | [[Dorian-DeLaurentiis]] |
+| [[Tracey Arena]] | Project Manager | [[Calgi Construction]] | [[Mamaroneck Parks]] | tarena@calgiconstruction.com | [[Tracey-Arena]] |
+| [[Mike Dubovsky]] | Town Official | [[Town of Mamaroneck]] | [[Mamaroneck Parks]] | TBD | [[Mike-Dubovsky]] |
+| [[David Muratore]] | Building Official | [[Mamaroneck Building Dept]] | [[Mamaroneck Parks]] | TBD | [[David-Muratore]] |
 
 ---
 
-## 📊 CRM STATS
+## 🏗️ ORGANIZATIONS (27 orgs)
 
-| Category | Count |
-|----------|-------|
-| People | 35 |
-| Organizations | 25 |
-| Locations | 6 |
-| Email addresses | 18 |
-| Relationships | 56 |
-| Individual contact files | 35 |
-
----
-
-## 📁 CRM FILES
-
-Individual contact files are stored at:
-`notes/CRM/[Name].md`
-
-Quick links:
-- [[Nick Flanagan]] — Site Superintendent
-- [[Bob Camilli]] — Owner
-- [[David Tetro]] — Architect
-- [[Peter Camilli & Sons]] — General Contractor
-- [[Yorktown DPW]] — Project
-- [[Mamaroneck LMC]] — Project
-- [[Mamaroneck Parks]] — Project
-
-## BACKLINKS
-- [[MASTER-TODO]] — master coordination
-- [[Supervisor]] — agent reference
-- [[CONTACTS]] — CRM source file
+| Organization | Type | Key Contacts | Projects | Phone | Wiki |
+|-------------|------|-------------|----------|-------|------|
+| [[Peter Camilli & Sons Construction Ltd.]] | GC | [[Bob Camilli]], [[Nick Flanagan]], [[Robert Camilli]] | [[Yorktown DPW]], [[Mamaroneck Parks]], [[Mamaroneck LMC]] | (914) 769-1164 | [[Peter-Camilli-Sons]] |
+| [[Calgi Construction]] | CM | [[Ritchie Price]], [[Dominic Calgi]], [[Tracey Arena]] | [[Mamaroneck Parks]] | 914-500-3824 | [[Calgi-Construction-Company-Inc]] |
+| [[Spruce Contracting]] | Carpentry | [[Richie Puleo]], [[Willie Willis]], [[Anthony Puleo]] | [[Yorktown DPW]], [[Mamaroneck LMC]] | TBD | [[Spruce-Contracting]] |
+| [[Advanced Wall Systems]] | EIFS/Stucco | [[Andrew Luzzi]] | [[Yorktown DPW]] | TBD | [[Advanced-Wall-Systems]] |
+| [[Salazar Electric Inc]] | Electrical | [[Juan Salazar]] | [[Mamaroneck LMC]] | (914) 382-7771 | [[Salazar-Electric-Inc]] |
+| [[David Tetro Architect P.C.]] | Architecture | [[David Tetro]] | [[Yorktown DPW]], [[Mamaroneck LMC]] | TBD | [[David-Tetro]] |
+| [[Paul Revans PE]] | MEP Engineering | [[Paul Revans]] | [[Yorktown DPW]] | 914-222-0397 | [[Paul-Revans]] |
+| [[Tietjen-Venegas Consulting Engineers]] | Civil Engineering | [[Edison Venegas]] | [[Mamaroneck Parks]] | TBD | [[Tietjen-Venegas-Consulting-Engineers]] |
+| [[Tectonic Surveying]] | Surveying | [[Katarina Legener]] | [[Mamaroneck Parks]], [[Yorktown DPW]] | TBD | [[Katarina-Legener]] |
+| [[Lewis + Lewis Architects]] | Architecture | [[Paige Lewis]] | [[Mamaroneck Parks]] | TBD | [[Lewis-Lewis-Architects]] |
+| [[Cuono Engineering]] | Structural Engineering | [[Melissa Fitter]], [[Dorian DeLaurentiis]] | [[Mamaroneck Parks]] | TBD | [[Melissa-Fitter]] |
+| [[KGD Architecture]] | Architecture | [[Sarah Dirsa]] | [[Mamaroneck LMC]] | TBD | [[Sarah-Dirsa]] |
+| [[Town of Mamaroneck]] | Municipal | [[Robert Wasp]], [[Michael Perri]], [[Carol Murray]], [[Mike Dubovsky]], [[David Muratore]] | [[Mamaroneck Parks]] | TBD | [[Town-of-Mamaroneck]] |
+| [[Town of Yorktown]] | Municipal | [[Dave Paganelli]], [[Anne Anderson]], [[Alex Doong]], [[Chris Lonegro]] | [[Yorktown DPW]] | TBD | [[Town-of-Yorktown]] |
+| [[Insaren]] | Abatement | [[Ivan Tymchak]] | [[Mamaroneck Parks]] | TBD | [[Ivan-Tymchak]] |
+| [[LG Plumbing]] | Plumbing | TBD | [[Yorktown DPW]] | TBD | [[LG-Plumbing]] |
+| [[Delta Electric]] | Electrical | [[Mark Maliszewski]] | [[Mamaroneck Parks]] | TBD | [[Mark-Maliszewski]] |
+| [[Binello Concrete]] | Concrete | [[Daniel Binello]] | [[Mamaroneck LMC]] | TBD | [[Daniel-Binello]] |
+| [[Ardsley Signs]] | Signs | [[Billy Cerutti]] | [[Ardsley]] | TBD | [[Billy-Cerutti]] |
 
 ---
 
-*CRM generated: 2026-03-27 | Exocortex Hive Mind | Built by CRM Swarm (Master-Enhancer + Contacts-Enhancer + TechDocs-Enhancer)*
+## 📍 LOCATIONS / PROJECTS (6 locations)
+
+| Location | Type | GC | Architect | Engineer | Key Subs | Wiki |
+|---------|------|-----|-----------|----------|----------|------|
+| [[Yorktown DPW]] | Municipal Garage Renovation | [[Peter Camilli & Sons]] | [[David Tetro]] | [[Paul Revans]] | [[Spruce Contracting]], [[Advanced Wall Systems]], [[LG Plumbing]] | [[Yorktown-DPW]] |
+| [[Mamaroneck Parks]] | Municipal Sign Shop | [[Peter Camilli & Sons]] | [[Lewis + Lewis]], [[Edison Venegas]] | [[Tectonic Survey]] | [[Calgi Construction]], [[Insaren]] | [[Mamaroneck-Parks]] |
+| [[Mamaroneck LMC]] | Liquor Macro Bar Renovation | [[Peter Camilli & Sons]] | [[KGD Architecture]] | [[David Tetro]] | [[Salazar Electric]], [[Spruce Contracting]] | [[Mamaroneck-LMC]] |
+| [[Ardsley High School]] | School Renovation | [[Peter Camilli & Sons]] | TBD | TBD | [[Ardsley Signs]] | [[Ardsley]] |
+
+---
+
+## 🔗 RELATIONSHIP MAP (Key Connections)
+
+```
+[[Bob Camilli]] ──President──▶ [[Peter Camilli & Sons Construction Ltd.]]
+    │
+    ├─── SUPERVISES ──▶ [[Nick Flanagan]]
+    ├─── OVERSEES ────▶ [[Yorktown DPW]]
+    ├─── OVERSEES ────▶ [[Mamaroneck Parks]]
+    └─── OVERSEES ────▶ [[Mamaroneck LMC]]
+
+[[Nick Flanagan]] ──COORDINATES──▶ [[Richie Puleo]] (Spruce Contracting)
+    ├─── COORDINATES ──▶ [[Juan Salazar]] (Salazar Electric)
+    ├─── COORDINATES ──▶ [[Andrew Luzzi]] (AWS)
+    ├─── COORDINATES ──▶ [[Timmy Fudale]] (Labor)
+    └─── WORKS_WITH ──▶ [[Anthony Puleo]]
+
+[[Ritchie Price]] ──PM──▶ [[Mamaroneck Parks]]
+    └─── WORKS_WITH ──▶ [[Katarina Legener]], [[Edison Venegas]], [[Robert Wasp]]
+
+[[David Tetro]] ──ARCHITECT──▶ [[Yorktown DPW]], [[Mamaroneck LMC]]
+    └─── COORDINATES ──▶ [[Paul Revans]], [[Andrew Luzzi]]
+
+[[Paul Revans]] ──MEP──▶ [[Yorktown DPW]]
+    └─── PROVIDES_RFIS ──▶ [[Bob Camilli]]
+```
+
+---
+
+## 🔴 CRITICAL ONTOLOGY RELATIONSHIPS
+
+| Subject | Relationship | Object |
+|---------|-------------|--------|
+| [[Bob Camilli]] | IS_PRESIDENT_OF | [[Peter Camilli & Sons Construction Ltd.]] |
+| [[Nick Flanagan]] | IS_SUPERINTENDENT_AT | [[Peter Camilli & Sons Construction Ltd.]] |
+| [[Richie Puleo]] | IS_OWNER_OF | [[Spruce Contracting]] |
+| [[Andrew Luzzi]] | PERFORMS_EIFS_AT | [[Yorktown DPW]] |
+| [[Juan Salazar]] | IS_OWNER_OF | [[Salazar Electric Inc]] |
+| [[Anthony Puleo]] | IS_BROTHER_OF | [[Richie Puleo]] |
+| [[Anthony Puleo]] | PERFORMS_CEILING_WORK_FOR | [[Spruce Contracting]] |
+| [[Willie Willis]] | IS_FOREMAN_FOR | [[Spruce Contracting]] |
+| [[Timmy Fudale]] | PERFORMS_LABOR_AT | [[Yorktown DPW]] |
+| [[Ritchie Price]] | IS_PM_FOR | [[Calgi Construction]] |
+| [[Dave Paganelli]] | IS_SUPERINTENDENT_OF | [[Town of Yorktown]] |
+| [[Robert Wasp]] | IS_TOWN_ENGINEER_OF | [[Town of Mamaroneck]] |
+
+---
+
+## 📋 CRM FILE INVENTORY
+
+| File | Type | Status |
+|------|------|--------|
+| [[Bob-Camilli]] | contact | ✅ Updated 2026-04-01 |
+| [[Robert-Camilli]] | contact | ✅ |
+| [[Nicholas-Flanagan]] | contact | ✅ |
+| [[Ritchie-Price]] | contact | ✅ |
+| [[David-Tetro]] | contact | ✅ |
+| [[Paul-Revans]] | contact | ✅ |
+| [[Edison-Venegas]] | contact | ✅ |
+| [[Dominic-Calgi]] | contact | ✅ |
+| [[Katarina-Legener]] | contact | ✅ |
+| [[Robert-Wasp]] | contact | ✅ |
+| [[Michael-Perri]] | contact | ✅ |
+| [[Dave-Paganelli]] | contact | ✅ |
+| [[Anne-Anderson]] | contact | ✅ |
+| [[Richie-Puleo]] | contact | ✅ Updated 2026-04-01 |
+| [[Willie-Willis]] | contact | ✅ Updated 2026-04-01 |
+| [[Andrew-Luzzi]] | contact | ✅ Updated 2026-04-01 |
+| [[Juan-Salazar]] | contact | ✅ Updated 2026-04-01 |
+| [[Timmy-Fudale]] | contact | ✅ Updated 2026-04-01 |
+| [[Anthony-Puleo]] | contact | ✅ NEW 2026-04-01 |
+| [[LG-Plumbing]] | organization | ✅ NEW 2026-04-01 |
+| [[Craig-Roofer]] | contact | ✅ NEW 2026-04-01 |
+| [[Salazar-Electric-Inc]] | organization | ✅ Updated 2026-04-01 |
+| [[Spruce-Contracting]] | organization | ✅ Updated 2026-04-01 |
+| [[Peter-Camilli-Sons]] | organization | ✅ |
+| [[Calgi-Construction-Company-Inc]] | organization | ✅ |
+| [[Advanced-Wall-Systems]] | organization | ✅ |
+| [[Billy-Cerutti]] | contact | ✅ |
+| [[Alex-Doong]] | contact | ✅ |
+| [[Chris-Lonegro]] | contact | ✅ |
+| [[Melissa-Fitter]] | contact | ✅ |
+| [[Sarah-Dirsa]] | contact | ✅ |
+| [[Ivan-Tymchak]] | contact | ✅ |
+| [[Carol-Murray]] | contact | ✅ |
+| [[Mark-Maliszewski]] | contact | ✅ |
+| [[Daniel-Binello]] | contact | ✅ |
+| [[Dorian-DeLaurentiis]] | contact | ✅ |
+| [[Tracey-Arena]] | contact | ✅ |
+| [[Mike-Dubovsky]] | contact | ✅ |
+| [[David-Muratore]] | contact | ✅ |
+| [[Town-of-Mamaroneck]] | organization | ✅ |
+| [[Town-of-Yorktown]] | organization | ✅ |
+| [[Lewis-Lewis-Architects]] | organization | ✅ |
+| [[Tietjen-Venegas-Consulting-Engineers]] | organization | ✅ |
+| [[Mamaroneck-Town-Engineering]] | organization | ✅ |
+| [[Mamaroneck-Building-Dept]] | organization | ✅ |
+
+---
+
+*PULSE LAST UPDATED: 2026-04-01 | Source: Deep research across all Bob Reports, Daily Logs, Daily Truth, and emails*
