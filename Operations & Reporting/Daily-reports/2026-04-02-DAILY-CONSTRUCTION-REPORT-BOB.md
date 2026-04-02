@@ -192,8 +192,10 @@ No site visit today.
 | [[Dorothy-Tumen]] | Missing signage | Informed — will provide revised installation schedule |
 | [[Bob-Camilli]] | Stucco color | ✅ Color approved — just need to deliver sample for records |
 | [[Northeast Sprinkler]] | Installation date | ✅ CONFIRMED — Tuesday April 7th |
-| [[Manuel-AWS]] | AWS on site | Manuel on site — setting up scaffolding and beginning EIFS |
-| [[Jimmy-Spruce]] | New contact | New contact introduced — working with Anthony on ceiling grid |
+| [[Manuel-AWS]] | AWS on site | Manuel on site — waterproofing applied, tomorrow: paint on membrane |
+| [[Jimmy-Spruce]] | New contact | New contact introduced — ceiling tiles installed in break room ✅ |
+| [[Taub-Flooring]] | Break room floor prep | 🔴 SCHEDULE NEEDED — Anthony to prep break room floor before finish |
+| [[Hanover-Electric]] | Lighting installation | 🔴 SCHEDULE NEEDED — room is dark, need lights to work |
 
 ---
 
@@ -201,14 +203,15 @@ No site visit today.
 
 | Item | Owner | Urgency |
 |------|-------|---------|
-| **Deliver stucco sample to Bob for records** | Nick | 🟡 **TODAY** |
-| **🔴 Restrict door to 90°** | Nick / TBD | 🔴 **CRITICAL — door will hit stucco** |
+| **🔴 Restrict door to 90°** | Nick / TBD | 🔴 **CRITICAL — door will hit stucco base** |
 | **🔴 CONFIRM: Concrete curb on water spreader?** | Bob Camilli | 🔴 **David Tetro specs show curb on one side — do we install it?** |
+| **🔴 Schedule ABM Mechanical** | Nick | 🔴 **CEILING BLOCKER** — cassette heights, ERV ductwork, condensate drains |
+| **🔴 Schedule Taub Flooring (Anthony)** | Nick | 🔴 **Break room floor needs prep before finish** |
+| **🔴 Schedule Hanover Electric — lighting** | Nick | 🔴 **Room is dark — need lights to work** |
 | Dorothy (Tumen) revised schedule | Dorothy | 🔴 HIGH — missing 7 Type C + 9 Type WV signs |
-| ABM Mechanical contact (ERV + condensate) | Nick | 🔴 HIGH |
-| Richie Puleo — shelves/doors date | Richie Puleo | 🔴 HIGH |
-| Shop vac + ladders removal | Nick | 🔴 HIGH |
-| Daikin startup confirmation | Nick | 🟡 MEDIUM |
+| Richie Puleo — shelves/doors date | Richie Puleo | 🟡 MEDIUM |
+| Shop vac + ladders removal | Nick | 🟡 LOW |
+| Deliver stucco sample to Bob for records | Nick | 🟡 **DONE** |
 
 ---
 
@@ -225,7 +228,7 @@ No site visit today.
 
 ## 🌧️ Weather Impact
 
-Rainy, 46°F, ENE 14mph — wet and raw conditions. Limited exterior work possible. Friday looks clear (39–55°F) — good weather window for exterior stucco and Tectonic survey.
+Cool, cloudy — limited impact on interior work. Friday (April 3) looks clear (39–55°F) — good weather window for exterior stucco and Tectonic survey at Mamaroneck Parks.
 
 **Saturday:** 🌧️ Rain returning.
 
@@ -233,14 +236,22 @@ Rainy, 46°F, ENE 14mph — wet and raw conditions. Limited exterior work possib
 
 ## 📅 Tomorrow's Plan (April 3)
 
-- **7:00 AM — TECTONIC CREW AT MAMARONECK PARKS** — elevations, stake building corners + retaining walls (CRITICAL)
-- Deliver stucco sample to Bob for his records
-- Check Timmy's weeping pit — verify proper dimensions per David Tetro
-- AWS stucco work — color ALREADY APPROVED, ready to proceed
-- Restrict door to 90° before stucco work begins
-- Follow up with Dorothy (Tumen) on revised sign installation date
-- Install copper pipe insulation (materials on site)
-- Fix bottom 4" of sheetrock on kitchen wall in bunk room
+**7:00 AM — MAMARONECK PARKS — CRITICAL**
+- Nick: meet Katarina/Tectonic crew at Mamaroneck Parks Department
+- Stake out four corners of the building
+- Stake out retaining walls
+- Establish elevations
+
+**YORKTOWN DPW:**
+- **Manuel/AWS:** Paint on waterproofing membrane
+- **Anthony + Jimmy Spruce:** Install ceiling tiles in bunk room
+- **Spruce spackler:** Finish bunk room 100%, break room 100%, Dave's office 100% — may need Monday for polish (TBD)
+- **Timmy:** Pick up ~10 more bags gravel (has 24, needs ~10 more)
+- **Timmy:** Pick up paint, begin cutting and trim/doors
+- **Timmy:** Paint bunk room once spackler finishes
+- **Timmy:** Insulate copper water lines — kitchen/exterior wall, break room
+- **🔴 STILL PENDING:** Restrict door to 90° before stucco base hits door
+- **🔴 STILL PENDING:** Schedule ABM Mechanical, Taub Flooring, Hanover Electric
 
 ---
 
@@ -249,6 +260,7 @@ Rainy, 46°F, ENE 14mph — wet and raw conditions. Limited exterior work possib
 | Date | Project | Event |
 |------|---------|-------|
 | **April 3 (Fri, 7 AM)** | Mamaroneck Parks | Tectonic crew — CRITICAL |
+| **April 3 (Fri)** | Yorktown DPW | AWS: paint waterproofing membrane; Spruce: ceiling tiles bunk room; spackle finish |
 | **April 7 (Tue)** | Yorktown DPW | Northeast Sprinkler on site |
 | **April 9 (TBD)** | Mamaroneck Parks | Next Construction Progress Meeting |
 

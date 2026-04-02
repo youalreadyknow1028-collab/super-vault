@@ -121,3 +121,50 @@
 
 **Pending for Bob:**
 - Confirm if concrete curb is being installed on one side of water spreader
+
+---
+
+## APRIL 2, 2026 — AFTERNOON / END OF DAY UPDATE
+
+### Yorktown DPW — Work Completed Today
+| Item | Trade | Status |
+|------|-------|--------|
+| Scaffolding set up | Advanced Wall Systems (Manuel) | ✅ DONE |
+| Waterproofing applied to sheathing seams | Advanced Wall Systems (Manuel) | ✅ DONE |
+| Ceiling grid — break room | Spruce (Anthony + Jimmy) | ✅ COMPLETE |
+| Ceiling tiles — break room | Spruce (Anthony + Jimmy) | ✅ INSTALLED |
+| Access door — stormwater cleanout, break room | Spruce (Anthony + Jimmy) | ✅ INSTALLED |
+| Dave Paganelli's office — sanded | Spruce spackler | ✅ DONE — needs polish coat |
+| Bunk room spackle | Spruce spackler | 🟡 95% — one wall needs sanding |
+| Break room spackle | Spruce spackler | 🟡 Needs one more coat + sand + polish in some areas |
+| Window sills — men's and women's room | Spruce | ⏳ NOT STARTED |
+| 4" gap at base of kitchen wall — bunk room | Timmy | ✅ FILLED WITH STRUCTOLITE |
+| Break room debris cleanup | Timmy | ✅ DONE |
+| Gravel pickup | Timmy | 🟡 24 bags picked up — need ~10 more |
+| Copper water lines insulation — kitchen/exterior wall, break room | Timmy | 📅 TOMORROW |
+
+### Coordination / Scheduling Needed
+| Item | Status |
+|------|--------|
+| Taub Flooring — Anthony | 🔴 SCHEDULE — prep break room floor |
+| Hanover Electric — lighting installation | 🔴 SCHEDULE — room is dark, need lights |
+| ABM Mechanical — cassette heights, ERV ductwork, condensate drains | 🔴 STILL BLOCKING ceiling completion |
+| Northeast Sprinkler | ✅ CONFIRMED — Tuesday April 7 |
+
+### Tomorrow — April 3, 2026
+| Time | Person | Task |
+|------|--------|------|
+| Morning | Timmy | Pick up ~10 more bags gravel |
+| Morning | Timmy | Pick up paint, begin cutting and trim/doors |
+| Morning | Timmy | Insulate copper water lines — kitchen, exterior wall, break room |
+| Morning | Nick | Mamaroneck Parks — 7:00 AM — meet Katarina/Tectonic crew, stake out 4 corners + retaining walls |
+| All day | Manuel/AWS | Paint on waterproofing membrane |
+| All day | Spruce (Anthony + Jimmy) | Install ceiling tiles — bunk room |
+| All day | Spruce spackler | Finish bunk room 100%, break room 100%, Dave's office 100% — may need Monday for polish TBD |
+
+### Note on Access Above Ceilings
+Any work above ceilings (ABM, Northeast Sprinkler, Hanover Electric) — Nick will personally remove ceiling tiles as needed for access.
+
+---
+
+**Hashtags:** #yorktown #2026-04-02 #spruce #aws #timmy #advanced-wall-systems #ceiling-grid #break-room #bunk-room

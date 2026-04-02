@@ -264,3 +264,28 @@ Framing, insulation, sheetrock, spackling, ceiling grid, W8 shaft wall assembly
 ---
 
 *PULSE LAST UPDATED: 2026-04-02*
+
+---
+
+### April 2, 2026 — END OF DAY
+**Source:** Nick end-of-day update — April 2, 2026
+
+| Event | Details | Status |
+|-------|---------|--------|
+| Anthony + Jimmy: ceiling grid — break room | COMPLETE | ✅ **DONE** |
+| Anthony + Jimmy: ceiling tiles — break room | INSTALLED | ✅ **DONE** |
+| Anthony + Jimmy: access door — stormwater cleanout, break room | INSTALLED | ✅ **DONE** |
+| Spruce spackler: bunk room | 95% — one wall needs sanding | 🟡 95% |
+| Spruce spackler: Dave Paganelli's office | Sanded — needs polish coat | 🟡 NEEDS POLISH COAT |
+| Spruce spackler: break room | Needs one more coat + sand + polish in some areas | 🟡 IN PROGRESS |
+| Window sills — men's and women's room | NOT STARTED | ⏳ PENDING |
+
+**Tomorrow (April 3):**
+| Person | Task |
+|--------|------|
+| Anthony + Jimmy Spruce | Install ceiling tiles — bunk room |
+| Spruce spackler | Finish bunk room 100%, break room 100%, Dave's office 100% — may need Monday for polish |
+
+---
+
+*PULSE LAST UPDATED: 2026-04-02 EOD*

@@ -46,18 +46,22 @@ date: 2026-04-02
   - 🔴 ERV ductwork: break room + bunk room ceilings
   - 🔴 Cassette height adjustment: 2 cassettes in break room at DIFFERENT heights — MUST match before ceiling tiles
 - [ ] #priority-critical **Northeast Sprinkler on site** | [[Yorktown DPW]] | #FireSuppression | ✅ CONFIRMED — Tuesday April 7th — blocks ceiling close
-- [ ] #priority-critical **RFI-Y-7: Gas line in kitchen wall** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~12 DAYS OVERDUE
-- [ ] #priority-critical **RFI-Y-9: Door D8 condition** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~12 DAYS OVERDUE
-- [ ] #priority-high **Sheetrock break room** | [[Yorktown DPW]] | #Carpentry | 🟡 IN PROGRESS
+- [ ] #priority-critical **Schedule Taub Flooring (Anthony)** | [[Yorktown DPW]] | #Flooring | 🔴 SCHEDULE NOW — break room floor needs prep before finish
+- [ ] #priority-critical **Schedule Hanover Electric — lighting** | [[Yorktown DPW]] | #Electrical | 🔴 SCHEDULE NOW — room is dark, need lights to work
+- [ ] #priority-high **Sheetrock break room** | [[Yorktown DPW]] | #Carpentry | 🟡 95% — one more coat + polish in some areas
+- [ ] #priority-high **Window sills — men's and women's room** | [[Yorktown DPW]] | #Carpentry | Spruce — not started
 - [ ] #priority-high **Window trim** (J-bead or break-away tape) | [[Yorktown DPW]] | #Carpentry
 - [ ] #priority-high **Floor grinding** at bunk/break room doorway | [[Yorktown DPW]] | #General | 1/2" diff
 - [ ] #priority-high **W8 formal CO** | [[Yorktown DPW]] | #ChangeOrder
 - [ ] #priority-high **Gas Line CO** — removed for W8 wall | [[Yorktown DPW]] | #ChangeOrder
+- [x] #para-archives ✅ **Ceiling tiles — break room** | [[Yorktown DPW]] | #Carpentry | COMPLETE — Anthony + Jimmy installed April 2
+- [x] #para-archives ✅ **Access door — stormwater cleanout, break room** | [[Yorktown DPW]] | #Carpentry | COMPLETE — Spruce installed April 2
+- [x] #para-archives ✅ **4" gap kitchen wall base — bunk room** | [[Yorktown DPW]] | #Carpentry | COMPLETE — Timmy filled with structolite April 2
 - [x] #para-archives ✅ **Bump out around heater pipe (CO)** | [[Yorktown DPW]] | #ChangeOrder | 100% COMPLETE — Anthony installed access door April 2
-- [ ] #priority-high **Level spreader / weeping pit** | [[Yorktown DPW]] | #Sitework | Gravel in, pit dug correctly — 🔴 CONFIRM WITH BOB: concrete curb on one side per David Tetro specs — do we install it?
-- [ ] #priority-high **Pipe insulation (hot/cold water lines)** | [[Yorktown DPW]] | #Plumbing
-- [ ] #priority-high **2x2 access door (bump out)** | [[Yorktown DPW]] | #Carpentry
-- [ ] #priority-high **Gravel for level spreader** | [[Yorktown DPW]] | #Sitework | 40 sq ft coverage, 20 cu ft, 0.7 cu yd
+- [ ] #priority-high **Level spreader / weeping pit** | [[Yorktown DPW]] | #Sitework | Gravel in (24 bags), pit dug — 🔴 CONFIRM WITH BOB: concrete curb on one side per David Tetro specs?
+- [ ] #priority-high **Pipe insulation (hot/cold water lines)** | [[Yorktown DPW]] | #Plumbing | 📅 TOMORROW — Timmy insulates copper lines, kitchen/exterior wall, break room
+- [x] #para-archives ✅ **2x2 access door (bump out)** | [[Yorktown DPW]] | #Carpentry | COMPLETE — Anthony installed April 2
+- [ ] #priority-high **Gravel for level spreader** | [[Yorktown DPW]] | #Sitework | 24 bags picked up — need ~10 more bags — Timmy picking up tomorrow
 - [ ] #priority-critical **Paul Revans gas line details** | [[Yorktown DPW]] | #HVAC | Need engineered direction: cap off or install locking valve on existing gas line removed from break room kitchen
 - [x] #para-archives ✅ **Sprinkler installation** | [[Yorktown DPW]] | #Fire-Suppression | CONFIRMED — Tuesday April 7th
 - [x] #para-archives ✅ **Roof drain pipe glued** | [[Yorktown DPW]] | #Plumbing | 2026-03-31
@@ -100,12 +104,23 @@ date: 2026-04-02
 
 | Date | Event | Project | Status |
 |------|-------|---------|--------|
-| **April 2 (Thu) — TODAY** | Bob approve stucco color | Yorktown | 🔴 URGENT — blocks AWS stucco |
-| **April 2 (Thu) — TODAY** | Restrict door to 90° | Yorktown | 🔴 URGENT — blocks stucco |
-| **April 2 (Thu) — TODAY** | Timmy re-dig weeping pit | Yorktown | 🟡 IN PROGRESS |
-| **April 2 (Thu) — TODAY** | Dorothy (Tumen) to call with revised sign schedule | Ardsley | 🔴 FOLLOW UP |
-| **April 2 (Thu) — TODAY** | 2x2 emergency lights arrive | Yorktown | 🟡 INCOMING |
-| **April 3 (Fri), 7:00 AM** | Tectonic crew — stake building + retaining walls | Mamaroneck Parks | 🔴 CRITICAL |
+| **April 2 (Thu) — DONE** | Ceiling tiles — break room | Yorktown | ✅ COMPLETE |
+| **April 2 (Thu) — DONE** | Access door — stormwater cleanout | Yorktown | ✅ COMPLETE |
+| **April 2 (Thu) — DONE** | Manuel/AWS: waterproofing on sheathing seams | Yorktown | ✅ DONE |
+| **April 2 (Thu) — DONE** | 4" gap kitchen wall base — structolite | Yorktown | ✅ DONE |
+| **April 2 (Thu) — DONE** | Weeping pit dug correctly | Yorktown | ✅ DONE |
+| **April 2 (Thu) — DONE** | Bob approve stucco color | Yorktown | ✅ APPROVED |
+| **April 2 (Thu) — STILL OPEN** | Restrict door to 90° | Yorktown | 🔴 STILL PENDING — blocks stucco base |
+| **April 2 (Thu) — STILL OPEN** | ABM Mechanical | Yorktown | 🔴 STILL NOT CONTACTED |
+| **April 2 (Thu) — STILL OPEN** | Taub Flooring scheduling | Yorktown | 🔴 STILL NEEDED |
+| **April 2 (Thu) — STILL OPEN** | Hanover Electric lighting scheduling | Yorktown | 🔴 STILL NEEDED |
+| **April 3 (Fri), 7:00 AM** | Nick: Mamaroneck Parks — meet Tectonic/Katarina crew, stake 4 corners + retaining walls | Mamaroneck Parks | 🔴 CRITICAL |
+| **April 3 (Fri)** | Manuel/AWS: paint on waterproofing membrane | Yorktown | 📅 TOMORROW |
+| **April 3 (Fri)** | Anthony + Jimmy: ceiling tiles — bunk room | Yorktown | 📅 TOMORROW |
+| **April 3 (Fri)** | Spruce spackler: finish bunk room 100%, break room 100%, Dave's office 100% | Yorktown | 📅 TOMORROW — may need Monday for polish |
+| **April 3 (Fri)** | Timmy: pickup ~10 more bags gravel | Yorktown | 📅 TOMORROW |
+| **April 3 (Fri)** | Timmy: pickup paint + start painting | Yorktown | 📅 TOMORROW |
+| **April 3 (Fri)** | Timmy: insulate copper water lines — kitchen/exterior wall, break room | Yorktown | 📅 TOMORROW |
 | **April 7 (Tue)** | Northeast Sprinkler on site | Yorktown | ✅ CONFIRMED |
 | **April 9 (TBD)** | Next Construction Progress Meeting | Parks |
 

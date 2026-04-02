@@ -44,13 +44,34 @@
 | ~10:00 AM | ABM Mechanical needed: finish ERV ductwork in break room + bunk room ceilings | Nick | 🔴 NOT CONTACTED |
 | ~10:00 AM | Gas line (break room kitchen): Paul Revans discussed capping or locking valve — decision needed | Nick | 🔴 PENDING |
 | ~11:00 AM | Timmy went to Lowe's — picked up more gravel for water spreader | Nick | ✅ DONE |
-| ~11:00 AM | Weeping pit / water spreader: correctly dug to David Tetro specs ✅ | Nick | ✅ DONE |
+| ~11:00 AM | Weeping pit / water spreader: correctly dug to David Tetro specs | Nick | ✅ DONE |
 | ~11:00 AM | 🔴 QUESTION: David Tetro specs show concrete curb on ONE SIDE of water spreader — confirm with Bob if we are installing it | Nick | 🔴 CONFIRM NEEDED |
+| PM | Manuel/AWS: scaffolding set up | Nick | ✅ DONE |
+| PM | Manuel/AWS: waterproofing applied to sheathing seams | Nick | ✅ DONE |
+| PM | Anthony + Jimmy Spruce: ceiling grid — break room COMPLETE | Nick | ✅ **COMPLETE** |
+| PM | Anthony + Jimmy Spruce: ceiling tiles installed — break room | Nick | ✅ **INSTALLED** |
+| PM | Spruce: access door installed — stormwater cleanout, break room | Nick | ✅ **DONE** |
+| PM | Spruce spackler: Dave Paganelli's office sanded | Nick | ✅ DONE — needs polish coat |
+| PM | Spruce spackler: bunk room spackle 95% — one wall needs sanding | Nick | 🟡 95% |
+| PM | Spruce spackler: break room — needs one more coat + sand + polish in some areas | Nick | 🟡 IN PROGRESS |
+| PM | Spruce: window sills — men's and women's room | Nick | ⏳ NOT STARTED |
+| PM | Timmy: 4" gap at base of kitchen wall (bunk room) filled with structolite | Nick | ✅ DONE |
+| PM | Break room cleaned of all debris | Nick | ✅ DONE |
+| EOD | ABM Mechanical | Nick | 🔴 STILL NOT CONTACTED — ceiling tiles blocked |
+| EOD | Taub Flooring — Anthony | Nick | 🔴 SCHEDULE NEEDED — prep break room floor |
+| EOD | Hanover Electric — lighting installation | Nick | 🔴 SCHEDULE NEEDED — room is dark |
 
 **Tomorrow's Plan (April 3):**
-- Check Timmy's weeping pit
-- Continue stucco if Advanced Wall Systems can start (waiting on Bob color approval)
-- Awaiting ABM Mechanical contact for ERV ductwork + condensate
+- **Manuel/AWS:** Paint on waterproofing membrane
+- **Anthony + Jimmy Spruce:** Install ceiling tiles in bunk room
+- **Spruce spackler:** Finish bunk room 100%, break room 100%, Dave's office 100% — may need Monday for polish TBD
+- **Timmy:** Pick up ~10 more bags gravel (has 24, needs ~10 more)
+- **Timmy:** Pick up paint, begin cutting and trim/doors; paint bunk room once spackler done
+- **Timmy:** Insulate copper water lines — kitchen/exterior wall, break room
+- **Nick:** 7:00 AM — Mamaroneck Parks — meet Katarina/Tectonic crew, stake 4 corners + retaining walls
+- **ABM Mechanical:** STILL NEEDS TO BE SCHEDULED — cassette heights, ERV ductwork, condensate drains
+- **Taub Flooring:** Schedule Anthony to prep break room floor
+- **Hanover Electric:** Schedule for lighting installation
 
 ### MARCH 2026
 
