@@ -1,25 +1,5 @@
 # DAILY TRUTH — Wednesday, April 1, 2026
 
-## 📊 PARA Classification
-- **Category:** #para-projects
-- **Path:** 1_Projects/Daily-Truth/
-- **Priority:** #priority-high
-- **Tags:** #super #construction #daily-truth #mamaroneck-parks #mamaroneck-lmc #yorktown #ardsley #para-projects
-
-## 🕸️ Ontology Links
-- [[Nick Flanagan]] OVERSEES [[Mamaroneck-Parks]]
-- [[Nick Flanagan]] OVERSEES [[Mamaroneck-LMC]]
-- [[Nick Flanagan]] OVERSEES [[Yorktown-DPW]]
-- [[Bob-Camilli]] COORDINATES_WITH [[Nick Flanagan]]
-- [[Richie-Puleo]] LEADS [[Spruce-Contracting]] AT [[Yorktown-DPW]]
-- [[Andrew-Luzzi]] PERFORMS [[Advanced-Wall-Systems]] AT [[Yorktown-DPW]]
-- [[Timmy]] PERFORMS labor AT [[Yorktown-DPW]]
-- [[Paul-Revans]] COORDINATES [[Yorktown-DPW]]
-- [[David-Tetro]] DESIGNS [[Yorktown-DPW]]
-- [[Billy-Cerutti]] DELAYS [[Ardsley]]
-- [[Katarina-Legener]] RECEIVED_plans AT [[Mamaroneck-Parks]]
-- [[Anthony-Puleo]] PERFORMS drywall AT [[Yorktown-DPW]]
-
 **Site:** [[Yorktown-DPW]] | [[Mamaroneck-Parks]] | [[Mamaroneck-LMC]] | [[Ardsley-High-School]]
 **Day:** Wednesday
 **Weather:** ☀️ Clear / Mild — no weather-related delays noted
@@ -51,11 +31,12 @@
 - [[Hanover-Electric]] INSTALLS_ELECTRICAL_AT [[Yorktown-DPW]]
 - [[Timmy-Fudale]] PERFORMS_EXCAVATION_AT [[Yorktown-DPW]]
 - [[Katarina-Legener]] RECEIVES_PLANS_FROM [[Bob-Camilli]] AT [[Mamaroneck-Parks]]
-- [[Richie-Puleo]] COMMUNICATES_SCOPE_TO [[Spruce-Contracting]] AT [[Mamaroneck-LMC]]
+- [[Richie-Puleo]] COMMUNICATES_SCOPE_TO [[Spruce-Construction]] AT [[Mamaroneck-LMC]]
 - [[Buchanan-Mechanical]] PERFORMS_HVAC_AT [[Mamaroneck-LMC]]
 - [[Daikin]] PERFORMS_HVAC_STARTUP_AT [[Mamaroneck-LMC]]
 - [[Billy-Cerutti]] INSTALLS_SIGNS_AT [[Ardsley-High-School]]
 - [[Paul-Revans]] PROVIDES_MEP_FOR [[Yorktown-DPW]]
+- [[David-Tetro]] DESIGNS [[Yorktown-DPW]]
 
 ---
 
@@ -75,8 +56,8 @@
 
 ### Yorktown DPW
 - [[Spruce-Contracting]] on site with 2 sheetrockers, 2 spacklers, [[Anthony-Puleo]] putting up wall angle and starting to hang wire for the ceiling grid
-- The spacklers were in Anthony's way—he was unable to get any ceiling grid up today; he hung the wire and pre-cut as much as possible
-- [[Spruce-Contracting]] completed the bump out around the pipe on the kitchen wall as directed by [[Paul-Revans]] in the email
+- The spacklers were in [[Anthony-Puleo]]'s way—he was unable to get any ceiling grid up today; he hung the wire and pre-cut as much as possible
+- [[Spruce-Construction]] completed the bump out around the pipe on the kitchen wall as directed by [[Paul-Revans]] in the email
 - [[Andrew-Luzzi]] from [[Advanced-Wall-Systems]] was on site dropping off scaffold and material to start the stucco work tomorrow
 - We went over how he was going to finish the base and around the door frame—the door is currently opening 180°; when he installs stucco and base, the door will hit it unless we restrict the amount it opens
 - Installed a piece of missing exterior sheathing so [[Advanced-Wall-Systems]] would be ready tomorrow
@@ -98,7 +79,7 @@
 
 ---
 
-## PENDING
+## PENDING ITEMS
 
 | # | Item | Project | Responsible | Priority |
 |---|---|---|---|---|
@@ -139,7 +120,7 @@
 
 ---
 
-## PROJECTS UPDATE NEEDED
+## PROJECTS UPDATE
 
 | Project | Status | Key Activity |
 |---|---|---|
@@ -218,7 +199,3 @@
 *Daily Truth recorded: April 1, 2026*
 *Source: [[Nick-Flanagan]], Site Superintendent*
 *Logged by: [[Supervisor]] — Construction Operations Brain*
-*Timestamp: April 1, 2026*
-
-## HASHTAGS
-#super #construction #daily-truth #mamaroneck-parks #mamaroneck-lmc #yorktown #ardsley #spruce-contracting #advanced-wall-systems #para-projects
