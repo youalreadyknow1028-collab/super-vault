@@ -1,99 +1,32 @@
 # DRAFT - MASTER CHANGE LOG — Mamaroneck LMC
-**Project:** 740 Boston Post Rd (LMC) — Mamaroneck Language Commissioner Office Renovation
-**Generated:** 2026-03-13
-**Status:** ACTIVE — Updated through April 2
-**Maintained by:** Supervisor (@super)
+**Project:** 740 Boston Post Rd (LMC)  
+**Generated:** 2026-03-13T04:40:35Z
+**Status:** DRAFT - PENDING VERIFICATION
 
 ---
 
-## Key Project Information
-- **Owner:** Town of Mamaroneck
-- **GC:** Peter Camilli & Sons
-- **Architect:** Sarah / KGD Architects
-- **Key Contacts:** Sarah (KGD), Richie Puleo (Spruce), Juan (electrical), Willy (Buchanan Mechanical), Brian McKechnie (Daikin)
-
----
-
-## Timeline of Key Events
-
-### MARCH 2026
-
-**2026-03-26 — Thursday**
-- No site visit recorded
-- Punchlist items all complete (as of 03-18)
-- Daikin startup scheduled Friday/Monday (March 27/30) — unconfirmed
-- Shop vac and ladders still on site
-
-**2026-03-25 — Wednesday**
-- ✅ Juan completed rooftop condenser wiring — LMC server room HVAC
-- ✅ Willy (Buchanan Mechanical) powered up all HVAC equipment
-- 🔴 Shop vac and ladders noted on site — needs removal
-- 🔴 CO-LMC-001 (shelves + cabinet doors) still pending Richie Puleo date
-
-**2026-03-18 — Tuesday**
-- ✅ ALL PUNCHLIST TOUCH-UPS COMPLETE — All trades finished
-
-**2026-03-13 — Friday**
-- ✅ Rust bleed treatment — 3rd coat completed
-- ✅ Vision panel trim kits — 3 coats completed
-- ✅ Grommet installation completed
-- ✅ Blank plate (Ethernet) installed
-- ✅ Base molding cleaned
-
-**2026-03-12 — Thursday**
-- ✅ Wire raceway painting — 2nd coat applied
-
-**2026-03-11 — Wednesday**
-- ✅ Floor protection (plastic) pulled up
-- ✅ Richie (Spruce) concealed wires
-- ✅ Wire raceway — first coat applied
-- 🔴 HVAC access issue identified — Daikin crew couldn't access roof
-
-**2026-03-10 — Tuesday**
-- 🔴 HVAC crew unable to access roof to service server room units
-- 🔴 Action: Reschedule Daikin crew with proper ladder access
+## Timeline of Events (Chronological)
+*   **Feb 12, 2026:** Email received regarding "LMC Office Changes per meeting". *(Source: Email Subject Line)* #Meeting #Change
+*   **Mar 10, 2026:** HVAC crew unable to access roof to service server room units. *(Source: 2026-03-10-Daily-Log.md)* #HVAC #Access #Daikin
+*   **Mar 11, 2026:** Pulled up plastic floor protection. *(Source: 2026-03-11-Daily-Log.md)* #Flooring #Punchlist
+*   **Mar 11, 2026:** Richie (Spruce) worked on concealing wires. *(Source: 2026-03-11-Daily-Log.md)* #Electrical #Spruce
+*   **Mar 11, 2026:** Painted wire raceway first coat. *(Source: 2026-03-11-Daily-Log.md)* #Painting #Raceway
+*   **Mar 12, 2026:** Second coat applied to wire raceway. *(Source: 2026-03-12-Daily-Log.md)* #Painting #Raceway
 
 ---
 
 ## Key Decisions & Changes
-
-| Date | Decision | Made By | Status |
-|------|----------|---------|--------|
-| 2026-02-12 | LMC Office Changes (shelves + cabinet doors) | Bob | 🔴 PENDING |
-| 2026-03-11 | Wire concealment approach | Nick + Richie | ✅ STANDARD PRACTICE |
-| 2026-03-25 | HVAC rooftop access resolved | Nick | ✅ RESOLVED |
-| 2026-03-25 | Daikin startup scheduled | Brian/Daikin | 🔴 UNCONFIRMED |
+*   **BULLETIN 2 DRAWINGS:** A drawing bulletin was issued with changes. *(Source: BULLETIN 2 DRAWINGS.pdf)* #PlanRevision #Change #Drawings
+*   **HVAC Access Issue:** The Daikin rep could not access the roof, requiring a new crew to be scheduled. *(Source: 2026-03-10-Daily-Log.md)* #HVAC #Decision #Schedule
 
 ---
 
-## Change Orders
-
-| CO | Description | Identified | Status |
-|----|-------------|------------|--------|
-| CO-LMC-001 | Shelves + cabinet doors | 2026-02-12 | 🔴 PENDING — awaiting Richie Puleo date |
+## New Actionable Items (Not on MASTER-TODO)
+*   **HVAC:** Reschedule Daikin crew with proper ladder access for server room units. *(Source: 2026-03-10-Daily-Log.md)* #ActionItem #HVAC #Schedule
+*   **Change Order:** Investigate "LMC Office Changes" from Feb 12 email and issue formal Change Order Request. *(Source: Email Subject Line)* #ActionItem #ChangeOrder
 
 ---
 
-## Pending Items Summary
-
-| Item | Status | Ball In Court |
-|------|--------|---------------|
-| Daikin startup | 🔴 UNCONFIRMED | Brian McKechnie / Daikin |
-| Sarah/KGD formal punchlist | 🔴 NOT RECEIVED | Sarah / KGD |
-| Shop vac + ladders removal | 🔴 STILL ON SITE | Nick |
-| CO-LMC-001: shelves + cabinet doors | 🔴 PENDING | Richie Puleo |
-| HVAC: cap supply register | 🟡 PENDING | HVAC |
-| HVAC: balance air system | 🟡 PENDING | HVAC |
-| HVAC: close off existing duct | 🟡 PENDING | HVAC |
-
----
-
-## Open Questions
-
-- Did Daikin show up on March 27 or March 30 for startup?
-- When will Sarah/KGD send formal punchlist?
-- What is the specific scope of CO-LMC-001 (shelves + cabinet doors)?
-
----
-**Agent:** Supervisor (@super)
-**Last Updated:** 2026-04-02 16:05 EDT
+## Open Questions / Gap Analysis
+*   **Architect Punchlist:** Awaiting formal punchlist from Sarah (KGD Architects). *(Source: MASTER-TODO.md)* #Question #Punchlist #KGDArchitects
+*   **Rust Bleed:** The wire raceway is showing rust bleed-through after the second coat. A decision is needed on whether to apply a rust converter or a third coat. *(Source: 2026-03-12-Daily-Log.md)* #Question #Painting #QualityControl

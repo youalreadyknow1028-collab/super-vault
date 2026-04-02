@@ -1,8 +1,8 @@
 # 📋 PENDING DECISIONS & CHANGE ORDER TRACKER — Mamaroneck LMC
 ## 740 Boston Post Rd, Mamaroneck, NY
-**Project:** Mamaroneck Language Commissioner (LMC) Office Renovation
-**Last Full Update:** 2026-04-02 16:00 EDT
-**Tracker Status:** NEAR CLOSEOUT
+**Project:** Mamaroneck Language Commissioner (LMC) Office Renovation  
+**Last Full Update:** 2026-03-26 11:30 EDT  
+**Tracker Status:** NEAR CLOSEOUT  
 **Maintained by:** Supervisor (@super)
 
 ---
@@ -31,55 +31,42 @@
 - 2026-03-11: 🔴 IDENTIFIED — Project requires formal punchlist from architect
 - 2026-03-18: 🔴 FOLLOW-UP — All punchlist touch-ups COMPLETED by trades
 - 2026-03-26: 🔴 STILL NOT RECEIVED — Awaiting Sarah/KGD
-- 2026-04-02: 🔴 STILL NOT RECEIVED — No site visit since March 26
 
-### 🔴 DAIKIN STARTUP — UNCONFIRMED
+### 🟡 DAIKIN STARTUP
 | Field | Value |
 |-------|-------|
 | **Item** | Daikin server room HVAC startup |
+| **Identified** | 2026-03-10 |
 | **Source** | Daily Log |
-| **Status** | 🔴 **UNCONFIRMED — Was supposed to be Friday/Monday (March 27/30)** |
-| **Equipment Ready** | ✅ Juan wiring complete (03-25) / ✅ Willy powered up (03-25) |
-| **Blocked By** | Confirmation needed — did Daikin show up? |
+| **Status** | 🟡 SCHEDULED — Friday or Monday (TBD) |
+| **Scheduled For** | Brian McKechnie + Daikin |
+| **Complete For Startup** | ✅ Juan wiring (done 03-25) / ✅ Willy powered up (done 03-25) |
 
 **History:**
 - 2026-03-10: 🟡 IDENTIFIED — Daikin crew unable to access roof, may need alternate access
+- 2026-03-10: 🟡 HVAC ROOF ACCESS — Daikin unable to access, may need alternate access method
 - 2026-03-25: ✅ JUAN WIRING COMPLETE — Rooftop condenser wiring done
 - 2026-03-25: ✅ WILLY POWERED UP — All equipment powered by Buchanan Mechanical
-- 2026-03-26: 🟡 SCHEDULED — Daikin startup Friday or Monday (TBD) — no confirmation received
-- 2026-04-02: 🔴 UNCONFIRMED — No confirmation that Daikin showed up. **Nick must confirm.**
-
-### 🔴 REMOVE SHOP VAC + LADDERS
-| Field | Value |
-|-------|-------|
-| **Item** | Shop vac and ladders still on site |
-| **Identified** | 2026-03-25 |
-| **Status** | 🔴 STILL ON SITE — needs removal |
-| **Action** | Nick to remove from site |
-
-**History:**
-- 2026-03-25: 🔴 IDENTIFIED — Shop vac and ladders left on site
-- 2026-03-26: 🔴 STILL ON SITE
-- 2026-04-02: 🔴 STILL ON SITE — No site visit since March 26
+- 2026-03-26: 🟡 SCHEDULED — Daikin startup Friday or Monday (TBD)
 
 ---
 
 ## 📋 SCOPE CHANGES & CHANGE ORDERS
 
-### CO-LMC-001: SHELVES AND CABINET DOORS
+### CO-LMC-001: OFFICE CHANGES PER MEETING
 | Field | Value |
 |-------|-------|
-| **Item** | Shelves and cabinet doors — change order |
-| **Company** | Spruce Construction / Richie Puleo |
+| **Item** | Office layout/design changes per meeting |
 | **Identified** | 2026-02-12 |
 | **Source** | Email from Bob Camilli |
-| **Status** | 🔴 **WAITING FOR RICHIE PULEO DATE** |
-| **Budget Impact** | TBD |
+| **Status** | 🔴 PENDING CO |
+| **Budget Impact** | Unknown |
+| **Action Needed** | Investigate specific changes discussed |
 
 **History:**
-- 2026-02-12: 🔴 IDENTIFIED — "LMC Office Changes per meeting"
-- 2026-03-26: 🔴 STILL PENDING — No date received from Richie Puleo
-- 2026-04-02: 🔴 STILL PENDING — **Nick must follow up with Richie Puleo**
+- 2026-02-12: 🔴 IDENTIFIED — Email: "LMC Office Changes per meeting"
+- 2026-03-26: 🔴 STILL PENDING — No details on specific changes discussed
+- 2026-03-26: 🔴 ACTION — Supervisor to investigate scope
 
 ---
 
@@ -97,8 +84,17 @@
 | **ALL PUNCHLIST TOUCH-UPS** | 2026-03-11 | 2026-03-18 | All trades | ✅ COMPLETE |
 | **Juan rooftop condenser wiring** | 2026-03-25 | 2026-03-25 | Daily Log | ✅ COMPLETE |
 | **Willy/Buchanan Mechanical powered up** | 2026-03-25 | 2026-03-25 | Daily Log | ✅ COMPLETE |
-| **HVAC roof access issue** | 2026-03-10 | 2026-03-25 | Resolved | ✅ RESOLVED |
+| **HVAC roof access issue** | 2026-03-10 | 2026-03-25 | Resolved | ✅ RESOLVED — Access resolved |
 | **Wire concealment approach** | 2026-03-11 | 2026-03-11 | Verbal | ✅ STANDARD PRACTICE |
+
+---
+
+## ⏳ PENDING VERBAL APPROVALS
+
+| Item | Verbal Date | Agreed By | Formalized | Status |
+|------|------------|-----------|------------|--------|
+| Lighting fixture substitution | 2026-03-11 | Nick + Richie (Spruce) | 🟡 Clarify with Sarah/KGD | 🟡 PENDING |
+| Wire concealment approach | 2026-03-11 | Nick + Richie | Standard finish work | ✅ STANDARD PRACTICE |
 
 ---
 
@@ -106,7 +102,6 @@
 
 | Item | Status | Updated | Notes |
 |------|--------|---------|-------|
-| **Daikin startup** | 🔴 UNCONFIRMED | 2026-04-02 | Was Friday/Monday — need confirmation |
 | **Cap existing supply register (server room)** | 🟡 PENDING | 2026-03-26 | HVAC to complete |
 | **Balance existing air system** | 🟡 PENDING | 2026-03-26 | HVAC to complete |
 | **Close off existing duct (server room)** | 🟡 PENDING | 2026-03-26 | HVAC to complete |
@@ -130,7 +125,7 @@
 ### 🔴 ARCHITECT PUNCHLIST
 | Item | Status | Updated |
 |------|--------|---------|
-| **Formal Punchlist from Sarah (KGD)** | 🔴 NOT RECEIVED | 2026-04-02 |
+| **Formal Punchlist from Sarah (KGD)** | 🔴 NOT RECEIVED | 2026-03-26 |
 
 ---
 
@@ -139,12 +134,12 @@
 | Item | Status | Action | Blocked By | Since |
 |------|--------|--------|------------|-------|
 | **Sarah/KGD formal punchlist** | 🔴 NOT RECEIVED | Await from architect | Sarah/KGD | 2026-03-11 |
-| **Daikin startup** | 🔴 UNCONFIRMED | Confirm if happened | Brian McKechnie | 2026-03-10 |
-| **Shop vac + ladders on site** | 🔴 STILL ON SITE | Remove from site | Nick | 2026-03-25 |
+| **Daikin startup** | 🟡 FRIDAY/MON (TBD) | Startup procedure | Brian McKechnie | 2026-03-10 |
+| **Shop vac + ladders removal** | 🟡 PENDING | Remove from site | Nick | 2026-03-25 |
 | **HVAC: Cap supply register** | 🟡 PENDING | Cap in server room | HVAC | 2026-03-26 |
 | **HVAC: Balance air system** | 🟡 PENDING | Balance | HVAC | 2026-03-26 |
 | **HVAC: Close off existing duct** | 🟡 PENDING | Close off in server room | HVAC | 2026-03-26 |
-| **CO-LMC-001: Shelves + cabinet doors** | 🔴 PENDING | Get date from Richie Puleo | Richie Puleo | 2026-02-12 |
+| **CO-LMC-001: Office changes** | 🔴 PENDING | Investigate scope | Nick | 2026-02-12 |
 
 ---
 
@@ -155,11 +150,10 @@
 | **Punchlist Touch-ups** | ✅ COMPLETE | 2026-03-18 |
 | **Electrical** | ✅ COMPLETE | 2026-03-25 |
 | **HVAC Equipment** | ✅ POWERED UP | 2026-03-25 |
-| **HVAC Startup** | 🔴 UNCONFIRMED | 2026-04-02 |
-| **Architect Punchlist** | 🔴 NOT RECEIVED | 2026-04-02 |
-| **Site Clean** | 🔴 Shop vac + ladders | 2026-04-02 |
-| **CO-LMC-001** | 🔴 PENDING | 2026-04-02 |
-| **Closeout** | 🔴 BLOCKED | 2026-04-02 |
+| **HVAC Startup** | 🟡 PENDING | 2026-03-26 |
+| **Architect Punchlist** | 🔴 NOT RECEIVED | 2026-03-26 |
+| **Site Clean** | 🟡 Shop vac + ladders | 2026-03-26 |
+| **Closeout** | 🟡 BLOCKED | 2026-03-26 |
 
 ---
 
@@ -168,16 +162,15 @@
 - [[Bob Camilli]] OWNS [[Peter Camilli & Sons]]
 - [[Sarah]] ARCHITECT_FOR [[Mamaroneck LMC]]
 - [[KGD Architects]] ARCHITECT_FOR [[Mamaroneck LMC]]
-- [[Richie-Puleo]] LEADS [[Spruce-Construction]] AT [[Mamaroneck LMC]]
 - [[Juan]] COMPLETED rooftop_wiring AT [[Mamaroneck LMC]] ON 2026-03-25
 - [[Willy-Buchanan]] POWERED_UP equipment AT [[Mamaroneck LMC]] ON 2026-03-25
-- [[Buchanan-Mechanical]] COMPLETED power_up AT [[Mamaroneck LMC]] ON 2026-03-25
 - [[Brian-McKechnie]] SCHEDULED Daikin_startup FOR [[Mamaroneck LMC]]
-- [[Daikin]] STARTUP UNCONFIRMED AT [[Mamaroneck LMC]]
+- [[Daikin]] STARTUP PENDING AT [[Mamaroneck LMC]]
+- [[Richie-Spruce]] COMPLETED finish_work AT [[Mamaroneck LMC]]
 - [[Supervisor]] GENERATES tracker FOR [[Mamaroneck LMC]]
 
 ---
 
-**Last Updated:** 2026-04-02 16:00 EDT
-**Next Update:** After Daikin confirmation + Sarah punchlist received
+**Last Updated:** 2026-03-26 11:30 EDT  
+**Next Update:** After Daikin startup + Sarah punchlist received  
 **Agent:** Supervisor (@super)

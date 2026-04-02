@@ -7,7 +7,7 @@ role: Laborer
 organization: Peter Camilli & Sons (day laborer via Bob)
 projects: Yorktown DPW
 priority: P2-ACTIVE
-last_updated: 2026-04-01
+last_updated: 2026-04-02
 aliases:
   - Timmy
   - Tim Fudale
@@ -152,7 +152,24 @@ aliases:
 
 | Task | Details | Status |
 |------|---------|--------|
-| Weeping pit re-dig | Re-digging water spreader / weeping pit to David Tetro specs | 📋 In Progress |
+| Weeping pit re-dig | Re-digging water spreader / weeping pit to David Tetro specs | ✅ DONE — correctly dug to spec |
+
+---
+
+### April 2, 2026 (Thursday)
+**Source:** Daily Truth — April 2, 2026
+
+| Task | Details | Status |
+|------|---------|--------|
+| Structolite fill | Filled 4" gap at base of kitchen wall with structolite | ✅ DONE |
+| Break room cleanup | Break room debris cleaned up | ✅ DONE |
+| Gravel pickup | Picked up 24 bags gravel — need ~10 more | ✅ DONE |
+| Weeping pit | Correctly dug to David Tetro specs | ✅ DONE |
+
+**Tomorrow (April 3):**
+- Copper pipe insulation — kitchen exterior wall + break room
+- Paint and trim/doors — after spackle is done
+- ~10 more bags of gravel needed
 
 ---
 
@@ -169,9 +186,9 @@ aliases:
 | 2026-03-31 | 🔴 NO-SHOW — Nick at Parks groundbreaking; level spreader failure was March 30 work | Daily Truth |
 | 2026-04-01 | Weeping pit re-dig scheduled | Bob Report |
 
-**Total Days Worked:** 5 confirmed days (March 20, 24, 25, 30 + April 1)
+**Total Days Worked:** 7 confirmed days (March 20, 24, 25, 30, April 1, April 2)
 **First Appearance:** March 19, 2026 (planned)
-**Last Mention:** April 1, 2026
+**Last Mention:** April 2, 2026
 
 ---
 
@@ -190,6 +207,10 @@ aliases:
 - **March 31 — NO-SHOW:**
   - Nick was at Mamaroneck Parks groundbreaking; Timmy did not show up
   - **Assessment:** Timmy needs VERY specific, measured instructions for technical/excavation tasks. He cannot self-direct precision work.
+- **April 1–2 — REDEMPTION:**
+  - Correctly re-dug weeping pit to David Tetro specs on April 1 ✅
+  - Completed structolite fill, cleanup, and gravel pickup on April 2 ✅
+  - **Assessment:** When given specific, clear direction and supervision, Timmy can execute properly.
 
 ### Reliability Rating: 🟡 GOOD (for basic labor); ⚠️ NEEDS SUPERVISION (for precision tasks)
 
