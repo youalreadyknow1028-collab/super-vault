@@ -137,24 +137,22 @@ aliases:
 ---
 
 ### March 31, 2026 (Tuesday)
-**Source:** Daily Truth — March 31, 2026 | Daily Log — March 31, 2026
+**Source:** Daily Truth — March 31, 2026
 
 | Task | Details | Status |
 |------|---------|--------|
-| Level spreader redo | Timmy did NOT dig level spreader properly | 🔴 FAILED — must redo |
-| Weeping pit | Work did not meet David Tetro specs | 🔴 FAILED INSPECTION |
+| Did NOT work | Nick was at Parks groundbreaking; Timmy did not show | 🔴 NO-SHOW |
 
-> *"Checked on the work I left for Timmy to finish yesterday while I was at the groundbreaking ceremony at Mamaroneck Parks—he did not dig the level spreader / weeping pit properly."* (Daily Truth)
-> *"Level spreader / weeping pit: FAILED INSPECTION — worker did not excavate to proper dimensions; must be redone per David Tetro's specifications"* (Daily Log)
+> *"Checked on the work I left for Timmy to finish yesterday while I was at the groundbreaking ceremony at Mamaroneck Parks—he did not dig the level spreader / weeping pit properly."* — The failed level spreader was work from March 30. Timmy was a no-show on March 31.
 
 ---
 
 ### April 1, 2026 (Wednesday)
-**Source:** Bob Report — April 1, 2026
+**Source:** Daily Truth — April 1, 2026
 
 | Task | Details | Status |
 |------|---------|--------|
-| Weeping pit re-dig | Scheduled to re-dig water spreader / weeping pit to David Tetro specs | 📋 Scheduled |
+| Weeping pit re-dig | Re-digging water spreader / weeping pit to David Tetro specs | 📋 In Progress |
 
 ---
 
@@ -168,10 +166,10 @@ aliases:
 | 2026-03-24 | Kitchen cabinet demolition + AC removal | Daily Truth |
 | 2026-03-25 | Demo debris removal + exterior cleanup + gas line removal | Daily Log |
 | 2026-03-30 | Floor removal, shifting, scraping, mopping, level spreader dig (10x4x6) | Daily Truth |
-| 2026-03-31 | Level spreader FAILED inspection — incorrect dimensions | Daily Truth / Daily Log |
+| 2026-03-31 | 🔴 NO-SHOW — Nick at Parks groundbreaking; level spreader failure was March 30 work | Daily Truth |
 | 2026-04-01 | Weeping pit re-dig scheduled | Bob Report |
 
-**Total Days Worked:** 6 confirmed days (March 20, 24, 25, 30, 31, plus planned April 1)
+**Total Days Worked:** 5 confirmed days (March 20, 24, 25, 30 + April 1)
 **First Appearance:** March 19, 2026 (planned)
 **Last Mention:** April 1, 2026
 
@@ -186,10 +184,11 @@ aliases:
 - Works well under Nick's direct supervision
 
 ### Areas of Concern
-- **March 31 — Level spreader / weeping pit excavation FAILED inspection:**
+- **March 30 — Level spreader / weeping pit excavation FAILED inspection:**
   - Did not dig to proper dimensions per David Tetro specifications
-  - Nick had to leave for groundbreaking ceremony and left detailed instructions
-  - Work required complete redo
+  - Nick left instructions; work required complete redo on April 1
+- **March 31 — NO-SHOW:**
+  - Nick was at Mamaroneck Parks groundbreaking; Timmy did not show up
   - **Assessment:** Timmy needs VERY specific, measured instructions for technical/excavation tasks. He cannot self-direct precision work.
 
 ### Reliability Rating: 🟡 GOOD (for basic labor); ⚠️ NEEDS SUPERVISION (for precision tasks)
@@ -200,7 +199,7 @@ aliases:
 
 | Item | Project | Priority | Status |
 |------|---------|----------|--------|
-| Re-dig level spreader / weeping pit to David Tetro specs | Yorktown DPW | 🔴 HIGH | Scheduled for April 1 |
+| Re-dig level spreader / weeping pit to David Tetro specs | Yorktown DPW | 🔴 IN PROGRESS | April 1 |
 | Any future demolition/cleanup work | Yorktown DPW | 🟡 AS NEEDED | Available via Bob |
 
 ---
@@ -220,4 +219,4 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-01 | Source: Daily Truth (March 19–31), Daily Log (March 25, 30–31), Bob Reports (March 31, April 1)*
+*PULSE LAST UPDATED: 2026-04-01 (evening) | Source: Daily Truth (March 19–April 1) — NOTE: Trust Daily Truth over Bob Reports for Timmy's actual attendance*
