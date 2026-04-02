@@ -72,3 +72,52 @@
 **Source:** Nick Flanagan — Field Notes
 **Date:** 2026-04-02
 **Agent:** Supervisor (@super)
+
+---
+
+## APRIL 2, 2026 — MORNING UPDATE (~10:00 AM)
+
+### Yorktown DPW — Arrived ~10:00 AM
+
+**AWS — EIFS:**
+- Manuel with Advanced Wall Systems on site — setting up scaffolding and beginning EIFS installation
+- One man on site
+- Stucco color approved by Bob (just confirmed this morning)
+
+**Spruce Construction:**
+- 3 men on site: 1 spackler + Anthony + Jimmy Spruce (new contact)
+- Anthony + Jimmy Spruce: installing ceiling grid in break room
+- Spruce spackler: sanding bunk room — polish coat expected today
+
+**🔴 ISSUE — Cassettes at Different Heights:**
+- Two cassettes in break room hung at two different heights
+- ABM Mechanical must adjust before ceiling tiles can be installed and ceilings closed
+
+**✅ Change Order Complete:**
+- Anthony installed access door in bump-out change order
+- Bump-out CO: 100% COMPLETE
+
+**ABM Mechanical — Still Needed:**
+- Install condensate drains for all 3 cassettes (1 bunk room, 2 break room)
+- Finish ERV ductwork in ceilings of break room and bunk room
+
+**Gas Line — Break Room Kitchen:**
+- Existing gas line removed from break room kitchen
+- Paul Revans discussed capping or installing a locking valve — decision needed
+- Need details from Paul Revans
+
+**Timmy — ~11:00 AM:**
+- Went to Lowe's — picked up more gravel for water spreader
+- Water spreader correctly dug to David Tetro specs ✅
+- 🔴 QUESTION FOR BOB: David Tetro specs show concrete curb on ONE SIDE of water spreader — confirm if we are installing it
+
+**Pending for ABM:**
+1. Condensate drains — all 3 cassettes
+2. ERV ductwork completion — break room + bunk room ceilings
+3. Cassette height adjustment — break room (two cassettes at different heights)
+
+**Pending for Paul Revans:**
+- Gas line capping/locking valve details — need engineered direction
+
+**Pending for Bob:**
+- Confirm if concrete curb is being installed on one side of water spreader

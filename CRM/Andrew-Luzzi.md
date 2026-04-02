@@ -169,3 +169,30 @@ aliases:
 ---
 
 *PULSE LAST UPDATED: 2026-04-01 | Source: Daily Truth (March 24, 31, April 1), Bob Reports (March 27 Weekly, April 1), Daily Log (March 31)*
+
+---
+
+### April 2, 2026 (Thursday)
+**Source:** Nick update — April 2, 2026
+
+| Event | Details | Status |
+|-------|---------|--------|
+| Manuel on site | Manuel with AWS setting up scaffolding and beginning EIFS installation | 🟢 ACTIVE |
+| Stucco starting | EIFS installation beginning today | ✅ STARTED |
+| Color approved | Bob approved color — sample to be delivered for records | ✅ APPROVED |
+
+> *"Manuel with Advanced Wall Systems is on-site setting up scaffolding and beginning the EIFS installation. One man on site."* — Nick, April 2
+
+---
+
+## 🔴 ACTIVE ITEMS
+
+| Item | Project | Priority | Status |
+|------|---------|----------|--------|
+| Restrict door opening to 90° | Yorktown DPW | 🔴 HIGH | Must do before stucco base hits door |
+| Hanover Electric exterior lighting rough-in | Yorktown DPW | 🔴 BLOCKING | Must complete before stucco base |
+| Deliver color sample to Bob | Yorktown DPW | 🟡 TODAY | Color approved — just need to deliver sample |
+
+---
+
+*PULSE LAST UPDATED: 2026-04-02 | Source: Daily Truth (March 24, 31, April 1), Bob Reports (March 27 Weekly, April 1), Daily Log (March 31), Nick update April 2)*

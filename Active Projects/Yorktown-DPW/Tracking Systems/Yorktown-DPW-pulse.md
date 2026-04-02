@@ -19,9 +19,10 @@
 | Framing | ✅ COMPLETE | 2026-03-26 |
 | Electrical | 🟡 Hanover IN PROGRESS (break room rough-in passed 3/30) | 2026-03-31 |
 | Plumbing | ✅ COMPLETE | 2026-03-23 |
-| Sheetrock | 🟡 Break room 90% / Bunk room spackling 95% | 2026-03-31 |
-| HVAC | 🟡 DECISION MADE — bump-out option | 2026-03-26 |
-| Closeout | 🟡 IN PROGRESS | 2026-03-31 |
+| Sheetrock | 🟢 Break room: ceiling grid going up / Bunk room: polishing today | 2026-04-02 |
+| HVAC | 🔴 ABM BLOCKERS — cassettes at wrong height + ERV ductwork | 2026-04-02 |
+| EIFS/Stucco | 🟢 STARTED — Manuel (AWS) on site setting up scaffolding | 2026-04-02 |
+| Closeout | 🟡 IN PROGRESS | 2026-04-02 |
 
 ---
 
@@ -32,11 +33,19 @@
 #### 2026-04-02 — TODAY
 | Time | Event | Source | Status |
 |------|-------|--------|--------|
-| AM | Timmy on site — re-digging weeping pit to David Tetro dimensions | Daily Truth | 🟡 IN PROGRESS |
-| AM | Timmy went to Lowe's 9am — picked up gravel + pipe insulation | Daily Truth | ✅ DONE |
-| AM | Stucco color APPROVED by Bob — Nick to deliver sample to Bob for records | Nick update | ✅ APPROVED |
-| AM | Door restriction 180° still not resolved | Daily Truth | 🔴 PENDING |
-| AM | Northeast Sprinkler CONFIRMED — Tuesday April 7th | Daily Truth | ✅ CONFIRMED |
+| ~10:00 AM | Nick arrived on site | Nick | ✅ DONE |
+| ~10:00 AM | Manuel (AWS) on site — setting up scaffolding, beginning EIFS installation | Nick | 🟢 ACTIVE |
+| ~10:00 AM | Spruce Construction on site: 3 men — 1 spackler, Anthony, Jimmy Spruce | Nick | 🟢 ACTIVE |
+| ~10:00 AM | Anthony + Jimmy Spruce: installing ceiling grid in break room | Nick | 🟡 IN PROGRESS |
+| ~10:00 AM | 🔴 ISSUE: Two cassettes in break room hung at DIFFERENT HEIGHTS — ABM must adjust before ceiling tiles can be installed | Nick | 🔴 BLOCKER |
+| ~10:00 AM | Anthony installed access door in bump-out change order | Nick | ✅ DONE — **CO COMPLETE** |
+| ~10:00 AM | Spruce spackler sanding bunk room — polish coat today | Nick | 🟡 IN PROGRESS |
+| ~10:00 AM | ABM Mechanical needed: install condensate drains for all 3 cassettes (1 bunk room, 2 break room) | Nick | 🔴 NOT CONTACTED |
+| ~10:00 AM | ABM Mechanical needed: finish ERV ductwork in break room + bunk room ceilings | Nick | 🔴 NOT CONTACTED |
+| ~10:00 AM | Gas line (break room kitchen): Paul Revans discussed capping or locking valve — decision needed | Nick | 🔴 PENDING |
+| ~11:00 AM | Timmy went to Lowe's — picked up more gravel for water spreader | Nick | ✅ DONE |
+| ~11:00 AM | Weeping pit / water spreader: correctly dug to David Tetro specs ✅ | Nick | ✅ DONE |
+| ~11:00 AM | 🔴 QUESTION: David Tetro specs show concrete curb on ONE SIDE of water spreader — confirm with Bob if we are installing it | Nick | 🔴 CONFIRM NEEDED |
 
 **Tomorrow's Plan (April 3):**
 - Check Timmy's weeping pit

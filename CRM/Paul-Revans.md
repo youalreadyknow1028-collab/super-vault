@@ -102,3 +102,25 @@ m: 914-222-0397 | email: rdpepc@gmail.com | NYS PE 091827 | CT PE 0030989 | PA P
 Paul Revans is the MEP Engineer of Record for the Yorktown Highway Garage project. He is responsive, professional, and proactive about scope boundaries. He made clear that electrical scope provided was correct for the equipment on the drawings, and pushed back on scope disputes between TOY/TOY electrician and the contractor. He is not afraid to ask pointed questions when scope is unclear — "So what about all the HVAC equipment, outlets, lighting etc?" shows his diligence. Recommend keeping him in the loop on all HVAC, electrical, and plumbing coordination for this project.
 
 *PULSE LAST UPDATED: 2026-04-01 | Source: Email thread (nflanagan1028@aol.com) — "Highway Garage Heater"*
+
+---
+
+### April 2, 2026
+**Source:** Nick update — April 2, 2026
+
+| Event | Details | Status |
+|-------|---------|--------|
+| Gas line — break room kitchen | Existing gas line removed from break room kitchen | ✅ DONE |
+| Gas line — next step needed | Paul Revans discussed either capping off or installing a locking valve | 🔴 NEEDS DIRECTION |
+| Needed | Nick needs engineered details/direction from Paul Revans on how to handle the removed gas line | 🔴 PENDING — CONTACT PAUL |
+
+---
+
+## 🔴 ACTIVE ITEMS
+| Item | Project | Priority | Status |
+|------|---------|----------|--------|
+| Gas line (break room kitchen) | Yorktown DPW | 🔴 HIGH | Need direction from Paul: cap off or locking valve |
+
+---
+
+*PULSE LAST UPDATED: 2026-04-02*

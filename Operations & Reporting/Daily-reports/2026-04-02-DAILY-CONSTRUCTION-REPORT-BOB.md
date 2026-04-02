@@ -74,7 +74,10 @@
 |------|--------|
 | Stucco color approval from Bob | 🔴 YOUR DECISION NEEDED — blocks all stucco work |
 | Restrict door to 90° | 🔴 MUST DO before stucco starts |
-| Contact ABM Mechanical (ERV ductwork + condensate drain) | 🔴 NOT YET CONTACTED |
+| Contact ABM Mechanical (ERV ductwork + condensate drains) | 🔴 NOT YET CONTACTED |
+| ABM Mechanical — cassette height adjustment | 🔴 BLOCKER | 2 cassettes in break room hung at different heights — ABM must adjust before ceiling tiles install |
+| Paul Revans — gas line direction | 🔴 NEED DETAILS | Need engineered direction: cap off or install locking valve on existing gas line removed from break room kitchen |
+| Jimmy Spruce (new contact) | 🟡 ADD TO CRM | Spruce carpenter — new contact working with Anthony on ceiling grid |
 | Northeast Sprinkler on site | ✅ CONFIRMED — Tuesday April 7th |
 | Copper pipe insulation (bunk room kitchen, exterior wall) | 🟡 Materials on site |
 | Fix bottom 4" sheetrock on kitchen wall (bunk room) | 🟡 Pending |
@@ -173,7 +176,7 @@ No site visit today.
 | CO | Project | Description | Status |
 |----|---------|-------------|--------|
 | ✅ **CO-Y-W8** | Yorktown DPW | W8 shaft wall assembly | **COMPLETE** |
-| ✅ **CO-Y-Bump-Out** | Yorktown DPW | Bump out around heater pipe | **COMPLETE** |
+| ✅ **CO-Y-Bump-Out** | Yorktown DPW | Bump out around heater pipe | **100% COMPLETE — Anthony installed access door April 2** |
 | 🔴 **CO-LMC-001** | Mamaroneck LMC | Shelves + cabinet doors | **WAITING FOR RICHIE PULEO DATE** |
 | ✅ **CO-P-001** | Mamaroneck Parks | Door hardware direction | **APPROVED** |
 | ✅ **CO-P-002** | Mamaroneck Parks | Toilet wall relocation | **APPROVED** |
@@ -187,8 +190,10 @@ No site visit today.
 | [[Bob-Camilli]] | Ardsley signage | Provided approved shop drawings; conference call with Dorothy (Tumen) |
 | [[Billy-Cerutti]] | Ardsley access | ✅ Got building access — classrooms unlocked |
 | [[Dorothy-Tumen]] | Missing signage | Informed — will provide revised installation schedule |
-| [[Bob-Camilli]] | Stucco color | Sample ready — awaiting your approval |
+| [[Bob-Camilli]] | Stucco color | ✅ Color approved — just need to deliver sample for records |
 | [[Northeast Sprinkler]] | Installation date | ✅ CONFIRMED — Tuesday April 7th |
+| [[Manuel-AWS]] | AWS on site | Manuel on site — setting up scaffolding and beginning EIFS |
+| [[Jimmy-Spruce]] | New contact | New contact introduced — working with Anthony on ceiling grid |
 
 ---
 
@@ -198,6 +203,7 @@ No site visit today.
 |------|-------|---------|
 | **Deliver stucco sample to Bob for records** | Nick | 🟡 **TODAY** |
 | **🔴 Restrict door to 90°** | Nick / TBD | 🔴 **CRITICAL — door will hit stucco** |
+| **🔴 CONFIRM: Concrete curb on water spreader?** | Bob Camilli | 🔴 **David Tetro specs show curb on one side — do we install it?** |
 | Dorothy (Tumen) revised schedule | Dorothy | 🔴 HIGH — missing 7 Type C + 9 Type WV signs |
 | ABM Mechanical contact (ERV + condensate) | Nick | 🔴 HIGH |
 | Richie Puleo — shelves/doors date | Richie Puleo | 🔴 HIGH |
@@ -210,7 +216,8 @@ No site visit today.
 
 | Trade | Company | Count |
 |-------|---------|-------|
-| Signage | Tumen Signage (Oliver) | 1 |
+| EIFS/Stucco | Advanced Wall Systems (Manuel) | 1 |
+| Drywall/Carpentry | Spruce Construction (Anthony, Jimmy Spruce, 1 spackler) | 3 |
 | Sitework | Timmy | 1 |
 | Site Super | Nick | 1 |
 

@@ -101,3 +101,36 @@
 
 ---
 *Nick runs the job. Super runs the paper. Learning and improving.*
+
+---
+
+## APRIL 2, 2026 — ~11:50 AM UPDATE
+
+### CRM Updates Completed
+| Action | File |
+|--------|------|
+| Created | `CRM/Jimmy-Spruce.md` — new contact, Spruce carpenter |
+| Created | `CRM/Manuel-AWS.md` — AWS installer on site |
+| Updated | `CRM/Andrew-Luzzi.md` — added Manuel + April 2 entry |
+| Updated | `CRM/Spruce-Contracting.md` — added Jimmy Spruce + Anthony access door CO complete |
+| Updated | `CRM/Paul-Revans.md` — added gas line question (capping/locking valve) |
+
+### Project Updates
+| Project | Update |
+|---------|--------|
+| Yorktown-DPW Pulse | Full April 2 AM update — Manuel/AWS started, Spruce 3 men, Anthony+Jimmy ceiling grid, cassette height issue, ABM blockers, bump-out CO 100% complete, gas line question, weeping pit done, concrete curb question |
+| MASTER-TODO | Updated ABM items (3 specific items), added Paul Revans gas line, added Jimmy Spruce contact, bump-out CO marked 100% complete, weeping pit updated, sprinkler confirmed April 7 |
+| Bob Report | Updated with all new items, ABM specific, gas line, Jimmy Spruce, concrete curb question |
+
+### 🔴 Decisions Needed from Nick/Bob
+1. **Bob:** Confirm if concrete curb is being installed on one side of water spreader (per David Tetro specs)
+2. **Nick:** Contact ABM Mechanical for 3 items (condensate drains, ERV ductwork, cassette height adjustment)
+3. **Nick:** Contact Paul Revans for gas line direction (cap or locking valve)
+4. **Nick:** Deliver stucco color sample to Bob for records
+
+### Files Synced
+- All files committed to GitHub + synced to Drive
+
+---
+
+**Hashtags:** #super #supervisor-log #2026-04-02 #yorktown #aws #spruce #abm #paul-revans

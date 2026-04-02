@@ -41,7 +41,10 @@ date: 2026-04-02
 - [ ] #priority-critical **EIFS pan flashing coordination** | [[Yorktown DPW]] | #EIFS | [[Bob Camilli]] to call [[David Tetro]] when ready
 - [ ] #priority-high **Deliver stucco sample to Bob for records** | [[Yorktown DPW]] | #Stucco | Nick to deliver — color ALREADY APPROVED
 - [ ] #priority-critical **Restrict door to 90°** | [[Yorktown DPW]] | #Stucco | Door opens 180° — will hit stucco/base when installed — must restrict before AWS starts
-- [ ] #priority-critical **Contact ABM Mechanical** | [[Yorktown DPW]] | #HVAC | ERV ductwork + condensate drain — STILL NOT CONTACTED
+- [ ] #priority-critical **Contact ABM Mechanical — 3 items** | [[Yorktown DPW]] | #HVAC | STILL NOT CONTACTED
+  - 🔴 Condensate drains: all 3 cassettes (1 bunk room, 2 break room)
+  - 🔴 ERV ductwork: break room + bunk room ceilings
+  - 🔴 Cassette height adjustment: 2 cassettes in break room hung at different heights — MUST fix before ceiling tiles go up
 - [ ] #priority-critical **Northeast Sprinkler on site** | [[Yorktown DPW]] | #FireSuppression | ✅ CONFIRMED — Tuesday April 7th — blocks ceiling close
 - [ ] #priority-critical **RFI-Y-7: Gas line in kitchen wall** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~12 DAYS OVERDUE
 - [ ] #priority-critical **RFI-Y-9: Door D8 condition** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~12 DAYS OVERDUE
@@ -50,13 +53,13 @@ date: 2026-04-02
 - [ ] #priority-high **Floor grinding** at bunk/break room doorway | [[Yorktown DPW]] | #General | 1/2" diff
 - [ ] #priority-high **W8 formal CO** | [[Yorktown DPW]] | #ChangeOrder
 - [ ] #priority-high **Gas Line CO** — removed for W8 wall | [[Yorktown DPW]] | #ChangeOrder
-- [ ] #priority-high **Bump out around heater pipe (CO)** | [[Yorktown DPW]] | #ChangeOrder | Pending — discussed with Spruce
-- [ ] #priority-high **Level spreader / weeping pit** | [[Yorktown DPW]] | #Sitework | REDO — Timmy did not dig to proper dimensions
+- [x] #para-archives ✅ **Bump out around heater pipe (CO)** | [[Yorktown DPW]] | #ChangeOrder | 100% COMPLETE — Anthony installed access door April 2
+- [ ] #priority-high **Level spreader / weeping pit** | [[Yorktown DPW]] | #Sitework | Gravel in, pit dug correctly — 🔴 CONFIRM WITH BOB: concrete curb on one side per David Tetro specs — do we install it?
 - [ ] #priority-high **Pipe insulation (hot/cold water lines)** | [[Yorktown DPW]] | #Plumbing
 - [ ] #priority-high **2x2 access door (bump out)** | [[Yorktown DPW]] | #Carpentry
 - [ ] #priority-high **Gravel for level spreader** | [[Yorktown DPW]] | #Sitework | 40 sq ft coverage, 20 cu ft, 0.7 cu yd
-- [ ] #priority-high **Contact ABM** | [[Yorktown DPW]] | #HVAC | ERV ductwork in bunk room ceiling — confirm condensate drain and ducting
-- [ ] #priority-high **Sprinkler installation** | [[Yorktown DPW]] | #Fire-Suppression | Date unconfirmed — must be scheduled before closing ceilings
+- [ ] #priority-critical **Paul Revans gas line details** | [[Yorktown DPW]] | #HVAC | Need engineered direction: cap off or install locking valve on existing gas line removed from break room kitchen
+- [x] #para-archives ✅ **Sprinkler installation** | [[Yorktown DPW]] | #Fire-Suppression | CONFIRMED — Tuesday April 7th
 - [x] #para-archives ✅ **Roof drain pipe glued** | [[Yorktown DPW]] | #Plumbing | 2026-03-31
 - [x] #para-archives ✅ **Water cleanup in break room** | [[Yorktown DPW]] | #Cleanup | 2026-03-31
 - [x] #para-archives ✅ **Hanover Electric rough-in — PASSED inspection** | [[Yorktown DPW]] | #Electrical | 2026-03-30 — sticker issued

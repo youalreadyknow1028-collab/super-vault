@@ -238,3 +238,29 @@ Framing, insulation, sheetrock, spackling, ceiling grid, W8 shaft wall assembly
 **Agent:** Supervisor (@super)  
 **Session:** CRM-Deep-Update  
 **Last Full Review:** 2026-04-01
+
+---
+
+### April 2, 2026
+**Source:** Nick update — April 2, 2026
+
+| Event | Details | Status |
+|-------|---------|--------|
+| New contact: Jimmy Spruce | First noted on site — working with Anthony on ceiling grid | 🟢 NEW CONTACT |
+| Spruce 3 men on site | 1 spackler + Anthony + Jimmy Spruce | 🟢 ACTIVE |
+| Anthony + Jimmy: ceiling grid break room | Installing ceiling grid in break room | 🟡 IN PROGRESS |
+| Spackler: bunk room polish coat | Spruce spackler sanding bunk room — polish coat expected today | 🟡 IN PROGRESS |
+| Access door bump-out CO complete | Anthony installed access door in bump-out change order | ✅ **100% COMPLETE** |
+
+---
+
+## 🔴 ACTIVE ITEMS
+| Item | Status |
+|------|--------|
+| Ceiling grid — break room | 🟡 Anthony + Jimmy Spruce installing — ABM cassette issue blocking completion |
+| Ceiling tiles | 🔴 BLOCKED — ABM must adjust cassettes first |
+| Bunk room polish coat | 🟡 IN PROGRESS — spackler working today |
+
+---
+
+*PULSE LAST UPDATED: 2026-04-02*
