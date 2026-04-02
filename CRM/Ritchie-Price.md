@@ -7,7 +7,7 @@ email: rprice@calgiconstruction.com
 phone: "(914) 500-3824"
 projects: Mamaroneck Parks
 priority: P1-ACTIVE
-last_updated: 2026-04-02
+last_updated: 2026-04-01
 ---
 
 # Ritchie Price
@@ -74,7 +74,6 @@ last_updated: 2026-04-02
 | Date | Details |
 |------|---------|
 | 2026-03-31 | Arrived on site ~9:30 AM. Nick brought him up to speed on the Tectonic survey that happened that morning with Katarina Legener. Discussed building layout, rock issue, and building shift plan. |
-| 2026-04-02 | Tectonic survey confirmed — Friday April 3, 7:00 AM. Bob delivered full plans to Katarina Legener on April 1. Survey scope: stake four corners of building, stake retaining walls, establish elevations. |
 
 ## ACTIVE ISSUES
 
@@ -103,4 +102,4 @@ last_updated: 2026-04-02
 ## NOTES
 Ritchie Price is the primary day-to-day contact for the Mamaroneck Parks Sign Shop project. He is organized, communicative, and sends detailed meeting agendas and submittal logs. He manages the AutoDesk project site and coordinates between all parties (owner, engineer, architect, town). He has been proactive about pushing for submittal reviews, particularly HVAC units which are long-lead items. He has also been tracking the permit process closely — obtained demolition permit and commercial rock removal permit. On Feb 20 he noted he would be out 2/23-27 and Dominic Calgi ran the meeting. His direct line is (914) 500-3824. Strong working relationship.
 
-*PULSE LAST UPDATED: 2026-04-02 | Source: Daily Truth 2026-04-01, Daily Truth 2026-04-02*
+*PULSE LAST UPDATED: 2026-04-01 | Source: AOL emails (nflanagan1028@aol.com), raw_email_data.json, Daily Truth 2026-03-31*

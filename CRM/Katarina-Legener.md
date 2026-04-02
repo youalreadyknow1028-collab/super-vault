@@ -7,7 +7,7 @@ email: klegener@tectonic.com
 phone: "(914) 555-0100"
 projects: Mamaroneck Parks
 priority: P1-ACTIVE
-last_updated: 2026-04-02
+last_updated: 2026-04-01
 ---
 
 # Katarina Legener
@@ -51,15 +51,13 @@ last_updated: 2026-04-02
 |------|---------|--------|
 | Building survey + elevations | Mamaroneck Parks | ⏳ Crew coming Friday April 3rd at 7:00 AM |
 | Stake building corners + retaining walls | Mamaroneck Parks | ⏳ Friday April 3rd at 7:00 AM |
-| Full set of plans | Mamaroneck Parks | ✅ **DELIVERED — Bob Camilli delivered on April 1** |
+| **Full set of plans from Mamaroneck Parks Dept** | Mamaroneck Parks | 🔴 **URGENT — Must get to Katarina before Friday April 3rd crew visit** |
 
-## ✅ RESOLVED
+## ⚠️ URGENT ACTION REQUIRED
 
-| Item | Date | Details |
-|------|------|---------|
-| Full set of plans | April 1, 2026 | ✅ **Bob Camilli delivered full plan set to Katarina Legener** |
+> **Nick must obtain the full set of approved plans from the Mamaroneck Parks Department and deliver them to Katarina Legener (klegener@tectonic.com) BEFORE the Friday April 3rd, 7:00 AM crew visit.** Tectonic needs these plans to accurately stake the building corners and retaining walls.
 
 ## NOTES
-Katarina Legener is the Surveyor / Crew Chief at Tectonic responsible for all surveying at the Mamaroneck Parks project. She is professional, on-time, and confirmed Tectonic's commitment to send a crew Friday April 3rd at 7:00 AM for staking. Her email (klegener@tectonic.com) was confirmed from field work. Primary coordination is through Nick on site. **Plans have been delivered by Bob Camilli on April 1. Survey is confirmed for Friday April 3 at 7:00 AM.**
+Katarina Legener is the Surveyor / Crew Chief at Tectonic responsible for all surveying at the Mamaroneck Parks project. She is professional, on-time, and confirmed Tectonic's commitment to send a crew Friday April 3rd at 7:00 AM for staking. Her email (klegener@tectonic.com) was confirmed from field work. Primary coordination is through Nick on site. The critical outstanding action is getting the full plan set to her before the crew visit.
 
 *PULSE LAST UPDATED: 2026-04-01 | Source: Daily Truth 2026-03-31, Field Notes 2026-03-31*
