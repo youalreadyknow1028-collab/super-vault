@@ -33,7 +33,7 @@
 
 | Project | Status | Today |
 |---------|--------|-------|
-| 🟡 **Yorktown DPW** | Active Construction | Timmy re-digging weeping pit. AWS stucco STALLED — awaiting your color approval. Northeast Sprinkler confirmed April 7. |
+| 🟢 **Yorktown DPW** | Active Construction | Timmy re-digging weeping pit. AWS stucco cleared — Bob approved color, Nick to deliver sample for records. Northeast Sprinkler confirmed April 7. |
 | 🟢 **Mamaroneck Parks** | Crew Mobilizing Tomorrow | Bob delivered full plans to Katarina Legener ✅. Tectonic crew 7am Friday — CRITICAL. |
 | 🟡 **Mamaroneck LMC** | Near Closeout | Shop vac and ladders still on site. Daikin startup unconfirmed. Richie Puleo shelves CO pending. |
 | 🟡 **Ardsley Signs** | Scope Issue | Got building access ✅. Tumen on site but MISSING 7 Type C + 9 Type WV signs. Conference call with Dorothy — she will provide revised schedule. |
@@ -56,13 +56,11 @@
 | **EIFS** | Advanced Wall Systems | Stucco STALLED — waiting on Bob color approval | 🔴 BLOCKED |
 | **Fire Suppression** | Northeast Sprinkler | Date CONFIRMED — Tuesday April 7th | ✅ CONFIRMED |
 
-#### 🔴 CRITICAL — Stucco Color Approval Needed TODAY
+#### ✅ Stucco Color — Approved
 
-> Andrew Luzzi from Advanced Wall Systems has the finalized stucco sample with all color information ready for your review.
+> **Bob has approved the stucco color.**
 >
-> **AWS cannot start stucco work until you approve the color.**
->
-> Please call or stop by so Nick can deliver the sample to you.
+> Nick just needs to deliver the Andrew Luzzi color sample to Bob for his records.
 
 #### 🔴 CRITICAL — Door Opening Must Be Restricted to 90°
 
@@ -198,7 +196,7 @@ No site visit today.
 
 | Item | Owner | Urgency |
 |------|-------|---------|
-| **🔴 APPROVE STUCCO COLOR — Andrew Luzzi / AWS sample ready** | Bob Camilli | 🔴 **CRITICAL — blocks all stucco work** |
+| **Deliver stucco sample to Bob for records** | Nick | 🟡 **TODAY** |
 | **🔴 Restrict door to 90°** | Nick / TBD | 🔴 **CRITICAL — door will hit stucco** |
 | Dorothy (Tumen) revised schedule | Dorothy | 🔴 HIGH — missing 7 Type C + 9 Type WV signs |
 | ABM Mechanical contact (ERV + condensate) | Nick | 🔴 HIGH |
@@ -229,8 +227,9 @@ Rainy, 46°F, ENE 14mph — wet and raw conditions. Limited exterior work possib
 ## 📅 Tomorrow's Plan (April 3)
 
 - **7:00 AM — TECTONIC CREW AT MAMARONECK PARKS** — elevations, stake building corners + retaining walls (CRITICAL)
+- Deliver stucco sample to Bob for his records
 - Check Timmy's weeping pit — verify proper dimensions per David Tetro
-- AWS stucco work — **only if Bob approves color TODAY**
+- AWS stucco work — color ALREADY APPROVED, ready to proceed
 - Restrict door to 90° before stucco work begins
 - Follow up with Dorothy (Tumen) on revised sign installation date
 - Install copper pipe insulation (materials on site)

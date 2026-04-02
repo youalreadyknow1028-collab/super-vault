@@ -42,7 +42,7 @@ aliases:
 - [[Andrew Luzzi]] PERFORMS_EIFS_AT [[Yorktown DPW]]
 - [[Advanced Wall Systems]] PERFORMS_STUCCO_AT [[Yorktown DPW]]
 - [[David Tetro]] PROVIDES_EIFS_SPECS_FOR [[Andrew Luzzi]] AT [[Yorktown DPW]]
-- [[Bob Camilli]] APPROVES_STUCCO_COLOR_FOR [[Andrew Luzzi]] AT [[Yorktown DPW]]
+- [[Bob Camilli]] APPROVED_STUCCO_COLOR_FOR [[Andrew Luzzi]] AT [[Yorktown DPW]]
 - [[Andrew Luzzi]] WAITS_FOR [[Hanover Electric]] (exterior lighting rough-in before stucco base)
 
 ---
@@ -53,7 +53,7 @@ aliases:
 |---|---|
 | **Relationship health** | 🟢 GOOD — ACTIVE |
 | **Channel** | Field / through Bob Camilli |
-| **Status** | 🟡 WAITING — Bob needs to approve stucco color before AWS can start |
+| **Status** | ✅ COLOR APPROVED — Nick to deliver sample to Bob for records |
 
 ---
 

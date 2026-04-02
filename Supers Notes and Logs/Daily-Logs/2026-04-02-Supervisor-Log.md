@@ -69,7 +69,7 @@
 | Item | Project | Question |
 |------|---------|----------|
 | **ACTIVE:** Call Billy Cerutti — get into Ardsley | [[Ardsley-High-School]] | ✅ GOT ACCESS |
-| **ACTIVE:** Stucco color approval from Bob | [[Yorktown-DPW]] | 🔴 URGENT — Bob must approve TODAY |
+| **DONE:** Stucco color approval from Bob | [[Yorktown-DPW]] | ✅ Bob approved — just need to deliver sample for records |
 | **ACTIVE:** Restrict door to 90° | [[Yorktown-DPW]] | 🔴 STILL OPEN |
 | **ACTIVE:** Tectonic crew Friday 7am | [[Mamaroneck-Parks]] | 🔴 TOMORROW — CRITICAL |
 | **DONE:** Timmy re-digging weeping pit | [[Yorktown-DPW]] | ✅ IN PROGRESS |

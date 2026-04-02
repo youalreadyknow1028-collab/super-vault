@@ -39,7 +39,7 @@ date: 2026-04-02
 - [ ] #priority-critical **RFI-Y-7: Gas line in kitchen wall** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~10 DAYS OVERDUE
 - [ ] #priority-critical **RFI-Y-9: Door D8 condition** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~10 DAYS OVERDUE
 - [ ] #priority-critical **EIFS pan flashing coordination** | [[Yorktown DPW]] | #EIFS | [[Bob Camilli]] to call [[David Tetro]] when ready
-- [ ] #priority-critical **Stucco color approval from Bob** | [[Yorktown DPW]] | #Stucco | Bob must approve Andrew Luzzi's color sample TODAY — blocks ALL stucco work
+- [ ] #priority-high **Deliver stucco sample to Bob for records** | [[Yorktown DPW]] | #Stucco | Nick to deliver — color ALREADY APPROVED
 - [ ] #priority-critical **Restrict door to 90°** | [[Yorktown DPW]] | #Stucco | Door opens 180° — will hit stucco/base when installed — must restrict before AWS starts
 - [ ] #priority-critical **Contact ABM Mechanical** | [[Yorktown DPW]] | #HVAC | ERV ductwork + condensate drain — STILL NOT CONTACTED
 - [ ] #priority-critical **Northeast Sprinkler on site** | [[Yorktown DPW]] | #FireSuppression | ✅ CONFIRMED — Tuesday April 7th — blocks ceiling close

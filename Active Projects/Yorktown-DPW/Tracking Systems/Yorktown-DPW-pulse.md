@@ -34,7 +34,7 @@
 |------|-------|--------|--------|
 | AM | Timmy on site — re-digging weeping pit to David Tetro dimensions | Daily Truth | 🟡 IN PROGRESS |
 | AM | Timmy went to Lowe's 9am — picked up gravel + pipe insulation | Daily Truth | ✅ DONE |
-| AM | Advanced Wall Systems stucco work STALLED — Bob hasn't approved color sample | Daily Truth | 🔴 BLOCKED |
+| AM | Stucco color APPROVED by Bob — Nick to deliver sample to Bob for records | Nick update | ✅ APPROVED |
 | AM | Door restriction 180° still not resolved | Daily Truth | 🔴 PENDING |
 | AM | Northeast Sprinkler CONFIRMED — Tuesday April 7th | Daily Truth | ✅ CONFIRMED |
 
@@ -172,7 +172,7 @@
 ## 🔴 CURRENT BLOCKERS
 | Blocker | Identified | Blocks | Status |
 |---------|------------|--------|--------|
-| **Stucco color approval** | 2026-04-02 | AWS stucco cannot start | 🔴 BOB MUST APPROVE TODAY |
+| **Stucco color approval** | 2026-04-02 | AWS stucco cannot start | ✅ **APPROVED — deliver sample to Bob for records** |
 | **Door restriction 180°** | 2026-04-02 | Door will hit stucco/base | 🔴 MUST RESOLVE |
 | **Level spreader / weeping pit** | 2026-03-31 | stormwater system | 🔴 TIMMY RE-DOING |
 | **ABM Mechanical contact** | 2026-04-02 | ERV ductwork + condensate | 🔴 NOT CONTACTED YET |
