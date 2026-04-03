@@ -8,18 +8,19 @@
 ---
 
 ## 🏗️ MAMARONECK PARKS DEPARTMENT (150 Myrtle Ave)
-**Status:** Survey Complete — Next: Tectonic returns Monday April 6
+**Status:** Survey In Progress — Tectonic returns Monday April 6
 
 | Item | Status | Notes |
 |------|--------|-------|
-| Tectonic Survey | ✅ COMPLETE | Chris Posada on site April 3 — established vertical + horizontal control |
+| Control Points Established | ✅ COMPLETE | Chris Posada on site April 3 |
 | Vertical Control | ✅ Benchmark set | South wall of existing building |
 | Horizontal Control | ✅ Off-site set | Near rocks — protected from equipment damage |
-| Control Points | ✅ 4 set | Maple cul-de-sac, Myrtle Blvd, Baldwin Ave, on-site |
+| 3 Off-Site Control Points | ✅ Set | Maple cul-de-sac, Myrtle Blvd, Baldwin Ave |
+| On-Site Control Point | ✅ Set | Established April 3 |
 | Building Shift Evaluation | 🔎 Monday | Chris evaluating if building can shift to avoid rock |
 | Rock Chipping Permit | ✅ ISSUED | Commercial permit — Ritchie Price / Calgi |
 
-**Today:** Nick on site 6:30 AM — met Chris Posada (Tectonic) + Bob arrived 7:30 AM. Survey complete 1:30 PM.
+**Today:** Nick on site 6:30 AM — met Chris Posada (Tectonic) + Bob arrived 7:30 AM. Established control points and benchmark. Left 1:30 PM.
 
 **Monday April 6 — Tectonic Returns:**
 Chris Posada + 1 crew — 7:00 AM. Set four corners of building. Establish vertical + horizontal control on site. Evaluate building shift. Stake retaining walls if building can shift.
@@ -98,7 +99,7 @@ Chris Posada + 1 crew — 7:00 AM. Set four corners of building. Establish verti
 | **Tue Mar 31** | Katarina Legener (Tectonic) walked Parks site with Nick + Bob + Richie Price (Calgi). Sheetrock ongoing at Yorktown. |
 | **Wed Apr 1** | Spruce sheetrocking + spackling. Andrew Luzzi (AWS) delivered stucco material. |
 | **Thu Apr 2** | Break room ceiling grid + tiles COMPLETE. Bump-out CO COMPLETE. Stucco/EIFS STARTED. Stucco color approved. Weeping pit corrected. |
-| **Fri Apr 3** | Tectonic survey complete at Parks (Chris Posada). Bob on site 7:30 AM. Control points established. Building shift evaluation Monday. |
+| **Fri Apr 3** | Chris Posada (Tectonic) established control points + benchmark at Parks. Bob on site 7:30 AM. Four corners + retaining walls Monday April 6. |
 
 ---
 
