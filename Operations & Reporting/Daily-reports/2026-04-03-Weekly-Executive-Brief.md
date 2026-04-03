@@ -9,15 +9,15 @@
 
 ## 🎯 EXECUTIVE SUMMARY
 
-**Week Status:** 🟢 Parks survey complete / 🟡 Yorktown accelerating / 🟡 LMC near closeout
+**Week Status:** 🟡 Parks survey in progress / 🟡 Yorktown accelerating / 🟡 LMC near closeout
 **Active Projects:** 4 sites
 **Critical Path:** Yorktown — finish spackle + schedule ABM/Hanover/Taub / Parks — Tectonic returns Monday to set corners
 
 ### 🏆 Major Wins This Week
 | Milestone | Project | Date |
 |-----------|---------|------|
-| **Tectonic survey COMPLETE** — vertical + horizontal control established | Mamaroneck Parks | April 3 |
-| **Break room ceiling grid + tiles COMPLETE** | Yorktown DPW | April 2 |
+| **Tectonic control points established** — vertical + horizontal control, benchmark set | Mamaroneck Parks | April 3 |
+| **Break room ceiling tiles INSTALLED** | Yorktown DPW | April 2 |
 | **Bunk room spackle 95%+** | Yorktown DPW | April 2 |
 | **Stucco/EIFS work STARTED** | Yorktown DPW | April 2 |
 | **Bump-out CO 100% COMPLETE** — heater removed + access door installed | Yorktown DPW | April 2 |
@@ -79,8 +79,8 @@
 | Bunk Room Framing | ✅ 100% | March 25 | Spruce |
 | Bunk Room Sheetrock | ✅ 100% | April 1 | Spruce |
 | Bunk Room Spackle | 🟡 95%+ | April 2 | Spruce |
-| Bunk Room Ceiling Grid | ✅ 100% | April 1 | Spruce |
-| Bunk Room Ceiling Tiles | ✅ 100% | April 2 | Spruce |
+| Bunk Room Ceiling Grid | 🔎 PENDING | TBD | Anthony / Spruce |
+| Bunk Room Ceiling Tiles | 🔎 PENDING | TBD | Anthony / Spruce |
 | Break Room Framing | ✅ 100% | March 26 | Spruce |
 | Break Room Sheetrock | ✅ 100% | March 31 | Spruce |
 | Break Room Spackle | 🟡 60% | April 2 | Spruce |
@@ -216,10 +216,10 @@
 |--------|-----------|-----------|--------|
 | **Projects Active** | 4 | 4 | 🟢 |
 | **Major Milestones** | 11 | 13 | 🟢 |
-| **CEILINGS CLOSED** | 2 rooms (break room) | 0 | 🟢 |
+| **CEILINGS CLOSED** | 1 room (break room) | 0 | 🟢 |
 | **Change Orders Complete** | 1 (bump-out) | 1 | 🟢 |
 | **Trade Startups** | 1 (EIFS started) | 2 | 🟡 |
-| **Surveys Completed** | 1 (Parks) | 0 | 🟢 |
+| **Surveys Completed** | 0 | 0 | 🟡 |
 | **Safety Incidents** | 0 | 0 | 🟢 |
 | **Weather Delays** | 0 | 0 | 🟢 |
 

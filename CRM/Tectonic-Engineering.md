@@ -25,6 +25,7 @@ aliases:
 - 🏢 Organization: Tectonic Engineering
 - 💼 Role: Survey / Civil Engineering
 - Primary Contact: [[Katarina-Legener]] (Surveyor / Civil Engineer)
+- Crew Chief: [[Chris-Posada]] (Crew Chief — conducted April 3 survey)
 
 ---
 

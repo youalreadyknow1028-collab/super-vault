@@ -1,6 +1,6 @@
 # 📍 YORKTOWN DPW PULSE — Complete History
 ## 281 Underhill Avenue, Yorktown Heights, NY
-**Last Updated:** 2026-04-02 (April 2 entries added)  
+**Last Updated:** 2026-04-03 (proofreading corrections — ceiling status clarified)  
 **Maintained by:** Supervisor (@super)
 
 ---
@@ -105,11 +105,13 @@
 | PM | Redo level spreader / weeping pit — proper dimensions per David Tetro | Daily Truth | 📅 APR 01 |
 | PM | 2x2 panel lights arriving | Daily Truth | 📅 APR 01 |
 
-**Spruce Progress Detail (March 31):**
-| Room | Framing | Sheetrock | Spackling | Wall Angle | Ceiling Grid |
-|------|---------|-----------|-----------|------------|--------------|
-| Bunk Room | 100% ✅ | — | 95% 🟡 | 0% ⏳ | 0% ⏳ |
-| Break Room | 100% ✅ | 90% 🟡 | 0% ⏳ | 0% ⏳ | 0% ⏳ |
+**Spruce Progress Detail (April 2, EOD):**
+| Room | Framing | Sheetrock | Spackling | Ceiling Grid | Ceiling Tiles |
+|------|---------|-----------|-----------|--------------|---------------|
+| Bunk Room | 100% ✅ | 100% ✅ | 95% 🟡 | 🔎 IN PROGRESS | ⏳ PENDING |
+| Break Room | 100% ✅ | 100% ✅ | 60% 🟡 | 100% ✅ | 100% ✅ |
+
+> ⚠️ Proofreading note: Anthony + Jimmy Spruce completed break room ceiling grid + tiles April 2 PM. Bunk room ceiling grid/tiles status uncertain — Anthony was blocked by spacklers April 1. Confirm with Nick.
 
 **Email Activity — March 31:**
 - **Paul Revans → Bob Camilli:** Asked about HVAC equipment, outlets, lighting scope

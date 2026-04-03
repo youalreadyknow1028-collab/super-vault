@@ -5,7 +5,7 @@
 
 **Last Updated:** April 3, 2026  
 **Prepared by:** Supervisor Agent (@super)  
-**Status:** ACTIVE PROJECT — Survey crew on site April 3, 2026 — corners + retaining walls staked
+**Status:** ACTIVE PROJECT — Control points + benchmark established April 3 — Four corners + retaining walls: April 6, 2026
 
 ---
 
@@ -21,7 +21,7 @@
 | **Architect** | Lewis + Lewis Architects (Paige) |
 | **Civil Engineer** | Tectonic Surveying (Katarina Legener) |
 | **Geotechnical** | Carlin-Simpson & Associates (2023 report) |
-| **Current Phase** | Demolition Complete — Survey Complete — Construction Starting |
+| **Current Phase** | Demolition Complete — Survey In Progress — Four Corners + Retaining Walls April 6 |
 | **Next Milestone** | Building permit issuance — pending; possible building shift to avoid rock — Bob to confirm |
 
 ---

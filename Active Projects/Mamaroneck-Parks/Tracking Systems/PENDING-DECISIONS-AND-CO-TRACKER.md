@@ -1,7 +1,7 @@
 # 📋 PENDING DECISIONS & CHANGE ORDER TRACKER — Mamaroneck Parks
 ## 150 Myrtle Ave, Mamaroneck, NY
 **Project:** Town of Mamaroneck Parks Dept & Sign Shop Facility  
-**Last Full Update:** 2026-04-02 16:10 EDT (submittal data added from Autodesk CRM)  
+**Last Full Update:** 2026-03-27 01:21 EDT  
 **Tracker Status:** DEMOLITION COMPLETE — NEW CONSTRUCTION PENDING  
 **Maintained by:** Supervisor (@super)
 
@@ -59,71 +59,18 @@
 - 2026-02-26: 🔴 IDENTIFIED — Wall location revised per updated drawings
 - 2026-03-26: 🔴 STILL PENDING — Awaiting Nick approval
 
-## 🟡 SUBMITTAL LOG SUMMARY (via Autodesk Construction Cloud)
-*Source: CRM/Autodesk-Construction-Cloud.md — Updated April 2, 2026*
-
-| Status | Count |
-|--------|-------|
-| **Open / Pending** | 144 submittals |
-| **Revise & Resubmit** | 8 submittals |
-| **Approved** | 13 submittals |
-| **Total Unique Submittals** | 165 |
-
-### 🔴 KEY OPEN SUBMITTALS — BALL IN COURT
-
-| Submittal # | Description | Ball In Court | Spec |
-|-------------|-------------|---------------|------|
-| 074600-2 | Metal Wall Panels — color needed | Ritchie Price | 074600 |
-| 085413 | Fiberglass Windows | Ritchie Price | 085413 |
-| 230000-21 | Gas Detection (Intec Controls) | Ritchie Price | 230000 |
-| 230000-5 | AC#1, AC#2, AC#3 — Daikin substitute | Ritchie Price | 230000 |
-| 230000-19 | Building Exhaust Fan EF#1 — substitute | Ritchie Price | 230000 |
-| 230000-18 | Electric Wall Heater EWH#1 | Ritchie Price | 230000 |
-| 220000-6 | ADA Shower Base | Ritchie Price | 220000 |
-| 220000-7 | AOSmith Heat Pump Water Heater | Ritchie Price | 220000 |
-| 220000-8 | Haws Emergency Shower/Eyewash | Ritchie Price | 220000 |
-| 220000-9 | Toilet Room Floor Drain | Ritchie Price | 220000 |
-| 220000-10 | Symmons Shower Set | Ritchie Price | 220000 |
-| 220000-12 | Solids Interceptor Zurn #Z-1180 | Ritchie Price | 220000 |
-| 220000-13 | Watts Backflow Preventer | Ritchie Price | 220000 |
-| 220000-14 | Mop Sink Faucet | Ritchie Price | 220000 |
-| 220000-15 | Mop Sink | Ritchie Price | 220000 |
-| 220000-18 | Plumbing Material Schedule | Ritchie Price | 220000 |
-
-### 🔄 REVISE & RESUBMIT
-
-| Submittal # | Description | Ball In Court |
-|-------------|-------------|---------------|
-| 060523-1 | Simpson Framing Brackets | Ritchie Price |
-| 060523-2 | Simpson Connectors — Resubmit 1 | Ritchie Price |
-| 079200-3 | A — Product Data | Ritchie Price |
-| 220000-7 | AOSmith Heat Pump Water Heater | Ritchie Price |
-| 220000-18 | Plumbing Material Schedule | Ritchie Price |
-| 220000-24 | Cast Iron No-Hub Piping | Ritchie Price |
-| 230000-2 | Ductwork Shop Drawings | Ritchie Price |
-
-### ✅ RECENT APPROVALS
-
-| Submittal # | Description | Date |
-|-------------|-------------|------|
-| 032000-2 | Rebar Shop Drawings (cleaned) | 2026-03-16 |
-| 230000-20 | ERV#1 UNIT | 2026-03-11 |
-| 230000-1 | Ductwork Standards | 2026-03-11 |
-| 072100-1 | A — Product Data | 2026-02-17 |
-| 071100-1 | A — Product Data | 2026-02-17 |
-| 032000-1 | Concrete Rebar Shop Drawings | 2026-02-17 |
-| 096500-2 | Flooring & Vinyl Base | 2026-02-17 |
-| 033000-7 | Concrete Design Mixes 4500 psi | 2026-02-12 |
-| 033000-5 | Concrete Submittals | 2026-02-11 |
-
-**Most Recent (Apr 2):** Submittal #02 82 00-2 — Close Out Documents / Waste Manifests → Ritchie Price → Michael Perri
-
-**Submittal Process:** All submittals route through Ritchie Price → Tietjen Venegas (TVE). TVE has 2-week review turnaround. Long lead items (ERV, HVAC) reviewed immediately.
+### 🟡 FIBERGLASS WINDOW SUBMITTAL
+| Field | Value |
+|-------|-------|
+| **Item** | Fiberglass window submittal (#085413-5) |
+| **Identified** | 2026-03-26 |
+| **Source** | Autodesk / Submittal review |
+| **Status** | 🟡 REVIEW NEEDED |
+| **Action Needed** | Verify submittal release |
 
 **History:**
 - 2026-03-26: 🟡 IDENTIFIED — 14 new Autodesk submittals received, need review
 - 2026-03-26: 🟡 ACTION — Verify if submittal #085413-5 was released
-- 2026-04-02: 📊 Autodesk CRM created — 165 unique submittals logged. 144 open, 13 approved, 8 revise & resubmit
 
 ### 🟡 LOFT ACCESS LADDER
 | Field | Value |

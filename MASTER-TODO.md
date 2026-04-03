@@ -88,7 +88,7 @@ date: 2026-04-02
 - [x] #para-archives ✅ **Abatement 100%** | [[Mamaroneck Parks]] | 2026-03-25
 - [x] #para-archives ✅ **Demolition 100%** | [[Mamaroneck Parks]] | 2026-03-19
 - [x] #para-archives ✅ **Tectonic site visit** | [[Mamaroneck Parks]] | 2026-03-31
-- [ ] #priority-critical **Tectonic crew Monday 7am** | [[Mamaroneck Parks]] | #Survey | ✅ APRIL 3 DONE — Chris Posada set control points — Monday April 6, 7:00 AM: set four corners + vertical/horizontal control + evaluate building shift
+- [ ] #priority-critical **Tectonic crew Monday 7am** | [[Mamaroneck Parks]] | #Survey | ✅ CONTROL POINTS DONE APRIL 3 — Monday April 6, 7:00 AM: set four corners + vertical/horizontal control on site + evaluate building shift + stake retaining walls
 
 ### Ardsley Signs
 
@@ -110,7 +110,7 @@ date: 2026-04-02
 | **April 2 (Thu) — DONE** | 4" gap kitchen wall base — structolite | Yorktown | ✅ DONE |
 | **April 2 (Thu) — DONE** | Weeping pit dug correctly | Yorktown | ✅ DONE |
 | **April 2 (Thu) — DONE** | Bob approve stucco color | Yorktown | ✅ APPROVED |
-| **April 2 (Thu) — STILL OPEN** | Restrict door to 90° | Yorktown | 🔴 STILL PENDING — blocks stucco base |
+| **April 2 (Thu) — ⚠️ UNCLEAR** | Restrict door to 90° | Yorktown | 🔎 UNCLEAR — stucco/EIFS started April 2, need to confirm if door was restricted before base went on |
 | **April 2 (Thu) — STILL OPEN** | ABM Mechanical | Yorktown | 🔴 STILL NOT CONTACTED |
 | **April 2 (Thu) — STILL OPEN** | Taub Flooring scheduling | Yorktown | 🔴 STILL NEEDED |
 | **April 2 (Thu) — STILL OPEN** | Hanover Electric lighting scheduling | Yorktown | 🔴 STILL NEEDED |
