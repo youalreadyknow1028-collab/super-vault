@@ -658,8 +658,8 @@ Bob C.
 - No field activity today at Parks
 
 ### TODAY'S ACTIVITY (April 3)
-- **6:30 AM** — Nick arrived at Parks, met Tectonic crew (Chris)
-- **Chris (Tectonic)** established two new control points:
+- **6:30 AM** — Nick arrived at Parks, met Chris Posada (Tectonic)
+- **Chris Posada (Tectonic)** established two new control points:
   - Point across field on Baldwin Avenue (established)
   - Maple in the cul-de-sac (established)
   - Myrtle near fire hydrant (established)
@@ -667,11 +667,23 @@ Bob C.
 - Measured from existing hardpoints (building corners, curbs, manhole covers) to establish horizontal and vertical control
 - **7:30 AM** — Bob Camilli arrived on site
 - Nick + Bob + Chris reviewed drawings, confirmed elevations for Chris
-- **Possible building shift** to avoid rock — Bob reviewing with Chris
-- Staked: four corners of building + retaining wall
+- **Vertical Control:** Benchmark on south wall of existing building (simplified from BFE due to site elevation challenges)
+- **Horizontal Control:** Off-site control point near rocks above construction area (protects layout markers from equipment damage)
+- **Possible building shift** to avoid rock — Chris evaluating on Monday
+- Nick left Parks at 1:30 PM — headed to office to drop checks off for Bob
 
 ### OPEN ITEM
-- Bob to confirm: building shift to avoid rock — elevations need to be re-established with new building position
+- Building shift to avoid rock — Chris Posada evaluating Monday April 6 with Bob
+
+### APRIL 6 MONDAY PLAN (Tectonic)
+- Chris Posada + 1 additional crew member — 7:00 AM
+- Set four corners of building
+- Establish vertical and horizontal control points on site
+- Evaluate if building can shift to avoid rock
+- If yes: lay out retaining walls
+
+### APRIL 7 TUESDAY
+- **Steve (site work contractor):** Drop off chipping machine at Parks
 
 ---
 

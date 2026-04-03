@@ -62,17 +62,25 @@
 | EOD | Hanover Electric — lighting installation | Nick | 🔴 SCHEDULE NEEDED — room is dark |
 
 **Today's Plan (April 3 — TODAY):**
-- **✅ DONE — Nick:** 7:00 AM Mamaroneck Parks — meet Tectonic crew + Bob, stake corners + retaining walls
-- **Manuel/AWS:** Paint on waterproofing membrane — verify on site
-- **Anthony + Jimmy Spruce:** Install ceiling tiles in bunk room — verify on site
-- **Bob:** Schedule ABM Mechanical + Taub Flooring
+- **✅ DONE — Nick:** 6:30 AM Mamaroneck Parks — met Chris Posada (Tectonic), then Bob at 7:30 AM — survey + control points established — left Parks 1:30 PM
+- **🔴 NO NICK COVERAGE AT YORKTOWN** — all day at Parks
+- **❌ No trades on site at Yorktown today**
 - **🔴 ABM Mechanical:** STILL NEEDS TO BE SCHEDULED — cassette heights, ERV ductwork, condensate drains
 - **🔴 Taub Flooring:** Schedule Anthony to prep break room floor
 - **🔴 Hanover Electric:** Schedule for lighting installation
+- **🔴 Emergency lighting delivered** — pickup from office needed (Nick)
 
 **SCHEDULE CHANGE — Bob confirmed April 3:**
 - **Spruce spackler:** ❌ NOT TODAY — moved to Monday April 6
 - **Timmy:** ❌ NOT TODAY — moved to Tuesday April 7 (gravel + paint + level spreader + painting bunk room + pipe insulation)
+
+**APRIL 6 (MONDAY) — UPDATED:**
+- **Spruce spackler:** Yorktown — finish bunk room 100%, break room 100%, Dave's office 100%
+- **Spruce Construction:** Mamaroneck LMC — finish cabinet doors CO + install missing shelving
+
+**APRIL 7 (TUESDAY) — CONFIRMED:**
+- **Timmy:** Yorktown — gravel + paint + level spreader + painting bunk room + pipe insulation
+- **Northeast Sprinkler:** On site ✅
 
 ### MARCH 2026
 

@@ -49,7 +49,7 @@ date: 2026-04-02
 - [ ] #priority-critical **Schedule Taub Flooring (Anthony)** | [[Yorktown DPW]] | #Flooring | 🔴 SCHEDULE NOW — break room floor needs prep before finish
 - [ ] #priority-critical **Schedule Hanover Electric — lighting** | [[Yorktown DPW]] | #Electrical | 🔴 SCHEDULE NOW — room is dark, need lights to work
 - [ ] #priority-high **Sheetrock break room** | [[Yorktown DPW]] | #Carpentry | 🟡 95% — one more coat + polish in some areas
-- [ ] #priority-high **Window sills — men's and women's room** | [[Yorktown DPW]] | #Carpentry | Spruce — not started
+- [ ] #priority-high **Emergency lighting delivered — pickup from office** | [[Yorktown DPW]] | #Electrical | 🔴 NEEDED — delivered, sitting at office
 - [ ] #priority-high **Window trim** (J-bead or break-away tape) | [[Yorktown DPW]] | #Carpentry
 - [ ] #priority-high **Floor grinding** at bunk/break room doorway | [[Yorktown DPW]] | #General | 1/2" diff
 - [ ] #priority-high **W8 formal CO** | [[Yorktown DPW]] | #ChangeOrder
@@ -88,7 +88,7 @@ date: 2026-04-02
 - [x] #para-archives ✅ **Abatement 100%** | [[Mamaroneck Parks]] | 2026-03-25
 - [x] #para-archives ✅ **Demolition 100%** | [[Mamaroneck Parks]] | 2026-03-19
 - [x] #para-archives ✅ **Tectonic site visit** | [[Mamaroneck Parks]] | 2026-03-31
-- [ ] #priority-critical **Tectonic crew Friday 7am** | [[Mamaroneck Parks]] | #Survey | 🔴 TODAY APRIL 3 — 7:00 AM sharp
+- [ ] #priority-critical **Tectonic crew Monday 7am** | [[Mamaroneck Parks]] | #Survey | ✅ APRIL 3 DONE — Chris Posada set control points — Monday April 6, 7:00 AM: set four corners + vertical/horizontal control + evaluate building shift
 
 ### Ardsley Signs
 
@@ -114,12 +114,14 @@ date: 2026-04-02
 | **April 2 (Thu) — STILL OPEN** | ABM Mechanical | Yorktown | 🔴 STILL NOT CONTACTED |
 | **April 2 (Thu) — STILL OPEN** | Taub Flooring scheduling | Yorktown | 🔴 STILL NEEDED |
 | **April 2 (Thu) — STILL OPEN** | Hanover Electric lighting scheduling | Yorktown | 🔴 STILL NEEDED |
-| **April 3 (Fri), 7:00 AM** | Nick: Mamaroneck Parks — meet Tectonic/Katarina crew, stake 4 corners + retaining walls | Mamaroneck Parks | ✅ DONE |
-| **April 3 (Fri)** | Manuel/AWS: paint on waterproofing membrane | Yorktown | 🟡 ON SITE — verify |
-| **April 3 (Fri)** | Anthony + Jimmy: ceiling tiles — bunk room | Yorktown | 🟡 ON SITE — verify |
+| **April 3 (Fri), 7:00 AM** | Nick: Mamaroneck Parks — meet Tectonic crew, stake 4 corners + retaining walls | Mamaroneck Parks | ✅ DONE |
+| **April 3 (Fri)** | Nick: at Mamaroneck Parks all day (until 1:30 PM) — survey with Chris Posada | Mamaroneck Parks | ✅ DONE |
+| **April 6 (Mon), 7:00 AM** | Chris Posada + 1 (Tectonic): set four corners, vertical/horizontal control, evaluate building shift | Parks | 📅 MONDAY |
 | **April 6 (Mon)** | Spruce spackler: finish bunk room 100%, break room 100%, Dave's office 100% | Yorktown | 📅 MONDAY |
+| **April 6 (Mon)** | Spruce Construction: cabinet doors CO + missing shelving | Mamaroneck LMC | 📅 MONDAY |
 | **April 7 (Tue)** | Timmy: pickup ~10 more bags gravel + paint → Yorktown, finish level spreader, begin painting bunk room, insulate copper lines | Yorktown | 📅 TUESDAY |
 | **April 7 (Tue)** | Northeast Sprinkler on site | Yorktown | ✅ CONFIRMED |
+| **April 7 (Tue)** | Steve (site work): drop off chipping machine | Parks | 📅 TUESDAY |
 | **April 9 (TBD)** | Next Construction Progress Meeting | Parks |
 
 ---
