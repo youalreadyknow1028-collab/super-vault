@@ -140,8 +140,8 @@
 | Window sills — men's and women's room | Spruce | ⏳ NOT STARTED |
 | 4" gap at base of kitchen wall — bunk room | Timmy | ✅ FILLED WITH STRUCTOLITE |
 | Break room debris cleanup | Timmy | ✅ DONE |
-| Gravel pickup | Timmy | 🟡 24 bags picked up — need ~10 more |
-| Copper water lines insulation — kitchen/exterior wall, break room | Timmy | 📅 TOMORROW |
+| Gravel pickup | Timmy | 🟡 24 bags picked up April 2 — need ~10 more bags TODAY April 3 |
+| Copper water lines insulation — kitchen/exterior wall, break room | Timmy | ✅ PICKED UP APRIL 2 — Timmy installing TODAY April 3 |
 
 ### Coordination / Scheduling Needed
 | Item | Status |
@@ -151,7 +151,7 @@
 | ABM Mechanical — cassette heights, ERV ductwork, condensate drains | 🔴 STILL BLOCKING ceiling completion |
 | Northeast Sprinkler | ✅ CONFIRMED — Tuesday April 7 |
 
-### Tomorrow — April 3, 2026
+### Today — April 3, 2026 (from April 2 perspective: "Tomorrow")
 | Time | Person | Task |
 |------|--------|------|
 | Morning | Timmy | Pick up ~10 more bags gravel |

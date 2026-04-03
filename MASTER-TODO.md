@@ -59,9 +59,9 @@ date: 2026-04-02
 - [x] #para-archives ✅ **4" gap kitchen wall base — bunk room** | [[Yorktown DPW]] | #Carpentry | COMPLETE — Timmy filled with structolite April 2
 - [x] #para-archives ✅ **Bump out around heater pipe (CO)** | [[Yorktown DPW]] | #ChangeOrder | 100% COMPLETE — Anthony installed access door April 2
 - [ ] #priority-high **Level spreader / weeping pit** | [[Yorktown DPW]] | #Sitework | Gravel in (24 bags), pit dug — 🔴 CONFIRM WITH BOB: concrete curb on one side per David Tetro specs?
-- [ ] #priority-high **Pipe insulation (hot/cold water lines)** | [[Yorktown DPW]] | #Plumbing | 📅 TOMORROW — Timmy insulates copper lines, kitchen/exterior wall, break room
+- [ ] #priority-high **Pipe insulation (hot/cold water lines)** | [[Yorktown DPW]] | #Plumbing | ✅ PICKED UP APRIL 2 — Timmy installing TODAY April 3
 - [x] #para-archives ✅ **2x2 access door (bump out)** | [[Yorktown DPW]] | #Carpentry | COMPLETE — Anthony installed April 2
-- [ ] #priority-high **Gravel for level spreader** | [[Yorktown DPW]] | #Sitework | 24 bags picked up — need ~10 more bags — Timmy picking up tomorrow
+- [ ] #priority-high **Gravel for level spreader** | [[Yorktown DPW]] | #Sitework | 🟡 PARTIAL — 24 bags picked up April 2 — need ~10 more bags TODAY April 3
 - [ ] #priority-critical **Paul Revans gas line details** | [[Yorktown DPW]] | #HVAC | Need engineered direction: cap off or install locking valve on existing gas line removed from break room kitchen
 - [x] #para-archives ✅ **Sprinkler installation** | [[Yorktown DPW]] | #Fire-Suppression | CONFIRMED — Tuesday April 7th
 - [x] #para-archives ✅ **Roof drain pipe glued** | [[Yorktown DPW]] | #Plumbing | 2026-03-31
@@ -88,7 +88,7 @@ date: 2026-04-02
 - [x] #para-archives ✅ **Abatement 100%** | [[Mamaroneck Parks]] | 2026-03-25
 - [x] #para-archives ✅ **Demolition 100%** | [[Mamaroneck Parks]] | 2026-03-19
 - [x] #para-archives ✅ **Tectonic site visit** | [[Mamaroneck Parks]] | 2026-03-31
-- [ ] #priority-critical **Tectonic crew Friday 7am** | [[Mamaroneck Parks]] | #Survey | 🔴 TOMORROW — 7:00 AM sharp
+- [ ] #priority-critical **Tectonic crew Friday 7am** | [[Mamaroneck Parks]] | #Survey | 🔴 TODAY APRIL 3 — 7:00 AM sharp
 
 ### Ardsley Signs
 
@@ -115,12 +115,11 @@ date: 2026-04-02
 | **April 2 (Thu) — STILL OPEN** | Taub Flooring scheduling | Yorktown | 🔴 STILL NEEDED |
 | **April 2 (Thu) — STILL OPEN** | Hanover Electric lighting scheduling | Yorktown | 🔴 STILL NEEDED |
 | **April 3 (Fri), 7:00 AM** | Nick: Mamaroneck Parks — meet Tectonic/Katarina crew, stake 4 corners + retaining walls | Mamaroneck Parks | 🔴 CRITICAL |
-| **April 3 (Fri)** | Manuel/AWS: paint on waterproofing membrane | Yorktown | 📅 TOMORROW |
-| **April 3 (Fri)** | Anthony + Jimmy: ceiling tiles — bunk room | Yorktown | 📅 TOMORROW |
-| **April 3 (Fri)** | Spruce spackler: finish bunk room 100%, break room 100%, Dave's office 100% | Yorktown | 📅 TOMORROW — may need Monday for polish |
-| **April 3 (Fri)** | Timmy: pickup ~10 more bags gravel | Yorktown | 📅 TOMORROW |
-| **April 3 (Fri)** | Timmy: pickup paint + start painting | Yorktown | 📅 TOMORROW |
-| **April 3 (Fri)** | Timmy: insulate copper water lines — kitchen/exterior wall, break room | Yorktown | 📅 TOMORROW |
+| **April 3 (Fri), TODAY** | Manuel/AWS: paint on waterproofing membrane | Yorktown | 📅 TODAY |
+| **April 3 (Fri), TODAY** | Anthony + Jimmy: ceiling tiles — bunk room | Yorktown | 📅 TODAY |
+| **April 3 (Fri), TODAY** | Spruce spackler: finish bunk room 100%, break room 100%, Dave's office 100% | Yorktown | 📅 TODAY — may need Monday for polish |
+| **April 3 (Fri), TODAY** | Timmy: pickup ~10 more bags gravel + paint, place gravel in spreader, cut in + paint doors/trim | Yorktown | 📅 TODAY |
+| **April 3 (Fri), TODAY** | Timmy: insulate copper water lines — kitchen/exterior wall, break room | Yorktown | ✅ PICKED UP APR 2 |
 | **April 7 (Tue)** | Northeast Sprinkler on site | Yorktown | ✅ CONFIRMED |
 | **April 9 (TBD)** | Next Construction Progress Meeting | Parks |
 

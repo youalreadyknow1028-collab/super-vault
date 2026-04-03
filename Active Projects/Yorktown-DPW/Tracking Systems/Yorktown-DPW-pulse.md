@@ -61,13 +61,14 @@
 | EOD | Taub Flooring — Anthony | Nick | 🔴 SCHEDULE NEEDED — prep break room floor |
 | EOD | Hanover Electric — lighting installation | Nick | 🔴 SCHEDULE NEEDED — room is dark |
 
-**Tomorrow's Plan (April 3):**
+**Today's Plan (April 3 — TODAY):**
+- **Nick:** 7:00 AM — Mamaroneck Parks — meet Katarina/Tectonic crew, stake 4 corners + retaining walls
 - **Manuel/AWS:** Paint on waterproofing membrane
 - **Anthony + Jimmy Spruce:** Install ceiling tiles in bunk room
 - **Spruce spackler:** Finish bunk room 100%, break room 100%, Dave's office 100% — may need Monday for polish TBD
-- **Timmy:** Pick up ~10 more bags gravel (has 24, needs ~10 more)
-- **Timmy:** Pick up paint, begin cutting and trim/doors; paint bunk room once spackler done
-- **Timmy:** Insulate copper water lines — kitchen/exterior wall, break room
+- **Timmy:** Pick up ~10 more bags gravel + paint, go to Yorktown, place gravel in spreader pit
+- **Timmy:** Cut in (detail prep) + paint doors and trim — if spackler finishes, can paint out whole bunk room
+- **Timmy:** Insulate copper water lines — kitchen/exterior wall, break room ✅ (materials picked up April 2)
 - **Nick:** 7:00 AM — Mamaroneck Parks — meet Katarina/Tectonic crew, stake 4 corners + retaining walls
 - **ABM Mechanical:** STILL NEEDS TO BE SCHEDULED — cassette heights, ERV ductwork, condensate drains
 - **Taub Flooring:** Schedule Anthony to prep break room floor
