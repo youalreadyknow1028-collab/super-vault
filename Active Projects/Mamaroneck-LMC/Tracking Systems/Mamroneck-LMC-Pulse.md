@@ -1,7 +1,7 @@
 # 📍 MAMARONECK LMC PULSE — Complete History
 ## 740 Boston Post Rd, Mamaroneck, NY
 **Project:** Mamaroneck Language Commissioner Office Renovation  
-**Last Updated:** 2026-04-02 EDT  
+**Last Updated:** 2026-04-03 EDT  
 **Phase:** NEAR CLOSEOUT  
 **Maintained by:** Supervisor (@super)
 
@@ -29,6 +29,11 @@
 | **Paint touch-up blocked (blue base molding)** | painting | 🔴 OPEN |
 | **Paint splatter on glass** | painting | 🔴 OPEN |
 
+## 📋 APRIL 3 UPDATE
+| Item | Status | Notes |
+|------|--------|-------|
+| Spruce cabinet doors + shelving CO | ✅ CONFIRMED | Monday April 6 — Spruce finishing CO + missing shelving |
+
 ## 📋 APRIL 2 UPDATE
 | Item | Status | Notes |
 |------|--------|-------|
@@ -36,7 +41,7 @@
 | Daikin startup | 🔴 NOT CONFIRMED | Was supposed to be Fri March 27 or Mon March 30 — no confirmation |
 | Shop vac + ladders | 🔴 STILL ON SITE | Must remove — blocking closeout |
 | Punch list from Sarah/KGD | 🔴 NOT RECEIVED | Blocking final closeout |
-| Richie Puleo shelves/doors CO | 🟡 PENDING | Awaiting date from Richie (Spruce Construction) |
+| Richie Puleo shelves/doors CO | 🟡 CONFIRMED | ✅ MONDAY APRIL 6 — Spruce finishing CO + bringing missing shelving |
 
 ---
 

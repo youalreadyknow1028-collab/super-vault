@@ -3,9 +3,9 @@
 ## Peter Camilli & Sons Construction Ltd.
 ## Complete Chronological Project History
 
-**Last Updated:** April 2, 2026  
+**Last Updated:** April 3, 2026  
 **Prepared by:** Supervisor Agent (@super)  
-**Status:** ACTIVE PROJECT — Tectonic crew on site Friday April 3, 2026 at 7:00 AM
+**Status:** ACTIVE PROJECT — Survey crew on site April 3, 2026 — corners + retaining walls staked
 
 ---
 
@@ -22,7 +22,7 @@
 | **Civil Engineer** | Tectonic Surveying (Katarina Legener) |
 | **Geotechnical** | Carlin-Simpson & Associates (2023 report) |
 | **Current Phase** | Demolition Complete — Survey Complete — Construction Starting |
-| **Next Milestone** | Crew on site Friday April 3, 2026 at 7:00 AM |
+| **Next Milestone** | Building permit issuance — pending; possible building shift to avoid rock — Bob to confirm |
 
 ---
 
@@ -650,16 +650,28 @@ Bob C.
 - **Demolition Phase:** COMPLETE
 - **Survey:** COMPLETE (March 31, 2026)
 - **Permits:** All in hand
-- **Next Milestone:** Tectonic crew on site Friday April 3, 2026 at 7:00 AM
+- **Next Milestone:** Building permit issuance — possible building shift to avoid rock (Bob to confirm)
 
 ### TODAY'S ACTIVITY (April 2)
 - Bob confirmed Katarina Legener has full plan set
 - Tectonic crew confirmed for Friday April 3rd at 7:00am — elevations and stake-out
 - No field activity today at Parks
 
-### TOMORROW (April 3)
-- **7:00 AM — Tectonic crew on site** — elevations, stake building corners, stake retaining walls
-- Bob Camilli expected on site
+### TODAY'S ACTIVITY (April 3)
+- **6:30 AM** — Nick arrived at Parks, met Tectonic crew (Chris)
+- **Chris (Tectonic)** established two new control points:
+  - Point across field on Baldwin Avenue (established)
+  - Maple in the cul-de-sac (established)
+  - Myrtle near fire hydrant (established)
+  - One previously established point was compromised
+- Measured from existing hardpoints (building corners, curbs, manhole covers) to establish horizontal and vertical control
+- **7:30 AM** — Bob Camilli arrived on site
+- Nick + Bob + Chris reviewed drawings, confirmed elevations for Chris
+- **Possible building shift** to avoid rock — Bob reviewing with Chris
+- Staked: four corners of building + retaining wall
+
+### OPEN ITEM
+- Bob to confirm: building shift to avoid rock — elevations need to be re-established with new building position
 
 ---
 

@@ -62,17 +62,17 @@
 | EOD | Hanover Electric — lighting installation | Nick | 🔴 SCHEDULE NEEDED — room is dark |
 
 **Today's Plan (April 3 — TODAY):**
-- **Nick:** 7:00 AM — Mamaroneck Parks — meet Katarina/Tectonic crew, stake 4 corners + retaining walls
-- **Manuel/AWS:** Paint on waterproofing membrane
-- **Anthony + Jimmy Spruce:** Install ceiling tiles in bunk room
-- **Spruce spackler:** Finish bunk room 100%, break room 100%, Dave's office 100% — may need Monday for polish TBD
-- **Timmy:** Pick up ~10 more bags gravel + paint, go to Yorktown, place gravel in spreader pit
-- **Timmy:** Cut in (detail prep) + paint doors and trim — if spackler finishes, can paint out whole bunk room
-- **Timmy:** Insulate copper water lines — kitchen/exterior wall, break room ✅ (materials picked up April 2)
-- **Nick:** 7:00 AM — Mamaroneck Parks — meet Katarina/Tectonic crew, stake 4 corners + retaining walls
-- **ABM Mechanical:** STILL NEEDS TO BE SCHEDULED — cassette heights, ERV ductwork, condensate drains
-- **Taub Flooring:** Schedule Anthony to prep break room floor
-- **Hanover Electric:** Schedule for lighting installation
+- **✅ DONE — Nick:** 7:00 AM Mamaroneck Parks — meet Tectonic crew + Bob, stake corners + retaining walls
+- **Manuel/AWS:** Paint on waterproofing membrane — verify on site
+- **Anthony + Jimmy Spruce:** Install ceiling tiles in bunk room — verify on site
+- **Bob:** Schedule ABM Mechanical + Taub Flooring
+- **🔴 ABM Mechanical:** STILL NEEDS TO BE SCHEDULED — cassette heights, ERV ductwork, condensate drains
+- **🔴 Taub Flooring:** Schedule Anthony to prep break room floor
+- **🔴 Hanover Electric:** Schedule for lighting installation
+
+**SCHEDULE CHANGE — Bob confirmed April 3:**
+- **Spruce spackler:** ❌ NOT TODAY — moved to Monday April 6
+- **Timmy:** ❌ NOT TODAY — moved to Tuesday April 7 (gravel + paint + level spreader + painting bunk room + pipe insulation)
 
 ### MARCH 2026
 
