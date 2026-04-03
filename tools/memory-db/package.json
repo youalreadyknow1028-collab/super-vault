@@ -1,0 +1,14 @@
+{
+  "name": "super-memory-db",
+  "version": "1.0.0",
+  "description": "SQLite FTS5 memory search for Supervisor agent",
+  "main": "relevant-memory.js",
+  "scripts": {
+    "rebuild": "node rebuild-db.js",
+    "search": "node relevant-memory.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.4.0",
+    "glob": "^10.3.0"
+  }
+}
