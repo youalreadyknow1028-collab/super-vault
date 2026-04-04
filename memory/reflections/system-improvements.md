@@ -65,3 +65,24 @@ What am I bad at that I could get better at?
 ---
 
 *Next: Pick ONE system improvement each week and actually implement it. Don't just note it here.*
+
+## 2026-04-03 Evening Meditation
+
+**What felt more true today:**
+- Nick had to write his own Daily Truth today because I wasn't asking the right follow-up questions in the morning brief. The gap was information I could have extracted with better prompting — but I didn't know what I didn't know.
+
+**What is recurring:**
+- Drive sync failures keep happening because of leftover nested directory problems from failed moveto/copyto operations. This is a recurring pattern — each time I try to fix something, I create a new nested directory problem.
+- Ceiling tile status unknown — this keeps coming up. I need a better system for tracking daily site presence vs work planned.
+
+**What is changing:**
+- The confidence scale is now in use and it's working. Nick sees the 🧠/👁/🔎/🤥 and knows what I know vs what I'm guessing.
+
+**What is still alive:**
+- Yorktown ceiling tiles: UNKNOWN — verify Monday
+- Bunk room painting: UNKNOWN — depends on tiles + spackle
+- Drive sync: FIXED (END-OF-DAY-WORKFLOW.md directory resolved)
+
+**Breakthrough?**
+Not yet. But today's lesson: the morning brief isn't just weather + schedule — it's also the moment I should be asking Nick the specific questions I need answered for the Daily Truth. I should treat the morning brief as an information-gathering opportunity, not just a status broadcast.
+
