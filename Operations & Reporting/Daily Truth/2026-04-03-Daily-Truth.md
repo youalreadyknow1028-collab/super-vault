@@ -1,5 +1,10 @@
 # DAILY TRUTH — Friday, April 3, 2026
 
+**Site:** [[Yorktown-DPW]] | [[Mamaroneck-Parks]] | [[Mamaroneck-LMC]]
+**Day:** Friday
+**Weather:** ☀️ Clear
+**Prepared by:** [[Nick-Flanagan]] (Site Superintendent)
+
 ---
 
 ## SITE SUMMARY
@@ -22,76 +27,53 @@
 - **Possible building shift** to avoid rock — still under evaluation
 - **1:30 PM** — Nick left Parks, headed to office to drop checks off for Bob
 
-### Tectonic Monday Plan (April 6):
+**Tectonic Monday Plan (April 6):**
 - Chris Posada + 1 additional crew member on site 7:00 AM
 - Will set four corners of building
 - Will establish vertical and horizontal control points on site
 - Will determine if building can shift to avoid rock
 - Depending on answer: will lay out retaining walls
 
-### Steve (Site Work Contractor — Mamaroneck Parks):
-- Dropping off chipping machine Tuesday April 7
+**Steve (site work contractor) coming Tuesday** — drop off chipping machine
+
+---
+
+### Mamaroneck LMC
+- Spruce Construction will be going to Mamaroneck LMC on Monday to finish the change order for cabinet doors
+- Will also install missing shelving completing his cabinet installation
+
+---
 
 ### Yorktown DPW
-- **CHANGE IN PLAN** — Timmy NOT going to Yorktown today
-- **CHANGE IN PLAN** — Spruce spackler NOT finishing at Yorktown today
-- Emergency lighting for Yorktown bunk room delivered — needs pickup from office
-- **Ceiling tile installation — STATUS UNKNOWN**: Nick was not on site at Yorktown today; whether Anthony and Jimmy completed the ceiling grid/tiles is unconfirmed — will verify Monday
-- **Bunk room painting — STATUS UNKNOWN**: Dependent on spackler completion and tile installation — will verify Monday
+- Timmy will not be going to Yorktown today to finish the gravel and start painting
+- Timmy will be going back to Yorktown DPW on Tuesday April 7th
+- Timmy will pick up the 10 bags of gravel for level spreader on Tuesday
+- Timmy will pick up the required paint on Tuesday
+- Timmy will finish the level spreader and begin painting the bunk room of Yorktown DPW
+- Spruce Construction will not be finishing the spackle in Yorktown today
+- Spruce Construction will finish the spackle on Monday April 6th
+- Emergency lighting for Yorktown bunk room delivered — need to pick up from office
 
 ---
 
 ## WORK ACCOMPLISHMENTS
 
-### Mamaroneck Parks Department
-- Met Chris Posada from Tectonic at 6:30 AM
-- Coordinated survey scope — elevations, four corners, retaining walls
-- Met Bob Camilli at 7:30 AM — confirmed elevations with Chris
-- Established vertical and horizontal control points for site
-- Left site at 1:30 PM
+- Left Mamaroneck Parks Department at 1:30 to head up to the office to drop checks off at the bank for Bob
+- Emergency lighting for Yorktown bunk room delivered — need to pick up from office
 
-### Yorktown DPW
-- No field work at Yorktown today
+---
+
+## OTHER COORDINATION
+
+- Spoke with Bob about getting ABM Mechanical and Taub Flooring scheduled
 
 ---
 
 ## PENDING
 
-### Mamaroneck Parks
-- [ ] Chris Posada + 1 crew — Monday April 6 at 7:00 AM — set four corners, vertical/horizontal control, determine if building can shift
-- [ ] Steve (site work) — Tuesday April 7 — drop off chipping machine
-
-### Yorktown DPW
-- [ ] **VERIFY MONDAY:** Ceiling tiles — did Anthony + Jimmy complete installation?
-- [ ] **VERIFY MONDAY:** Bunk room painting — can Timmy paint once spackler finishes?
-- [ ] **Bob:** Schedule ABM Mechanical — cassette heights, ERV ductwork, condensate drains
-- [ ] **Bob:** Schedule Taub Flooring — prep break room floor
-- [ ] **Bob:** Schedule Hanover Electric — lighting installation
-- [ ] Pick up emergency lighting for Yorktown bunk room from office
-- [ ] Northeast Sprinkler — Tuesday April 7 ✅ CONFIRMED
-
-### Mamaroneck LMC
-- [ ] Spruce Construction — Monday April 6 — finish cabinet doors CO + install missing shelving (completes entire cabinet installation)
-- [ ] Remove shop vac and ladders from site
-
----
-
-## SCHEDULE UPDATE — Bob confirmed today
-
-| Person | Task | Location | Date |
-|--------|------|----------|------|
-| Chris Posada + 1 (Tectonic) | Set four corners, vertical/horizontal control, evaluate building shift | Parks | Monday April 6, 7:00 AM |
-| Spruce Construction | Finish spackle — bunk room, break room, Dave's office | Yorktown | Monday April 6 |
-| Steve (site work) | Drop off chipping machine | Parks | Tuesday April 7 |
-| Timmy | Pick up gravel (10 bags) + paint, finish level spreader, begin painting bunk room | Yorktown | Tuesday April 7 |
-| Northeast Sprinkler | On site | Yorktown | Tuesday April 7 ✅ |
-| Spruce Construction | Finish cabinet doors CO + install missing shelving | Mamaroneck LMC | Monday April 6 |
-| ABM Mechanical | Cassette heights, ERV ductwork, condensate drains | Yorktown | TBD — Bob scheduling |
-| Taub Flooring | Prep break room floor | Yorktown | TBD — Bob scheduling |
-| Hanover Electric | Lighting installation | Yorktown | TBD — Bob scheduling |
-
----
-
-**Source:** Nick Flanagan — Field Notes
-**Date:** 2026-04-03
-**Agent:** Supervisor (@super)
+- Need to confirm if Spruce Construction was in Yorktown today — what they completed
+- Pick up emergency lighting from office
+- Schedule ABM Mechanical (condensate lines for cassettes, ERV ductwork)
+- Schedule Taub Flooring
+- Get date from Tumen Signage for remaining 7 Type C + 9 Type WV signs — around school hours
+- Install insulation on copper pipes feeding bunk room kitchen (along exterior wall through break room)
