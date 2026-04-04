@@ -1,108 +1,91 @@
-# 📋 DAILY CONSTRUCTION REPORT — Peter Camilli & Sons
+# DAILY CONSTRUCTION REPORT
 **Date:** Friday, April 3, 2026
-**Site:** Yorktown DPW | Mamaroneck Parks | Mamaroneck LMC | Ardsley
-**Superintendent:** Nick Flanagan
-**Agent:** Supervisor (@super)
-**Distribution:** Bob Camilli
+**Weather:** ☀️ Clear — Mild
+
+**TO:** Bob Camilli, Peter Camilli & Sons
+**FROM:** Nick Flanagan, Superintendent
+**PROJECTS:** Mamaroneck Parks Dept & Sign Shop Facility | Yorktown DPW | Mamaroneck LMC
 
 ---
 
-## 🏗️ MAMARONECK PARKS DEPARTMENT (150 Myrtle Ave)
-**Status:** Survey In Progress — Tectonic returns Monday April 6
+## SITE SUMMARIES
 
-| Item | Status | Notes |
-|------|--------|-------|
-| Control Points Established | ✅ COMPLETE | Chris Posada on site April 3 |
-| Vertical Control | ✅ Benchmark set | South wall of existing building |
-| Horizontal Control | ✅ Off-site set | Near rocks — protected from equipment damage |
-| 3 Off-Site Control Points | ✅ Set | Maple cul-de-sac, Myrtle Blvd, Baldwin Ave |
-| On-Site Control Point | ✅ Set | Established April 3 |
-| Building Shift Evaluation | 🔎 Monday | Chris evaluating if building can shift to avoid rock |
-| Rock Chipping Permit | ✅ ISSUED | Commercial permit — Ritchie Price / Calgi |
-
-**Today:** Nick on site 6:30 AM — met Chris Posada (Tectonic) + Bob arrived 7:30 AM. Established control points and benchmark. Left 1:30 PM.
-
-**Monday April 6 — Tectonic Returns:**
-Chris Posada + 1 crew — 7:00 AM. Set four corners of building. Establish vertical + horizontal control on site. Evaluate building shift. Stake retaining walls if building can shift.
-
-**Tuesday April 7:** Steve (site work) drops off chipping machine.
+| Site | Summary |
+|------|---------|
+| **Mamaroneck Parks Dept** | Tectonic survey crew (Chris Posada) on site — recovered existing control, set 3 off-site control points (Maple St, Myrtle Blvd, Baldwin Ave), established benchmark on south wall for vertical control. Decision made: use building wall benchmark vs BFE due to site elevation challenges. Horizontal control point set off-site near rocks to protect layout from equipment damage. Bob Camilli met on site at 7:30 AM to confirm elevations. Chris + 1 crew returning Monday 7 AM to set four corners, verify if building can shift, lay out retaining walls. |
+| **Yorktown DPW** | Work paused. Spruce Construction not on site today — spackle deferred to Monday April 6. Timmy not on site. |
+| **Mamaroneck LMC** | Spruce Construction scheduled Monday April 7 for cabinet doors + shelving. |
+| **Ardsley** | Not on site. |
 
 ---
 
-## 🏗️ YORKTOWN DPW (281 Underhill Avenue)
-**Status:** Active Construction — Finish Work Phase
+## TRADE SUMMARY
 
-| Room | Framing | Sheetrock | Spackle | Ceiling Grid | Tiles |
-|------|---------|-----------|---------|--------------|-------|
-| Bunk Room | ✅ | ✅ | 🟡 95% | ✅ | ✅ |
-| Break Room | ✅ | ✅ | 🟡 60% | ✅ | ✅ |
-| Dave's Office | — | — | 🟡 Sanded | — | — |
-
-**Today:** No field work at Yorktown — Nick at Mamaroneck Parks all day (survey day).
-
-**April 6 (Monday) — Spruce Confirmed:**
-- Spruce spackler: finish bunk room 100%, break room 100%, Dave's office 100%
-
-**🔴 STILL NEED BOB TO SCHEDULE:**
-| Trade | Scope | Impact |
-|-------|-------|--------|
-| ABM Mechanical | Cassette heights (2 heights wrong), ERV ductwork, condensate drains | Blocks ceiling close |
-| Taub Flooring | Break room floor prep | Must happen before flooring |
-| Hanover Electric | Lighting installation | Room dark — trades can't finish |
-
-**April 7 (Tuesday) — Confirmed:**
-| Person | Task |
-|---------|------|
-| Timmy | Gravel (~10 bags) + paint → Yorktown → finish level spreader → start painting bunk room → insulate copper lines |
-| Northeast Sprinkler | On site ✅ |
-
-**Change Orders Complete This Week:**
-- Bump-out CO: 100% ✅ (heater removed, pipe routed, access door installed)
-- Stormwater access door: separate scope ✅ (not part of bump-out CO)
-
-**Stucco/EIFS:** Manuel (AWS) started April 2 — scaffolding set, waterproofing on sheathing seams applied, stucco color approved by Bob ✅
+| Trade | Company | Work Performed | Status |
+|-------|---------|----------------|--------|
+| Survey | Tectonic Engineering | Control recovery, 3 off-site control points, benchmark on south wall, off-site horizontal control point established | 🟢 Complete — returning Monday |
 
 ---
 
-## 🏗️ MAMARONECK LMC (740 Boston Post Rd)
-**Status:** Near Closeout — One visit away
+## SCHEDULE UPDATE
 
-| Item | Status | Notes |
-|------|--------|-------|
-| Punchlist Touch-ups | ✅ Complete | |
-| Electrical / HVAC | ✅ Powered up | |
-| Cabinet Doors + Shelving | 📅 April 6 | Spruce confirmed — completes entire cabinet installation |
-| Shop Vac + Ladders | 🔴 Still on site | Must remove |
-| Architect Punchlist | 🔴 NOT RECEIVED | Sarah / KGD — blocking closeout |
-| Daikin Startup | 🟡 UNCONFIRMED | Friday or Monday — not locked in |
+- **Spruce Construction** → Yorktown: Spackle work deferred to **Monday April 6**
+- **Spruce Construction** → Mamaroneck LMC: Cabinet doors + shelving — **Monday April 7**
+- **Timmy Fudale** → Yorktown: Deferred to **Tuesday April 7** (gravel, paint, level spreader)
+- **Steve (site work contractor)** → Mamaroneck Parks: Drop chipping machine — **Tuesday April 7**
 
 ---
 
-## 🏗️ ARDSLEY HIGH SCHOOL SIGNS
-**Status:** Partial — Remaining signs pending from Tumen
+## PENDING
 
-| Item | Status |
-|------|--------|
-| Site Access | ✅ Obtained April 2 |
-| Sign Locations | ✅ Marked |
-| Type C Signs (partial) | ✅ 7 installed |
-| Type WV Signs (partial) | ✅ 9 installed |
-| Remaining Type C Signs | ⏳ 7 missing — Tumen to schedule |
-| Emergency Evacuation Signs | ✅ Removed from scope per shop drawings |
+- Confirm what Spruce Construction completed at Yorktown before deferral
+- Pick up emergency lighting from office (Yorktown bunk room)
+- Schedule ABM Mechanical: condensate lines for cassettes + ERV ductwork
+- Schedule Taub Flooring
+- Tumen Signage: date for remaining 7 Type C + 9 Type WV signs (around school hours)
+- Install insulation on copper pipes feeding bunk room kitchen (exterior wall through break room)
+- Patch bottom 4" of sheetrock on bunk room kitchen wall (structolite + spackle)
 
 ---
 
-## 📋 WEEK AT A GLANCE — March 31 – April 3
+## NEXT STEPS
 
-| Day | Highlight |
-|-----|-----------|
-| **Tue Mar 31** | Katarina Legener (Tectonic) walked Parks site with Nick + Bob + Richie Price (Calgi). Sheetrock ongoing at Yorktown. |
-| **Wed Apr 1** | Spruce sheetrocking + spackling. Andrew Luzzi (AWS) delivered stucco material. |
-| **Thu Apr 2** | Break room ceiling grid + tiles COMPLETE. Bump-out CO COMPLETE. Stucco/EIFS STARTED. Stucco color approved. Weeping pit corrected. |
-| **Fri Apr 3** | Chris Posada (Tectonic) established control points + benchmark at Parks. Bob on site 7:30 AM. Four corners + retaining walls Monday April 6. |
+**Monday April 6**
+- Spruce Construction → Yorktown: finish spackle
+- Spruce Construction → Mamaroneck LMC: cabinet doors + shelving
+- Tectonic (Chris Posada + 1) → Mamaroneck Parks: 7:00 AM — four corners, vertical/horizontal controls, building shift check, retaining wall layout
+
+**Tuesday April 7**
+- Timmy Fudale → Yorktown DPW: pick up gravel + paint, finish level spreader, start painting bunk room
+- Steve → Mamaroneck Parks: drop chipping machine
 
 ---
 
-**Superintendent:** Nick Flanagan
-**Agent:** Supervisor (@super)
-**Report Date:** April 3, 2026
+## COORDINATION
+
+- Spoke with Bob re: scheduling ABM Mechanical and Taub Flooring — pending
+- Ritchie Price (Calgi/CM) sent email re: baseline + elevation approach at Parks
+
+---
+
+## NOTES / EMAIL
+
+**Ritchie Price (Calgi Construction) — 2026-04-03, 2:51 PM**
+Re: Mamaroneck Sign Shop — Base Line & Elevation
+
+*"The discussion on site this morning concerned establishing a '0' elevation mark and level to be used for setting the building. We think the best approach is to establish an elevation mark on the existing building wall (south side, facing the construction site) at an even (whole) foot elevation. We can easily reference this back to the footing and other elevations. We also talked about setting a 'control point' just off the building site, near the rocks above the actual construction, to fix the horizontal layout. This way the exposed rocks will help protect the location from being damaged by the construction equipment that will follow."*
+
+**Autodesk Forma:** Submittal #230000-9 received for information — Town of Mamaroneck Parks Dept & Sign Shop Facility
+
+---
+
+## MANPOWER
+
+| Trade | Company | Workers |
+|-------|---------|---------|
+| Survey | Tectonic Engineering | 1 (+ 1 returning Monday) |
+| Superintendent | Nick Flanagan | 1 |
+
+---
+
+*Daily Construction Report — Nick Flanagan — 2026-04-03*
