@@ -6,7 +6,7 @@ tags:
   - #contacts
   - #super
 created: 2026-03-27
-modified: 2026-04-01
+modified: 2026-04-04
 type: crm-index
 ---
 
@@ -15,9 +15,9 @@ type: crm-index
 > [!info]+ SYSTEM INFO
 > Master CRM index for the Exocortex Hive Mind.
 > Managed by: [[Supervisor]] / [[Nick Flanagan]]
-> Last full update: 2026-04-01
-> Source: Deep research across all Bob Reports, Daily Logs, Daily Truth, and emails
-> Total entries: 48 CRM files
+> Last full update: 2026-04-04
+> Source: Deep research across all Bob Reports, Daily Logs, Daily Truth, Google Contacts, and emails
+> Total entries: 64 CRM files
 
 ---
 
@@ -66,6 +66,7 @@ type: crm-index
 | [[Michael Perri]] | Town Civil Engineer | [[Town of Mamaroneck]] | [[Mamaroneck Parks]] | mperri@townofmamaroneckny.gov | [[Michael-Perri]] |
 | [[Dave Paganelli]] | Town Superintendent | [[Town of Yorktown]] | [[Yorktown DPW]] | dpaganelli@yorktownny.gov | [[Dave-Paganelli]] |
 | [[Anne Anderson]] | Town Clerk | [[Town of Yorktown]] | [[Yorktown DPW]] | aanderson@yorktownny.gov | [[Anne-Anderson]] |
+| [[Jayce Arrington]] | Construction Manager | [[Arris Contracting Company Inc.]] | [[Mamaroneck Parks]] | TBD | [[Jayce-Arrington]] |
 
 ### 🟡 P2-ACTIVE TRADES (Subcontractors)
 
@@ -80,6 +81,10 @@ type: crm-index
 | [[Billy Cerutti]] | Signs Vendor | [[Ardsley Signs]] | [[Ardsley]] | TBD | [[Billy-Cerutti]] |
 | [[Alex Doong]] | Town Staff | [[Town of Yorktown]] | [[Yorktown DPW]] | TBD | [[Alex-Doong]] |
 | [[Chris Lonegro]] | Town Staff | [[Town of Yorktown]] | [[Yorktown DPW]] | TBD | [[Chris-Lonegro]] |
+| [[Jon Bertuzzi]] | Contractor | — | — | (845) 536-1351 | [[Jon-Bertuzzi]] |
+| [[Jose Delfino]] | Insulation | [[Delfino Insulation]] | — | (516) 312-1552 | [[Jose-Delfino]] |
+| [[Con Kilmentis]] | Contractor | [[KC Construction]] | — | (516) 233-5375 | [[Con-Kilmentis]] |
+| [[Eric Strack]] | Director of Facilities | [[Mount Pleasant Central School District]] | — | (914) 327-1430 | [[Eric-Strack]] |
 
 ### 🟢 P3-ONGOING (Workers / Day Labor)
 
@@ -87,6 +92,8 @@ type: crm-index
 |------|------|-------------|----------|-------|------|
 | [[Timmy Fudale]] | Day Laborer | [[Peter Camilli & Sons]] | [[Yorktown DPW]] | TBD | [[Timmy-Fudale]] |
 | [[Anthony Puleo]] | Ceiling Grid / Drywall | [[Spruce Contracting]] | [[Yorktown DPW]] | TBD | [[Anthony-Puleo]] |
+| [[Jose Tile]] | Tile / Sheetrock | — | — | (516) 751-3892 | [[Jose-Tile]] |
+| [[Andrew Kilmentis]] | Contractor | — | — | (516) 369-1770 | [[Andrew-Kilmentis]] |
 
 ### ⚪ P4-COMPLETED / INACTIVE
 
@@ -100,6 +107,10 @@ type: crm-index
 | [[Tracey Arena]] | Project Manager | [[Calgi Construction]] | [[Mamaroneck Parks]] | tarena@calgiconstruction.com | [[Tracey-Arena]] |
 | [[Mike Dubovsky]] | Town Official | [[Town of Mamaroneck]] | [[Mamaroneck Parks]] | TBD | [[Mike-Dubovsky]] |
 | [[David Muratore]] | Building Official | [[Mamaroneck Building Dept]] | [[Mamaroneck Parks]] | TBD | [[David-Muratore]] |
+| [[Joe Albert]] | Lawyer | — | — | (914) 523-8620 | [[Joe-Albert]] |
+| [[Bruna]] | Cleaning | [[Bob's Cleaning Company]] | — | (203) 908-6190 | [[Bruna]] |
+| [[Joe Chatter Box]] | Bob's Tenant | — | — | (914) 760-1128 | [[Joe-Chatter-Box]] |
+| [[Luchiana Midnight Express]] | Heavy Haul Transport | — | — | (718) 930-3253 | [[Luchiana-Midnight-Express]] |
 
 ---
 
@@ -126,6 +137,12 @@ type: crm-index
 | [[Delta Electric]] | Electrical | [[Mark Maliszewski]] | [[Mamaroneck Parks]] | TBD | [[Mark-Maliszewski]] |
 | [[Binello Concrete]] | Concrete | [[Daniel Binello]] | [[Mamaroneck LMC]] | TBD | [[Daniel-Binello]] |
 | [[Ardsley Signs]] | Signs | [[Billy Cerutti]] | [[Ardsley]] | TBD | [[Billy-Cerutti]] |
+| [[Arris Contracting Company Inc.]] | Construction Management | [[Jayce Arrington]] | [[Mamaroneck Parks]] | TBD | [[Arris-Contracting-Company-Inc]] |
+| [[KC Construction]] | Construction | [[Con Kilmentis]] | — | (516) 233-5375 | [[KC-Construction]] |
+| [[G&C Marble]] | Marble/Stone | TBD | — | (516) 338-9459 | [[GC-Marble]] |
+| [[Bob's Cleaning Company]] | Cleaning | [[Bruna]] | — | (203) 908-6190 | [[Bobs-Cleaning-Company]] |
+| [[Mount Pleasant Central School District]] | School District | [[Eric Strack]] | — | (914) 327-1430 | [[Eric-Strack]] |
+| [[Luchiana Midnight Express]] | Heavy Haul Transport | TBD | — | (718) 930-3253 | [[Luchiana-Midnight-Express]] |
 
 ---
 
@@ -244,7 +261,22 @@ type: crm-index
 | [[Oliver-Tumen]] | contact | ✅ NEW 2026-04-02 |
 | [[Dorothy-Tumen]] | contact | ✅ NEW 2026-04-02 |
 | [[Manuel-AWS]] | contact | ✅ NEW 2026-04-02 |
+| [[Jon-Bertuzzi]] | contact | ✅ NEW 2026-04-04 |
+| [[Joe-Chatter-Box]] | contact | ✅ NEW 2026-04-04 |
+| [[Jose-Delfino]] | contact | ✅ NEW 2026-04-04 |
+| [[Jayce-Arrington]] | contact | ✅ NEW 2026-04-04 |
+| [[Arris-Contracting-Company-Inc]] | organization | ✅ NEW 2026-04-04 |
+| [[Eric-Strack]] | contact | ✅ NEW 2026-04-04 |
+| [[Joe-Albert]] | contact | ✅ NEW 2026-04-04 |
+| [[GC-Marble]] | organization | ✅ NEW 2026-04-04 |
+| [[Con-Kilmentis]] | contact | ✅ NEW 2026-04-04 |
+| [[KC-Construction]] | organization | ✅ NEW 2026-04-04 |
+| [[Andrew-Kilmentis]] | contact | ✅ NEW 2026-04-04 |
+| [[Jose-Tile]] | contact | ✅ NEW 2026-04-04 |
+| [[Bruna]] | contact | ✅ NEW 2026-04-04 |
+| [[Luchiana-Midnight-Express]] | contact | ✅ NEW 2026-04-04 |
+| [[Bobs-Cleaning-Company]] | organization | ✅ NEW 2026-04-04 |
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (March 25 - April 3, 2026)*
+*PULSE LAST UPDATED: 2026-04-04 | Source: Google Contacts work tag*
