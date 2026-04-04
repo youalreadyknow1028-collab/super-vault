@@ -21,6 +21,7 @@ aliases:
 
 ## CONTACT DETAILS
 - 📞 Phone: TBD
+- 📞 Phone (Google): +1 (917) 575-5750
 - 🏢 Organization: Insaren Abatement
 - 💼 Role: Supervisor
 

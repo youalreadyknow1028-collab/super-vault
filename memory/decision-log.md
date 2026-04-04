@@ -28,6 +28,32 @@ Separate scope from CO-001. The access door is a maintenance-related item, not p
 **Rationale:**
 Clean separation of scopes keeps the CO tracker accurate. The access door is functional/maintenance, the bump-out is structural — different scopes.
 
+---
+
+## Decision: Daily Truth Expansion Protocol — Drive Files Are Source of Truth
+**Date:** 2026-04-04
+**Confidence:** 🧠 95%
+**Who made the call:** Nick Flanagan
+**Stakeholders:** Supervisor agent
+
+**Context:**
+Supervisor agent was going back to raw transcript messages to verify/reconstruct Daily Truth content. Nick explicitly stated: the Drive file IS his approved version. Stop looking at source messages. Read the Drive file as-is.
+
+**Decision:**
+1. Daily Truth files in Google Drive = authoritative source of truth. Do NOT cross-reference raw transcript messages.
+2. When expanding a Daily Truth, read ONLY the approved Drive file. Do not go back to source messages.
+3. If uncertain about a detail, ASK Nick — do not try to reconstruct from multiple sources.
+4. Use decision-log and pending-tasks when processing — not after.
+
+**What went wrong tonight:**
+- Expanded April 2 Daily Truth with wrong data (added "11 AM" Lowe's trip that wasn't in approved file)
+- Went back to raw messages repeatedly instead of trusting Drive
+- Did not use decision-log or pending-tasks to track corrections needed
+- Made simple file correction process take 2+ hours through over-auditing
+
+**Rationale:**
+Trust the approved file. Ask when uncertain. Log decisions immediately.
+
 **Trade-offs:**
 CO-001 will be slightly less than if the door was included. Bob will need to approve a separate CO or field directive for the access door.
 

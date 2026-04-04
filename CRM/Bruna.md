@@ -21,8 +21,8 @@ type: crm
 | Field | Info |
 |-------|------|
 | **Full Name** | Bruna |
-| **Company** | Bob's Cleaning Company |
-| **Role** | Cleaning |
+| **Company** | — |
+| **Role** | Cleaner — House, Job Site Final Cleanings, Buildings |
 | **Phone** | +1 (203) 908-6190 |
 | **Email** | — |
 | **Address** | — |
@@ -31,7 +31,7 @@ type: crm
 ---
 
 ## 🕸️ Ontology Links
-- [[Bruna]] WORKS_FOR [[Bobs-Cleaning-Company]]
+- [[Bruna]] CLEANED_FOR [[Bob-Camilli]]
 
 ---
 
@@ -43,7 +43,10 @@ type: crm
 ---
 
 ## 📝 NOTES
+- Cleans Bob's house
+- Cleans Bob's buildings at 75 Cooley St, Pleasantville NY and 210 Marble Ave
+- Does job site final cleanings
 
 ---
 
-**Hashtags:** #crm #contact #bruna #bobs-cleaning-company #cleaning #2026-04-04
+**Hashtags:** #crm #contact #bruna #cleaning #2026-04-04

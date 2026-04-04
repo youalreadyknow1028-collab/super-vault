@@ -21,6 +21,14 @@
 
 ---
 
+### 🔴 IMMEDIATE — Needs Nick's Call
+
+| What | Status | Confidence |
+|------|--------|------------|
+| Daily Truth corrections — files with wrong data | Need to fix | 🟡 MEDIUM |
+
+---
+
 ### ⏸️ PARKED — Waiting on External
 
 | What | Waiting On | Parked Date | Last Update | Confidence |
