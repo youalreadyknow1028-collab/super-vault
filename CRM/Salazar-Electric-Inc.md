@@ -230,4 +230,10 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-01 | Source: All Bob Reports (March 9 - April 1), All Daily Logs (March 3-31), All Daily Truth files*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**March 25, 2026** — Juan wired rooftop units at Mamaroneck LMC. Willy Buchanan powered up with him.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (March 25, 26)*

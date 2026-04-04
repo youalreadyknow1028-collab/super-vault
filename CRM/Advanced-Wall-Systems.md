@@ -174,4 +174,12 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-02 | Source: Daily Truth (March 24, 31, April 1), Bob Reports (March 27 Weekly, April 1), Nick update April 2*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**April 1, 2026** — Dropped off scaffold and material. Starting EIFS tomorrow. Gave finalized stucco sample with colors to Nick (for Bob). Door opening 180° issue noted — door will hit stucco/base when installed.
+
+**April 2, 2026** — Manuel set up scaffolding, began EIFS installation. Andrew supervised. EIFS work IN PROGRESS.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (April 1, 2)*

@@ -219,4 +219,20 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-01 (evening) | Source: Daily Truth (March 19–April 1) — NOTE: Trust Daily Truth over Bob Reports for Timmy's actual attendance*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**March 25, 2026** — Demo debris removal, exterior cleanup at Yorktown.
+
+**March 30, 2026** — Took up existing break room floor. Shifted break room contents into bunk room. Scraped floor. Cleaned and mopped break room, bunk room, hallway. Dug level spreader for roof drain (10ft x 4ft x 6in deep) — INCORRECT (had to redo).
+
+**March 31, 2026** — NO-SHOW. Nick was at Mamaroneck Parks groundbreaking ceremony; Timmy did not show up.
+
+**April 1, 2026** — Re-digging water spreader/weeping pit to David Tetro specs.
+
+**April 2, 2026** — Correctly dug water spreader to David Tetro specs. Went to Lowe's 9am for gravel and pipe insulation. Filled 4-inch gap at kitchen wall base in bunk room with structolite.
+
+**April 3, 2026** — SCHEDULE CHANGE: NOT going to Yorktown today. Going Tuesday April 7 instead. Will pick up 10 bags of gravel and paint on Tuesday. Will finish level spreader and begin painting bunk room Tuesday.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (March 25, 30, 31, April 1, 2, 3)*

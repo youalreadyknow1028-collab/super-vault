@@ -68,4 +68,10 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-02 | Source: Daily Truth (April 2)*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**April 2, 2026** — Conference call with Bob Camilli and Nick. Informed that Tumen crew arrived at Ardsley without all required signage: missing 7× Type C signs and 9× Type WV signs. Dorothy to provide revised installation date (must be scheduled around school hours). Emergency evacuation plan signs confirmed removed from scope per shop drawings.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (April 2)*

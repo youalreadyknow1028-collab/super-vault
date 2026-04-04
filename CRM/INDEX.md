@@ -237,6 +237,14 @@ type: crm-index
 | [[Mamaroneck-Town-Engineering]] | organization | ✅ |
 | [[Mamaroneck-Building-Dept]] | organization | ✅ |
 
+| [[Taub-Flooring]] | organization | ✅ NEW 2026-04-03 |
+| [[Steve-SiteWork]] | contact | ✅ Updated 2026-04-03 |
+| [[Chris-Posada]] | contact | ✅ Updated 2026-04-03 |
+| [[Jimmy-Spruce]] | contact | ✅ NEW 2026-04-02 |
+| [[Oliver-Tumen]] | contact | ✅ NEW 2026-04-02 |
+| [[Dorothy-Tumen]] | contact | ✅ NEW 2026-04-02 |
+| [[Manuel-AWS]] | contact | ✅ NEW 2026-04-02 |
+
 ---
 
-*PULSE LAST UPDATED: 2026-04-01 | Source: Deep research across all Bob Reports, Daily Logs, Daily Truth, and emails*
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (March 25 - April 3, 2026)*

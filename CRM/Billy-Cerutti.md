@@ -69,4 +69,14 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-02 | Source: Nick*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**March 25, 2026** — Signs at Ardsley delayed (noted in daily truth).
+
+**April 1, 2026** — Signs being installed tomorrow (April 2). Need to call Billy to get into the school.
+
+**April 2, 2026** — Signs being installed at Ardsley High School. Nick called Billy, got access, had him unlock necessary classrooms.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (March 25, April 1, 2)*

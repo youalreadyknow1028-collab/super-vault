@@ -75,4 +75,10 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-03-31 | Source: MASTER-TODO, Parks-Pulse, daily logs*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**March 26, 2026** — Architect releasing CAD drawings to Tectonic for survey. Attended biweekly construction progress meeting at Parks.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (March 26)*

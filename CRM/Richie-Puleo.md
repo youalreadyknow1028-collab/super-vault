@@ -185,6 +185,28 @@
 
 ---
 
+---
+
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**March 25, 2026** — Set up at Yorktown DPW with Spruce Contracting, 4 men. W8 shaft wall framing complete, bunk room framing 100%, bunk room sheetrock ~90%, break room framing ~85%. Willie + 3 guys arrived at 11am (total 8 on site).
+
+**March 26, 2026** — Spruce at Yorktown with ~6 men. All framing 100% complete both rooms. Bunk room spackling 30%, break room sheetrock 75%.
+
+**March 27, 2026** — Asked about inspection schedule (coordination with Hanover Electric and town).
+
+**March 30, 2026** — Scheduled for next day to sheetrock break room, install wall angle, hang ceiling grid (after Hanover Electric inspection passed).
+
+**March 31, 2026** — Spruce crew on site: 2 sheetrockers, 2 spacklers, Anthony. Sheetrocking break room, continuing spackle in bunk room (95%). Richie called Nick — water found on break room floor (probable roof leak + old floor drain). Bump out around heater pipe discussed.
+
+**April 1, 2026** — Anthony doing wall angle. Anthony completed bump out CO (100%). Anthony couldn't finish ceiling grid due to spacklers in the way. Still needs date for LMC cabinet doors CO.
+
+**April 2, 2026** — Anthony and Jimmy completed ceiling grid in break room, installed ceiling tiles. Anthony completed bump out access door (CO 100% done). Jimmy Spruce first noted on site. Spruce spackler: bunk room 95%, Dave Paganelli office needs polish coat, break room needs one more coat.
+
+**April 3, 2026** — NOT finishing spackle today. Will finish Monday April 6 at Yorktown. WILL go to Mamaroneck LMC Monday for cabinet door CO and missing shelving.
+
+---
+
 **Agent:** Supervisor (@super)  
 **Session:** CRM-Deep-Update  
-**Last Full Review:** 2026-04-01
+**Last Full Review:** 2026-04-03

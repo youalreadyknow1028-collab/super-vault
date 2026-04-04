@@ -79,4 +79,14 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-01 | Source: Daily Truth (March 18-25, April 1), Bob Reports*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**March 26, 2026** — Daikin startup scheduled for Friday or Monday (TBD) per Buchanan Mechanical.
+
+**March 27, 2026** — Daikin startup still TBD — not confirmed if they made it to LMC on Friday.
+
+**April 1, 2026** — Unconfirmed if Daikin and Buchanan Mechanical actually completed power-up of rooftop units at LMC (Nick noted need to confirm).
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (March 26, 27, April 1)*

@@ -80,4 +80,12 @@ last_updated: 2026-04-01
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-01 | Source: Bob Report April 1, Daily Truth April 1*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**March 31, 2026** — Installed copper lines to bunk room below ceiling height in the break room. ISSUE — will interfere with ceiling grid installation.
+
+**April 1, 2026** — ISSUE CARRIED FORWARD: Copper lines installed below ceiling height — will interfere with ceiling grid. Requires coordination to resolve before Anthony Puleo can complete ceiling grid installation.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (March 31, April 1)*

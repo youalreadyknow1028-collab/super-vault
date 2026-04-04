@@ -87,4 +87,12 @@ Robert Wasp, P.E., C.D.T. is the Town Engineer for the Town of Mamaroneck. He is
 ## NOTES
 Robert Wasp is the Town Engineer (P.E., C.D.T.) for the Town of Mamaroneck and serves as the town's engineering authority on the Mamaroneck Parks Sign Shop project. He is professional, responsive, and ensures the project meets town standards. On March 10, 2026 he sent detailed erosion and sediment control requirements prior to demolition, and the following day confirmed: *"Much appreciated! Tomorrows the big day"* — indicating demolition was approved to proceed. His email is rwasp@townofmamaroneckny.gov and his direct line is (914) 381-7835. Strong working relationship with the project team.
 
-*PULSE LAST UPDATED: 2026-04-01 | Source: AOL emails (nflanagan1028@aol.com), raw_email_data.json*
+---
+
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**March 26, 2026** — Asked about water meter (Town of Mamaroneck Engineering) — Rob Wasp said it's Westchester Joint Water Works' call.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (March 26)*

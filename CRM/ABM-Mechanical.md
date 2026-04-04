@@ -82,4 +82,12 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-01 | Source: Daily Truth (April 1), Bob Reports*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**April 2, 2026** — OPEN ITEMS IDENTIFIED: Needs to adjust cassette heights in break room (two cassettes at different heights — will need adjustment before ceiling tiles can be installed). Needs to install condensate drains for 3 cassettes (1 bunk room, 2 break room). Needs to complete ERV ductwork in break room and bunk room ceilings. NOTE: These items appear across April 1, 2, 3 — track as ongoing OPEN ITEMS.
+
+**April 3, 2026** — Bob spoke about scheduling ABM-Mechanical (carried forward from April 2).
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (April 2, 3)*

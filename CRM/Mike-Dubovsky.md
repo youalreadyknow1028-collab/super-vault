@@ -78,4 +78,12 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-03-31 | Source: MASTER-TODO, Yorktown-Pulse, daily logs*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**March 26, 2026** — Break room rough-in starting at Yorktown. Mike stopped by Yorktown DPW — checked if ready; break room framing wouldn't finish that day.
+
+**March 30, 2026** — Inspector came at 11am; break room rough-in passed, got sticker. Hanover Electric did NOT remove conduit at ceiling height on existing masonry walls (issue noted).
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (March 26, 30, April 1)*

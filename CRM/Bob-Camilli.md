@@ -641,6 +641,26 @@ tags:
 
 ---
 
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**March 25, 2026** — Informed of Juan wiring completed at Mamaroneck LMC; had bid opening at 3 pm (architect).
+
+**March 26, 2026** — Approved bump-out option for Highway Garage Heater (per Paul Revans email); confirmed loft stairs back on at Parks; confirmed concrete washout at Parks; following up on steel shop drawings with Richie Price.
+
+**March 27, 2026** — Detoured to Cooley Street; fixed thermostats while there. Approved door D8 per plan ("do per plan — David's problem"); W8 shaft wall = confirmed CO.
+
+**March 30, 2026** — Called Nick re: ordering light fixtures for break/bunk room; sent email with drawing references A.05 and A.06 DETAIL B for weeping pit (10:47 AM). Attended groundbreaking ceremony at Mamaroneck Parks. Ordered light fixtures.
+
+**March 31, 2026** — Met on site at Mamaroneck Parks with Katarina Legener (Tectonic) and Nick; reviewed building layout, rock issue, building shift plan. Clarified TOY electrical scope in email to Paul Revans (town's own electrician handling bunk room rough-in — NOT PCS scope).
+
+**April 1, 2026** — DELIVERED full set of plans to Katarina Legener (Tectonic) — CRITICAL BLOCKER RESOLVED. Received finalized stucco sample from Andrew/AWS.
+
+**April 2, 2026** — Conference call with Dorothy/Tumen re: missing signage at Ardsley. Provided plans to Oliver. Discussed ABM-Mechanical scheduling, Taub-Flooring scheduling with Nick.
+
+**April 3, 2026** — Met at Parks 7:30am. Informed Nick of all schedule changes: Timmy not going to Yorktown today (going Tuesday April 7); Spruce not finishing spackle today (finishing Monday April 6 at Yorktown); Spruce going to Mamaroneck LMC Monday for cabinet door CO and missing shelving. Discussed scheduling ABM-Mechanical and Taub-Flooring.
+
+---
+
 ## 📅 COMPLETE WORK / PROJECT HISTORY (Chronological)
 
 ### March 5, 2026 — [[Mamaroneck LMC]]

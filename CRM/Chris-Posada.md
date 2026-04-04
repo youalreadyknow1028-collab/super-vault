@@ -40,7 +40,14 @@ last_updated: 2026-04-03
 | Date | Interaction | Notes |
 |------|-------------|-------|
 | 2026-04-03 | Site visit | Established control points + benchmark at Parks |
-| 2026-04-03 | Schedule confirmed | Returns April 6, 2026 at 7:00 AM |
+| 2026-04-03 | Survey work at Parks | Set 3 off-site control points (Maple St, Myrtle Blvd, Baldwin Ave), established benchmark on south wall |
+| 2026-04-03 | Schedule confirmed | Returns April 6, 2026 at 7:00 AM — set four corners, assess building shift |
+
+---
+
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**April 3, 2026** — Surveyor/Crew Chief at Tectonic. Located 2 previously established points (1 compromised). Recovered existing control. Set 3 off-site control points: Maple St cul-de-sac, Myrtle Blvd south of fire hydrant, Baldwin Ave north curb. Plus 1 on-site control. Simplified vertical control — benchmark on south wall. Returning Monday April 6 at 7am with 1-man crew to set four corners and assess building shift.
 
 ---
 **Last Updated:** 2026-04-03

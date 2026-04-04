@@ -87,4 +87,16 @@ Per forwarded email from July 2, 2025 (referenced in Mar 26, 2026 thread):
 ## NOTES
 David Tetro is the Architect of Record for the Yorktown Highway Garage project. He is NOT associated with Tietjen-Venegas Consulting Engineers. He is copied on all major coordination emails and has been actively involved in resolving field issues. His key stance: window approval does NOT override EIFS requirements — both must be followed independently. He worries too much, but his concerns are valid and keep the project honest. Recommend keeping him informed of all field decisions and ensuring shop drawings for EIFS work are submitted and approved promptly. Bob committed to calling Tetro the day they start EIFS work.
 
-*PULSE LAST UPDATED: 2026-04-01 | Source: Email (nflanagan1028@aol.com) — Yorktown Highway Garage threads*
+*---
+
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**March 25, 2026** — Sent updated drawings (W8 change order — 2hr shaft wall assembly; W7 foam NOT a change order). Discussed panel schedule and heater options.
+
+**April 1, 2026** — Nick re-digging water spreader/weeping pit to David Tetro specs. Copper water pipe insulation needed along exterior wall through break room (per David Tetro).
+
+**April 2, 2026** — David's specs show concrete curb on one side of water spreader — need confirmation from Bob Camilli if installing it.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (March 25, April 1, 2)*

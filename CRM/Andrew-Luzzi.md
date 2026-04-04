@@ -116,4 +116,12 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-02 | Source: Daily Truth (March 24, 31, April 1), Bob Reports (March 27 Weekly, April 1), Nick update April 2*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**April 1, 2026** — Dropped off scaffold and material at Yorktown DPW. Starting EIFS tomorrow. Gave finalized stucco sample with all color information to Nick (for Bob Camilli). Door opening 180° issue noted — door will hit stucco/base.
+
+**April 2, 2026** — Supervised Manuel setting up scaffolding and beginning EIFS installation. EIFS work starting.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (April 1, 2)*

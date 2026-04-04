@@ -288,4 +288,19 @@ Framing, insulation, sheetrock, spackling, ceiling grid, W8 shaft wall assembly
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-02 EOD*
+### April 3, 2026
+**Source:** Daily Truth — April 3, 2026
+
+| Event | Details | Status |
+|-------|---------|--------|
+| Schedule change | NOT finishing spackle today at Yorktown | 🔴 CHANGED |
+| Spackle finish | Will finish Monday April 6 at Yorktown | 🟡 RESCHEDULED |
+| LMC cabinet door CO + shelving | WILL go to Mamaroneck LMC Monday April 6 — cabinet door CO and missing shelving | 🔴 SCHEDULED |
+| Spruce crew at Yorktown | Anthony, Jimmy, 1 spackler | 🟢 ACTIVE |
+
+> *"Spruce Construction will NOT be finishing the spackle in Yorktown DPW today. Spruce Construction will finish the spackle on Monday April 6th."*
+> *"Spruce Construction will be going to Mamaroneck LMC on Monday to finish the change order for cabinet doors. Will also install missing shelving."*
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03*

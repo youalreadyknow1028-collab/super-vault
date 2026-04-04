@@ -87,4 +87,10 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-01 | Source: Daily Truth (March 31, April 1), Bob Reports*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**April 3, 2026** — Tectonic crew (Chris Posada) on site at Parks. Established vertical and horizontal control. Set 3 off-site control points: Maple St cul-de-sac, Myrtle Blvd south of fire hydrant, Baldwin Ave north curb. Simplified vertical control — benchmark on south wall (not BFE due to elevation challenges). Building shift to avoid rock being assessed. Returning Monday April 6 at 7am with 1-man crew to set four corners and finalize assessment.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (April 3)*

@@ -123,4 +123,16 @@ Paul Revans is the MEP Engineer of Record for the Yorktown Highway Garage projec
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-02*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**March 25, 2026** — Sent email about panel schedule (new subpanel in break room) and heater options (two options for forced air heater — bump-out vs. plumbing modification).
+
+**March 26, 2026** — Answered Nick's question about panel schedule; gave two heater options. Bob preferred bump-out option.
+
+**April 1, 2026** — Bump out around kitchen wall pipe completed per Paul Revans' email direction.
+
+**April 2, 2026** — Discussed gas line cap/lock valve for break room kitchen (existing gas line removed). Nick needs engineered details from Paul Revans on how to handle the removed gas line — change order discussion.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03*

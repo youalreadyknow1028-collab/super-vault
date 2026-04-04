@@ -82,4 +82,10 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-02 | Source: Daily Truth (April 2)*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**April 2, 2026** — Oliver arrived at Ardsley High School WITHOUT plans. Nick marked locations for him. Missing Type C (7) and Type WV (9) signs. Conference call with Bob and Dorothy — Dorothy informed of missing signage. Dorothy to provide revised installation date (must be around school hours). Emergency evacuation plan signs removed from scope per shop drawings.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (April 2)*

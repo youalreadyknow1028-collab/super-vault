@@ -52,4 +52,10 @@
 
 ---
 
-**Hashtags:** #crm #contact #aws #advanced-wall-systems #yorktown #eifs #2026-04-02
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**April 2, 2026** — On site setting up scaffolding and beginning EIFS installation. One man on site. Andrew Luzzi supervised.
+
+---
+
+**Hashtags:** #crm #contact #aws #advanced-wall-systems #yorktown #eifs #2026-04-03

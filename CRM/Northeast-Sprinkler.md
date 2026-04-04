@@ -79,4 +79,10 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-01 | Source: Daily Truth (March 31, April 1), Bob Reports*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**March 30, 2026** — Coming Tuesday (April 7) to Yorktown DPW — must finish before ceilings can close.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (March 30, April 1, 2)*

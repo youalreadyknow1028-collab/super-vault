@@ -70,4 +70,12 @@ Exterior lighting rough-in is BLOCKING Andrew/AWS stucco work. Must complete bef
 
 ---
 
-*PULSE LAST UPDATED: 2026-03-31 | Source: MASTER-TODO, Yorktown-Pulse, daily logs*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**April 1, 2026** — ISSUE: Did NOT remove conduit at ceiling height on existing masonry walls. This will interfere with ceiling grid installation. ISSUE carried forward.
+
+**April 2, 2026** — ISSUE CARRIED FORWARD: Conduit at ceiling height not removed — blocks ceiling grid.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (April 1, 2)*

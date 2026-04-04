@@ -129,4 +129,16 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-04-01 | Source: Daily Truth (March 31, April 1), Daily Log (March 31), Bob Reports (April 1)*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**March 31, 2026** — On site with Spruce crew. Installing wall angle and hanging wire for ceiling grid. Blocked by spacklers — could not complete ceiling grid.
+
+**April 1, 2026** — Doing wall angle and ceiling grid wire. Anthony couldn't finish ceiling grid due to spacklers in the way. Pre-cut as much as possible.
+
+**April 2, 2026** — Anthony and Jimmy completed ceiling grid in break room, installed ceiling tiles. Anthony completed bump out access door (CO 100% done). Anthony and Jimmy also installed access door to stormwater cleanout in break room.
+
+**April 3, 2026** — Anthony and Jimmy Spruce: installing ceiling tiles in bunk room. Spackle not finishing today at Yorktown (will finish Monday April 6).
+
+---
+
+*PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (March 31, April 1, 2, 3)*

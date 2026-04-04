@@ -52,4 +52,14 @@
 
 ---
 
-**Hashtags:** #crm #contact #spruce #yorktown #ceiling-grid #2026-04-02
+---
+
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**April 2, 2026** — First noted on site at Yorktown DPW. Working with Anthony on ceiling grid installation in break room. Anthony and Jimmy completed ceiling grid in break room, installed ceiling tiles. Jimmy installed access door to stormwater cleanout in break room.
+
+**April 3, 2026** — With Anthony: installing ceiling tiles in bunk room. Spackle not finishing today at Yorktown (will finish Monday April 6).
+
+---
+
+**Hashtags:** #crm #contact #spruce #yorktown #ceiling-grid #2026-04-03
