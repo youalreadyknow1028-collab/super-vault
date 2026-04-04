@@ -1,8 +1,8 @@
 # 📋 PENDING DECISIONS & CHANGE ORDER TRACKER — Mamaroneck Parks
 ## 150 Myrtle Ave, Mamaroneck, NY
 **Project:** Town of Mamaroneck Parks Dept & Sign Shop Facility  
-**Last Full Update:** 2026-03-27 01:21 EDT  
-**Tracker Status:** DEMOLITION COMPLETE — NEW CONSTRUCTION PENDING  
+**Last Full Update:** 2026-04-04 (Daily Truth updates — March 25 through April 3)  
+**Tracker Status:** DEMOLITION COMPLETE — SURVEY IN PROGRESS — NEW CONSTRUCTION APRIL 6+  
 **Maintained by:** Supervisor (@super)
 
 ---
@@ -18,14 +18,16 @@
 ## 🎯 PROJECT STATUS
 | Field | Value | Updated |
 |-------|-------|---------|
-| **Phase** | Demolition Complete, New Construction Pending | 2026-03-19 |
+| **Phase** | Demolition Complete, Survey In Progress, New Construction Pending | 2026-03-31 |
 | **Demolition** | ✅ 100% COMPLETE | 2026-03-19 |
 | **Abatement** | ✅ 100% COMPLETE (Insaren) | 2026-03-25 |
-| **Containers** | ✅ 7 DUMPSTERS PULLED, 2 more to pull | 2026-03-26 |
+| **Containers** | ✅ ALL PULLED (19 total) | 2026-03-26 |
 | **Temp Water** | ✅ RESOLVED — Option 2 | 2026-03-10 |
-| **Tectonic Survey** | ⏳ PENDING — Katarina Legener, Tue 8am | 2026-03-27 |
-| **Construction Meeting** | 📅 March 26 (every 2 weeks) | 2026-03-26 |
-| **New Construction** | ⏳ PENDING | — |
+| **Tectonic Survey** | ✅ INITIAL SURVEY COMPLETE (March 31); Full stake-out April 3 at 7AM | 2026-03-31 |
+| **Survey Control Points** | ✅ ESTABLISHED — Chris Posada, April 3 | 2026-04-03 |
+| **Construction Meeting** | ✅ March 26 COMPLETED; Next TBD | 2026-03-26 |
+| **Groundbreaking** | ✅ COMPLETE — March 30 | 2026-03-30 |
+| **New Construction** | ⏳ PENDING — Four corners + retaining walls: April 6 | 2026-04-03 |
 
 ---
 
@@ -59,7 +61,89 @@
 - 2026-02-26: 🔴 IDENTIFIED — Wall location revised per updated drawings
 - 2026-03-26: 🔴 STILL PENDING — Awaiting Nick approval
 
-### 🟡 FIBERGLASS WINDOW SUBMITTAL
+### 🔴 CRITICAL — NEW ITEMS (March-April 2026)
+
+### 🔴 CO-P-003: LOFT STAIRS REDESIGN
+| Field | Value |
+|-------|-------|
+| **Item** | Loft stairs cut during value engineering — back on plan; needs revised drawings + change order |
+| **Identified** | 2026-03-25 |
+| **Source** | Daily Truth / Construction Meeting |
+| **Status** | 🔴 OPEN — change order needed |
+| **Action Required** | Revised drawings from architect; CO to restore stairs to scope |
+
+**History:**
+- 2026-03-25: 🔴 IDENTIFIED — Loft stairs cut during VE; CM approved restoring; need revised drawings + CO
+- 2026-03-26: 🔴 STILL OPEN — Need revised drawings from architect; ceiling framing redesign needed
+
+### 🔴 BUILDING SHIFT TO AVOID ROCK
+| Field | Value |
+|-------|-------|
+| **Item** | Possible shift of building to avoid rock encountered during survey |
+| **Identified** | 2026-03-31 |
+| **Source** | Daily Truth |
+| **Status** | 🟡 PENDING — Tectonic assessing Monday April 6 |
+| **Action Required** | Chris Posada + Tectonic crew returning Monday 7AM to set four corners and assess shift |
+
+**History:**
+- 2026-03-31: 🟡 DISCUSSED — Katarina/Tectonic discussed shifting building to avoid rock
+- 2026-04-03: 🟡 ASSESSMENT SCHEDULED — Chris Posada + crew returning Monday 7AM to set four corners and evaluate building shift feasibility
+
+### 🔴 WINDOW SHOP DRAWINGS
+| Field | Value |
+|-------|-------|
+| **Item** | Window shop drawings with performance data needed |
+| **Identified** | 2026-03-25 |
+| **Source** | Daily Truth / Construction Meeting |
+| **Status** | 🔴 OPEN |
+| **Action Required** | Submittal review — window shop drawings |
+
+### 🔴 DUCTWORK SHOP DRAWINGS
+| Field | Value |
+|-------|-------|
+| **Item** | Revised ductwork shop drawings needed |
+| **Identified** | 2026-03-25 |
+| **Source** | Daily Truth / Construction Meeting |
+| **Status** | 🔴 OPEN |
+| **Action Required** | Submittal review — ductwork shop drawings |
+
+### 🔴 STEEL SHOP DRAWINGS
+| Field | Value |
+|-------|-------|
+| **Item** | Steel shop drawings needed |
+| **Identified** | 2026-03-25 |
+| **Source** | Daily Truth / Construction Meeting |
+| **Status** | 🔴 OPEN — Bob needs Richie to send them back |
+| **Action Required** | Richie (Calgi) to send steel shop drawings back for review |
+
+### 🟡 REVISED SIMPSON HANGERS SUBMITTAL
+| Field | Value |
+|-------|-------|
+| **Item** | Revised Simpson hangers submittal needed — figure out which hanger |
+| **Identified** | 2026-03-25 |
+| **Source** | Daily Truth / Construction Meeting |
+| **Status** | 🟡 OPEN |
+| **Action Required** | Confirm which Simpson hanger; submit for review |
+
+### 🔴 WATER METER (WESTCHESTER JOINT WATER WORKS)
+| Field | Value |
+|-------|-------|
+| **Item** | Water meter coordination with Westchester Joint Water Works |
+| **Identified** | 2026-03-25 |
+| **Source** | Daily Truth / Rob Wasp |
+| **Status** | 🔴 OPEN — Rob Wasp confirmed WJWW call |
+| **Action Required** | Coordinate water meter installation with WJWW |
+
+### 🟡 FULL CONSTRUCTION SCHEDULE
+| Field | Value |
+|-------|-------|
+| **Item** | Full construction schedule requested by Richie Price (CM) |
+| **Identified** | 2026-03-25 |
+| **Source** | Daily Truth / Construction Meeting |
+| **Status** | 🟡 BOB WORKING ON IT |
+| **Action Required** | Bob to prepare full construction schedule for CM review |
+
+## 🟡 FIBERGLASS WINDOW SUBMITTAL
 | Field | Value |
 |-------|-------|
 | **Item** | Fiberglass window submittal (#085413-5) |

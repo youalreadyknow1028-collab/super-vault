@@ -17,12 +17,13 @@
 | Area | Status | Last Update |
 |------|--------|-------------|
 | Framing | ✅ COMPLETE | 2026-03-26 |
-| Electrical | 🟡 Hanover IN PROGRESS (break room rough-in passed 3/30) | 2026-03-31 |
+| Electrical | 🟡 Hanover IN PROGRESS (break room rough-in passed 3/30); conduit not removed — blocking stucco | 2026-04-01 |
 | Plumbing | ✅ COMPLETE | 2026-03-23 |
-| Sheetrock | 🟢 Break room: ceiling grid going up / Bunk room: polishing today | 2026-04-02 |
-| HVAC | 🔴 ABM BLOCKERS — cassettes at wrong height + ERV ductwork | 2026-04-02 |
-| EIFS/Stucco | 🟢 STARTED — Manuel (AWS) on site setting up scaffolding | 2026-04-02 |
+| Sheetrock | 🟢 Break room: ceiling tiles installed / Bunk room: spackle ~95% | 2026-04-02 |
+| HVAC | 🔴 ABM BLOCKERS — cassettes at wrong height + ERV ductwork + condensate drains | 2026-04-02 |
+| EIFS/Stucco | 🟢 STARTED — Manuel (AWS) waterproofing membrane applied | 2026-04-02 |
 | Closeout | 🟡 IN PROGRESS | 2026-04-02 |
+| **SCHEDULE CHANGE** | 🔴 Work paused April 3 — resuming April 6/7 | 2026-04-03 |
 
 ---
 
@@ -137,6 +138,59 @@
 | AM | Town of Yorktown inspector issued sticker | Pending Tracker | ✅ DONE |
 | AM | Roof drain exit pipe raised higher at exit point per David Tetro | Pending Tracker | ✅ DONE |
 | AM | Break room floor removed | Nick | ✅ DONE |
+
+#### 2026-03-27 — EARLIER THIS WEEK
+| Time | Event | Source | Status |
+|------|-------|--------|--------|
+| AM | **Forced air heater removed** — change order complete | Daily Truth | ✅ DONE |
+| AM | Went to Lowe's twice (wrong pipe size first time) — purchased copper fittings + 24x24 access door | Daily Truth | ✅ DONE |
+| PM | Spruce: wall angle bunk room 100% | Daily Truth | ✅ COMPLETE |
+| PM | Spruce: ceiling grid bunk room 100% | Daily Truth | ✅ COMPLETE |
+| PM | Spruce: spackling bunk room 75% | Daily Truth | 🟡 75% |
+| PM | Spruce: sheetrock break room 5% | Daily Truth | 🟡 5% |
+
+#### 2026-03-30 — EARLIER THIS WEEK
+| Time | Event | Source | Status |
+|------|-------|--------|--------|
+| AM | **Hanover Electric break room rough-in — INSPECTION PASSED** | Daily Truth | ✅ PASSED |
+| AM | Town of Yorktown inspector issued sticker | Daily Truth | ✅ DONE |
+| AM | Break room floor removed | Daily Truth | ✅ DONE |
+| AM | Northeast Sprinkler coming tomorrow (Tuesday) | Daily Truth | 📅 APR 01 |
+| AM | Timmy dug level spreader for roof drain (East side bunk room, 10ft x 4ft x 6in deep) | Daily Truth | ✅ DONE |
+| PM | All debris/scrap sheetrock cleaned from break room and bunk room | Daily Truth | ✅ DONE |
+| PM | Hallway mopped to Anne's office | Daily Truth | ✅ DONE |
+| PM | Spruce scheduled for next day (March 31) | Daily Truth | ✅ CONFIRMED |
+
+#### 2026-03-31 — EARLIER THIS WEEK
+| Time | Event | Source | Status |
+|------|-------|--------|--------|
+| AM | Spruce crew on site: 2 sheetrockers, 2 spacklers, Anthony Puleo | Daily Truth | ✅ DONE |
+| AM | Break room sheetrock: ongoing (sheetrocking) | Daily Truth | 🟡 IN PROGRESS |
+| AM | Bunk room spackling: 95% | Daily Truth | 🟡 95% |
+| AM | **Water found on break room floor** — vacuumed and cleaned | Daily Truth | ✅ DONE |
+| AM | Suspected source: abandoned floor drain + roof leak (not directly confirmed) | Daily Truth | 🔴 MONITORING |
+| AM | **Roof drain pipe glued** — so walls can close | Daily Truth | ✅ DONE |
+| AM | Bump out around heater pipe discussed with Spruce crew | Daily Truth | 🟡 IN PROGRESS |
+| AM | Timmy did NOT dig level spreader properly — needs REDO | Daily Truth | 🔴 BLOCKER |
+| PM | Fix bottom 4" sheetrock — kitchen wall bunk room (concrete curb kicking sheetrock out) | Daily Truth | 📅 APR 01 |
+| PM | Copper pipe insulation — hot and cold lines in bunk room and break room | Daily Truth | 📅 APR 01 |
+
+#### 2026-04-01 — EARLIER THIS WEEK
+| Time | Event | Source | Status |
+|------|-------|--------|--------|
+| AM | Spruce: Anthony did wall angle + hung wire for ceiling grid (spacklers in the way) | Daily Truth | 🟡 PARTIAL |
+| AM | Spruce: pre-cut ceiling grid as much as possible | Daily Truth | ✅ DONE |
+| AM | **Bump out around heater pipe — COMPLETE** | Daily Truth | ✅ **CO COMPLETE** |
+| AM | Advanced Wall Systems (Andrew Luzzi) delivered scaffold + materials for EIFS | Daily Truth | ✅ DONE |
+| AM | Installed missing exterior sheathing (for AWS) | Daily Truth | ✅ DONE |
+| AM | Removed flashing at bottom of windows (allowing AWS to seal properly) | Daily Truth | ✅ DONE |
+| AM | Panel lights picked up from office (emergency lights not yet in) | Daily Truth | 🟡 PARTIAL |
+| AM | 2x2 panel lights delivered to bunk room | Daily Truth | ✅ DONE |
+| PM | **🔴 LG Plumbing: copper lines installed BELOW ceiling height** — will interfere with ceiling grid | Daily Truth | 🔴 BLOCKER |
+| PM | **🔴 Hanover Electric: conduit at ceiling height NOT removed from masonry walls** | Daily Truth | 🔴 BLOCKER |
+| PM | Andrew Luzzi gave finalized EIFS color sample — to be given to Bob | Daily Truth | 📋 FOR BOB |
+| PM | All sheetrock debris cleaned | Daily Truth | ✅ DONE |
+| EOD | EIFS starts tomorrow | Daily Truth | 📅 APR 02 |
 
 #### 2026-03-26 — EARLIER THIS WEEK
 | Time | Event | Source | Status |

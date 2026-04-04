@@ -503,6 +503,76 @@ Bob C.
 
 ---
 
+## March 30, 2026 — Groundbreaking Day
+
+**Source:** Daily Truth
+
+### FIELD ACTIONS
+- Nick attended groundbreaking ceremony at Mamaroneck Parks Department — ceremony went well
+- Walked through site before ceremony: fence along Myrtle Avenue needs reinforcement (six pieces of rebar)
+- Katarina Legener from Tectonic confirmed coming tomorrow (Tuesday March 31) at 8:00 AM for survey
+
+### PERMITS
+- Demolition Permit: ISSUED
+- Commercial Rock Removal Permit: ISSUED March 25, 2026 — one year validity
+
+### BLOCKERS
+- Building permit still not issued
+
+---
+
+## March 31, 2026 — Tectonic Survey On-Site
+
+**Source:** Daily Truth
+
+### FIELD ACTIONS
+- Nick arrived at Mamaroneck Parks Department 6:30 AM
+- Met Katarina Legener (Tectonic) at 8:00 AM on site
+- Discussed building layout and plan to work around rock — potentially shifting building over
+- Need: full set of plans to Katarina ASAP for elevations and to mark four corners + retaining walls
+- Bob Camilli met Nick and Katarina on site — went over everything
+- Richie Price (CM from Calgi) arrived on site ~9:30 AM — brought him up to speed
+- **Tectonic crew coming Friday April 3rd at 7:00 AM** — elevations and stake-out
+
+### DECISIONS MADE
+- **Decision Made By:** Nick / Bob / Katarina
+  - **What was decided:** Discussed shifting building to avoid rock — Tectonic to assess
+  - **Why:** Rock encountered during survey may require building position adjustment
+
+### BLOCKERS
+- **URGENT:** Full plans needed by Katarina (Tectonic) — survey cannot be finalized without complete drawings
+
+---
+
+## April 1, 2026 — Plans Delivered
+
+**Source:** Daily Truth
+
+### FIELD ACTIONS
+- Bob Camilli got full plan set to Katarina Legener (Tectonic)
+- Tectonic crew confirmed for Friday April 3rd at 7:00 AM — elevations and stake-out
+
+### BLOCKERS
+- Building permit still not issued
+- Full plans to Tectonic: ✅ DELIVERED (April 1)
+
+---
+
+## April 2, 2026 — Pre-Survey Status
+
+**Source:** Daily Truth / Supervisor Analysis
+
+### TODAY'S ACTIVITY
+- Bob confirmed Katarina Legener has full plan set
+- Tectonic crew confirmed for Friday April 3rd at 7:00 AM — elevations and stake-out
+- No field activity today at Parks
+
+### TOMORROW'S PLAN (April 3)
+- **6:30 AM** — Nick to arrive at Parks, meet Tectonic crew
+- Tectonic crew at 7:00 AM — elevations and stake-out
+
+---
+
 ## March 26, 2026 — Pre-Survey Prep / Construction Meeting
 
 **Source:** Daily Truth / Bob Report / Emails

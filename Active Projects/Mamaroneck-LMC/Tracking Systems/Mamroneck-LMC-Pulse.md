@@ -13,9 +13,11 @@
 | Punchlist Touch-ups | ✅ COMPLETE | 2026-03-17 |
 | Electrical | ✅ COMPLETE | 2026-03-26 |
 | HVAC Equipment | ✅ POWERED UP | 2026-03-25/26 |
-| HVAC Startup | 🟡 STILL UNCONFIRMED | 2026-04-02 |
-| Architect Punchlist | 🔴 NOT RECEIVED | 2026-03-26 |
+| HVAC Startup | 🔴 UNCONFIRMED | 2026-04-02 |
+| Architect Punchlist | 🔴 NOT RECEIVED | 2026-04-02 |
 | Site Items | 🔴 Shop vac + ladders STILL ON SITE | 2026-04-02 |
+| Cabinet Door CO | 🟡 SCHEDULED APRIL 6 | 2026-04-03 |
+| Missing Shelving | 🟡 SCHEDULED APRIL 6 | 2026-04-03 |
 | Closeout | 🟡 BLOCKED | 2026-04-02 |
 
 ---
@@ -93,5 +95,58 @@
 
 ---
 
-**Last Updated:** 2026-03-27 01:21 EDT  
+## 🔴 CURRENT BLOCKERS (Updated March 25–April 3)
+| Blocker | Trade | Status |
+|---------|-------|--------|
+| **Daikin/Buchanan Mechanical startup** | HVAC | 🔴 UNCONFIRMED — as of April 2 (was supposed to be Fri/Mon March 27/30) |
+| **Cabinet doors CO date** | Spruce Construction | 🔴 OPEN — Richie Puleo still needs date from supplier (March 31–April 2) |
+| **Missing shelving** | Spruce Construction | 🔴 OPEN — to be installed with cabinet door CO |
+| **Shop vac + ladders on site** | cleanup | 🔴 ON SITE — still not removed (March 25–April 3) |
+| **Official punch list from Sarah (KGD)** | inspection | 🔴 NOT RECEIVED — blocking final closeout |
+| **Paint touch-up blocked** | painting | 🔴 OPEN — blue base molding |
+| **Paint splatter on glass** | painting | 🔴 OPEN |
+
+## 📋 MARCH 25 – APRIL 3 UPDATE
+
+### March 25, 2026
+| Item | Status | Notes |
+|------|--------|-------|
+| Juan/Salazar wired rooftop units of LMC | ✅ COMPLETE | Per Daily Truth |
+| Willy/Buchanan Mechanical powered up | ✅ COMPLETE | Met on site |
+| Daikin startup | 🟡 TBD | Buchanan scheduling — Friday or Monday |
+| Shop vac + ladders | 🔴 ON SITE | Still need to remove |
+| Cabinet doors CO | 🟡 PENDING | Richie Puleo/Spruce — need date from supplier |
+
+### March 26–27, 2026
+| Item | Status | Notes |
+|------|--------|-------|
+| Juan/Salazar wired rooftop units | ✅ COMPLETE | Powered up March 25 |
+| Daikin startup | 🟡 TBD | Still unconfirmed |
+| Shop vac + ladders | 🔴 ON SITE | Still need to remove |
+| Cabinet doors CO | 🟡 PENDING | Richie Puleo/Spruce — need date |
+
+### March 30–31, 2026
+| Item | Status | Notes |
+|------|--------|-------|
+| Daikin/Buchanan Mechanical | 🔴 UNCONFIRMED | Made it to LMC? No confirmation as of March 30 |
+| Cabinet doors CO | 🟡 PENDING | Still need date from Richie Puleo/Spruce supplier |
+| Shop vac + ladders | 🔴 ON SITE | Still need to remove |
+
+### April 1–2, 2026
+| Item | Status | Notes |
+|------|--------|-------|
+| Daikin/Buchanan Mechanical | 🔴 UNCONFIRMED | Still no confirmation as of April 2 |
+| Cabinet doors CO | 🟡 PENDING | Richie Puleo still needs date from supplier |
+| Shop vac + ladders | 🔴 ON SITE | Still on site as of April 2 |
+
+### April 3, 2026
+| Item | Status | Notes |
+|------|--------|-------|
+| Spruce/Anthony going to LMC | ✅ CONFIRMED | Monday April 6 — finish cabinet door CO + install missing shelving |
+| Daikin/Buchanan Mechanical | 🔴 UNCONFIRMED | Still no confirmation |
+| Shop vac + ladders | 🔴 ON SITE | Still need to remove |
+
+---
+
+**Last Updated:** 2026-04-04 (Daily Truth updates — March 25 through April 3)  
 **Agent:** Supervisor (@super)  

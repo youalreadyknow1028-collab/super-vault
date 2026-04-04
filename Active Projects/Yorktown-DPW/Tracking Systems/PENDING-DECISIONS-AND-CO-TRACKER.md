@@ -1,7 +1,7 @@
 # 📋 PENDING DECISIONS & CHANGE ORDER TRACKER — Yorktown DPW
 ## 281 Underhill Avenue, Yorktown Heights, NY
 **Project:** Yorktown Highway Department HVAC Renovation  
-**Last Full Update:** 2026-03-26 11:25 EDT  
+**Last Full Update:** 2026-04-04 (Daily Truth updates — March 25 through April 3)  
 **Tracker Status:** ACTIVE  
 **Maintained by:** Supervisor (@super)
 
@@ -14,6 +14,52 @@
 - **Tags:** #yorktown-dpw #pending-decisions #change-orders #super
 
 ---
+
+## 🔴 CRITICAL — NEW BLOCKERS (April 2026)
+
+### 🔴 LG PLUMBING — COPPER LINES BELOW CEILING HEIGHT
+| Field | Value |
+|-------|-------|
+| **Item** | LG Plumbing installed copper lines for bunk room kitchen below ceiling height in break room |
+| **Identified** | 2026-04-01 |
+| **Source** | Daily Truth |
+| **Status** | 🔴 OPEN — blocking ceiling grid installation |
+| **Required Action** | LG Plumbing must raise copper lines before ceiling can close |
+
+### 🔴 HANOVER ELECTRIC — CONDUIT NOT REMOVED
+| Field | Value |
+|-------|-------|
+| **Item** | Hanover Electric did not remove conduit at ceiling height on existing masonry walls |
+| **Identified** | 2026-04-01 |
+| **Source** | Daily Truth |
+| **Status** | 🔴 OPEN — blocking stucco/EIFS installation |
+| **Required Action** | Hanover Electric must remove conduit before AWS can apply stucco |
+
+### 🔴 ABM MECHANICAL — CASSETTE HEIGHTS + ERV + CONDENSATE
+| Field | Value |
+|-------|-------|
+| **Item** | Cassette heights need adjustment; ERV ductwork and condensate drains incomplete |
+| **Identified** | 2026-04-02 |
+| **Source** | Daily Truth |
+| **Status** | 🔴 OPEN — blocking ceiling tile installation |
+| **Required Action** | ABM must adjust cassettes (2 at different heights in break room), install condensate drains (3 cassettes), complete ERV ductwork |
+
+### 🟡 BOB CAMILLI — CONCRETE CURB ON WATER SPREADER
+| Field | Value |
+|-------|-------|
+| **Item** | David Tetro's specs show concrete curb on one side of water spreader |
+| **Identified** | 2026-04-02 |
+| **Source** | Daily Truth |
+| **Status** | 🟡 CONFIRM NEEDED — confirm with Bob if installing |
+| **Required Action** | Bob to confirm before concrete work |
+
+### ✅ NORTHEAST SPRINKLER — SCHEDULED
+| Field | Value |
+|-------|-------|
+| **Item** | Northeast Sprinkler scheduled for Yorktown |
+| **Identified** | 2026-03-30 |
+| **Source** | Daily Truth |
+| **Status** | ✅ CONFIRMED — Tuesday April 7 |
 
 ## 🔴 CRITICAL — DECISION NEEDED TODAY
 
@@ -67,7 +113,49 @@
 
 ## 📋 SCOPE CHANGES & CHANGE ORDERS
 
-### CO-Y-W8: W8 SHAFT WALL ASSEMBLY
+### ✅ CO-Y-HEATER: FORCED AIR HEATER REMOVAL
+| Field | Value |
+|-------|-------|
+| **Item** | Remove forced air heater from break room and route supply pipe outside wall |
+| **Identified** | 2026-03-25 |
+| **Source** | Email from Paul Revans / David Tetro |
+| **Completed** | 2026-03-27 |
+| **Status** | ✅ **COMPLETED — Nick removed heater; Lowe's run for copper fittings + access door** |
+
+**History:**
+- 2026-03-25: 🔴 IDENTIFIED — Heater pipe "too close to ground" per Tetro email
+- 2026-03-26: 🟡 OPTIONS PROVIDED — Paul Revans gave 2 options; Bob chose bump-out
+- 2026-03-27: ✅ COMPLETED — Nick removed heater, routed pipe, purchased fittings + 24x24 access door
+
+### ✅ CO-Y-BUMP: BUMP OUT AROUND HEATER PIPE
+| Field | Value |
+|-------|-------|
+| **Item** | Bump out around remaining pipe from removed forced air heater |
+| **Identified** | 2026-03-31 |
+| **Source** | Daily Truth |
+| **Completed** | 2026-04-01 |
+| **Status** | ✅ **COMPLETED April 2 — Anthony installed 2x2 access door in bump-out** |
+
+**History:**
+- 2026-03-31: 🟡 DISCUSSED — Spruce crew on site; bump out discussed
+- 2026-04-01: ✅ SPRUCE COMPLETED BUMP OUT — Per Paul Revans email direction
+- 2026-04-02: ✅ ACCESS DOOR INSTALLED — Anthony installed 2x2 access door to stormwater cleanout (break room) — **CO 100% COMPLETE**
+
+### CO-Y-GAS: GAS LINE REMOVAL + CAP/LOCK VALVE
+| Field | Value |
+|-------|-------|
+| **Item** | Existing gas line removed for W8 wall; cap/lock valve decision pending |
+| **Identified** | 2026-03-25 |
+| **Source** | Site work — gas line removed during W8 framing |
+| **Status** | 🟡 OPEN — awaiting Paul Revans details on cap/lock valve |
+| **Budget Impact** | TBD |
+
+**History:**
+- 2026-03-25: 🟡 POSSIBLE CO — Gas line removed during W8 shaft wall framing
+- 2026-03-25: 🟡 POSSIBLE CO — No answer from David Tetro on scope
+- 2026-04-02: 🔴 PAUL REVANS DETAILS NEEDED — Discussed cap or locking valve; decision needed
+
+### 🟡 CO-Y-W8: W8 SHAFT WALL ASSEMBLY
 | Field | Value |
 |-------|-------|
 | **Item** | 2-hour shaft wall assembly per Tetro drawings |
@@ -230,6 +318,5 @@
 
 ---
 
-**Last Updated:** 2026-03-26 11:25 EDT  
-**Next Update:** After heater decision + Town Electrician coordination  
+**Last Updated:** 2026-04-04 (Daily Truth updates — March 25 through April 3)  
 **Agent:** Supervisor (@super)
