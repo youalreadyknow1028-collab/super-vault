@@ -99,8 +99,6 @@
 - [[ABM-Mechanical]] needs to install condensate drains for all 3 cassettes — 1 in the bunk room, 2 in the break room.
 - [[ABM-Mechanical]] needs to finish the ductwork for ERV in ceiling of the break room and bunk room.
 - Need to get details from [[Paul-Revans]] on capping off the existing gas line removed from the break room kitchen — possibly a locking valve. (Change order.)
-- 11:00 AM: [[Timmy-Fudale]] went to Lowe's to pick up more gravel for the water spreader.
-- The water spreader was correctly dug to [[David-Tetro]] specs.
 - [[David-Tetro]]'s specs have a concrete curb on one side of water spreader — need to confirm with [[Bob-Camilli]] if installing it.
 
 ---
