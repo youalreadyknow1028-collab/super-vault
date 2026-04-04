@@ -17,7 +17,7 @@ type: crm-index
 > Managed by: [[Supervisor]] / [[Nick Flanagan]]
 > Last full update: 2026-04-04
 > Source: Deep research across all Bob Reports, Daily Logs, Daily Truth, Google Contacts, and emails
-> Total entries: 64 CRM files
+> Total entries: 63 CRM files
 
 ---
 
@@ -108,7 +108,7 @@ type: crm-index
 | [[Mike Dubovsky]] | Town Official | [[Town of Mamaroneck]] | [[Mamaroneck Parks]] | TBD | [[Mike-Dubovsky]] |
 | [[David Muratore]] | Building Official | [[Mamaroneck Building Dept]] | [[Mamaroneck Parks]] | TBD | [[David-Muratore]] |
 | [[Joe Albert]] | Lawyer | — | — | (914) 523-8620 | [[Joe-Albert]] |
-| [[Bruna]] | Cleaning | [[Bob's Cleaning Company]] | — | (203) 908-6190 | [[Bruna]] |
+| [[Bruna]] | Cleaner (House/Job Sites/Buildings) | — | — | (203) 908-6190 | [[Bruna]] |
 | [[Joe Chatter Box]] | Bob's Tenant | — | — | (914) 760-1128 | [[Joe-Chatter-Box]] |
 | [[Luchiana Midnight Express]] | Heavy Haul Transport | — | — | (718) 930-3253 | [[Luchiana-Midnight-Express]] |
 
@@ -140,7 +140,6 @@ type: crm-index
 | [[Arris Contracting Company Inc.]] | Construction Management | [[Jayce Arrington]] | [[Mamaroneck Parks]] | TBD | [[Arris-Contracting-Company-Inc]] |
 | [[KC Construction]] | Construction | [[Con Kilmentis]] | — | (516) 233-5375 | [[KC-Construction]] |
 | [[G&C Marble]] | Marble/Stone | TBD | — | (516) 338-9459 | [[GC-Marble]] |
-| [[Bob's Cleaning Company]] | Cleaning | [[Bruna]] | — | (203) 908-6190 | [[Bobs-Cleaning-Company]] |
 | [[Mount Pleasant Central School District]] | School District | [[Eric Strack]] | — | (914) 327-1430 | [[Eric-Strack]] |
 | [[Luchiana Midnight Express]] | Heavy Haul Transport | TBD | — | (718) 930-3253 | [[Luchiana-Midnight-Express]] |
 
@@ -275,7 +274,6 @@ type: crm-index
 | [[Jose-Tile]] | contact | ✅ NEW 2026-04-04 |
 | [[Bruna]] | contact | ✅ NEW 2026-04-04 |
 | [[Luchiana-Midnight-Express]] | contact | ✅ NEW 2026-04-04 |
-| [[Bobs-Cleaning-Company]] | organization | ✅ NEW 2026-04-04 |
 
 ---
 
