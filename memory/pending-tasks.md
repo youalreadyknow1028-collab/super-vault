@@ -31,8 +31,10 @@
 | Metal wall panel color decision | Bob Camilli | 2026-04-01 | 2026-04-01 🧠 95% | Bob needs to choose color |
 | HVAC startup date at Parks | Ritchie Price / ABM | 2026-04-01 | 2026-04-01 👁 78% | Per Edison email 2/17 — startup timeline unclear |
 | Stucco sample delivery to Bob | Nick | 2026-04-01 | 2026-04-01 🧠 95% | Andrew from Advanced Wall Systems gave Nick the sample |
-| Ardsley HS sign installation | Billy Cerutti (school access) | 2026-04-01 | 2026-04-01 🧠 95% | Signs being installed 4/2. Nick to call Billy morning of |
-| Paul Revans — gas line direction at Yorktown | Nick to call Paul | 2026-04-01 | 2026-04-01 🧠 95% | Nick to call |
+| Ardsley HS sign installation | Billy Cerutti (school access) | 2026-04-01 | 2026-04-02 🧠 95% | ✅ COMPLETED — Installed April 2 |
+| Yorktown ceiling tiles — did Anthony + Jimmy complete? | On-site verification | 2026-04-03 | 2026-04-03 🔎 60% | Nick not on site — will verify Monday |
+| Yorktown bunk room painting — can Timmy paint? | Spackler + tiles done | 2026-04-03 | 2026-04-03 🔎 60% | Nick not on site — will verify Monday |
+| Paul Revans — gas line direction at Yorktown | Nick to call Paul | 2026-04-01 | 2026-04-03 👁 70% | Status unclear — needs follow-up |
 | Northeast Sprinkler — confirmed Yorktown visit | Northeast Sprinkler | 2026-04-01 | 2026-04-01 👁 72% | Expected Tuesday 4/7 — not confirmed in writing |
 | Door restriction at Yorktown (90° limit) | Bob Camilli | 2026-04-01 | 2026-04-01 🧠 95% | Nick told Andrew to restrict door to 90° |
 
