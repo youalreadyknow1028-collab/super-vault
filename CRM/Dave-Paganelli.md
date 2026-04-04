@@ -49,4 +49,12 @@ aliases:
 
 ---
 
-*PULSE LAST UPDATED: 2026-03-31 | Source: MASTER-TODO, daily logs*
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**2026-04-04** — [[Nick Flanagan]] on site at [[Yorktown DPW]]. [[Spruce Contracting]]'s spackler sanded Dave Paganelli's office — just needs a polish coat to finish. 🟢
+
+**2026-03-31** — Dave Paganelli is the Town of Yorktown Highway Superintendent / project manager overseeing [[Yorktown DPW]].
+
+---
+
+*PULSE LAST UPDATED: 2026-04-04 | Source: Daily Truth (April 2)*

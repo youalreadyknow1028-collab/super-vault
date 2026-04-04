@@ -64,4 +64,14 @@ last_updated: 2026-04-01
 ## NOTES
 Dominic Calgi is the Owner of Calgi Construction Company, Inc. His involvement is at the oversight/ownership level. The primary day-to-day Construction Manager contact for the Mamaroneck Parks Sign Shop project is Ritchie Price (rprice@calgiconstruction.com, 914-500-3824). Dominic's role is high-level oversight and strategic decisions — day-to-day coordination flows through Ritchie.
 
-*PULSE LAST UPDATED: 2026-04-01 | Source: MASTER-TODO, Parks-Pulse, CRM context*
+---
+
+## 📅 PULSE — Recent Activity (March 25 – April 3, 2026)
+
+**2026-04-04** — [[Ritchie Price]] is the primary day-to-day CM for [[Mamaroneck Parks]]. On 2026-03-31, arrived on site at [[Mamaroneck Parks]] at 9:30 AM. [[Bob Camilli]] briefed him on the project plan. [[Katarina Legener]] and the [[Tectonic Engineering]] crew were already on site performing the survey. 🟢
+
+**2026-04-01** — Schedule of Values (SOV) approved at biweekly construction progress meeting. Submittals review in progress.
+
+---
+
+*PULSE LAST UPDATED: 2026-04-04 | Source: Daily Truth (March 31)*
