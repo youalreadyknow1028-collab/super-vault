@@ -36,6 +36,8 @@
 - **CHANGE IN PLAN** — Timmy NOT going to Yorktown today
 - **CHANGE IN PLAN** — Spruce spackler NOT finishing at Yorktown today
 - Emergency lighting for Yorktown bunk room delivered — needs pickup from office
+- **Ceiling tile installation — STATUS UNKNOWN**: Nick was not on site at Yorktown today; whether Anthony and Jimmy completed the ceiling grid/tiles is unconfirmed — will verify Monday
+- **Bunk room painting — STATUS UNKNOWN**: Dependent on spackler completion and tile installation — will verify Monday
 
 ---
 
@@ -60,6 +62,8 @@
 - [ ] Steve (site work) — Tuesday April 7 — drop off chipping machine
 
 ### Yorktown DPW
+- [ ] **VERIFY MONDAY:** Ceiling tiles — did Anthony + Jimmy complete installation?
+- [ ] **VERIFY MONDAY:** Bunk room painting — can Timmy paint once spackler finishes?
 - [ ] **Bob:** Schedule ABM Mechanical — cassette heights, ERV ductwork, condensate drains
 - [ ] **Bob:** Schedule Taub Flooring — prep break room floor
 - [ ] **Bob:** Schedule Hanover Electric — lighting installation
