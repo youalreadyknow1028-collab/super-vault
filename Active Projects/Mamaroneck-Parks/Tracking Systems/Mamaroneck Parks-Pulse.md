@@ -791,7 +791,14 @@ Bob C.
 ### KEY OPEN ITEMS
 | Item | Owner | Priority |
 |------|-------|----------|
-| Building shift decision — can building move to avoid rock? | Tectonic/Chris Posada | 🔴 HIGH |
+| Survey complete — building shift NOT valid | Tectonic/Chris Posada | 🔴 HIGH |
+| Grade site first — Steve Governale/Eastport Excavation | Steve Governale | 🔴 HIGH |
+| Tectonic to return after grading for final offsets | Tectonic | 🔴 HIGH |
+| Rob Wasp wants to visit site — review building position | Rob Wasp / Ritchie | 🔴 HIGH |
+| Cultec submittal — Richie Price to contact Robert Wasp | Richie Price | 🔴 HIGH |
+| Soffit issue — no soffits on plan, SS Simpson brackets needed | Ritchie/Bob/Paige | 🟡 MEDIUM |
+| ABM Mechanical — date for condensate lines/cassettes | Bob | 🔴 HIGH |
+| Order new laser for building layout | Nick | 🟡 MEDIUM |
 | Follow up with Erica Alvarez on overdue submittals | Ritchie/Bob | 🔴 HIGH |
 | Revised shop drawings — Disconnect Switches | Bob | 🔴 HIGH |
 | Color selection for shingles | Owner/Paige Lewis | 🟡 MEDIUM |

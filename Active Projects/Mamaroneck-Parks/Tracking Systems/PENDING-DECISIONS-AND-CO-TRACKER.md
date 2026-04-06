@@ -82,13 +82,13 @@
 | **Item** | Possible shift of building to avoid rock encountered during survey |
 | **Identified** | 2026-03-31 |
 | **Source** | Daily Truth |
-| **Status** | 🔴 IN PROGRESS — Tectonic assessing TODAY April 6 |
-| **Action Required** | Chris Posada + Tectonic crew on site 7AM today — set four corners and evaluate building shift feasibility |
+| **Status** | ❌ NOT VALID — Building cannot shift; site will be graded first, then Tectonic returns for final offsets |
+| **Action Required** | Revised sequence: Steve Governale grades site → Tectonic returns for final building + retaining wall offsets |
 
 **History:**
 - 2026-03-31: 🟡 DISCUSSED — Katarina/Tectonic discussed shifting building to avoid rock
 - 2026-04-03: 🟡 ASSESSMENT SCHEDULED — Chris Posada + crew returning Monday 7AM to set four corners and evaluate building shift feasibility
-- 2026-04-06: 🔴 IN PROGRESS — Chris Posada + crew on site today 7AM for assessment
+- 2026-04-06: ❌ NOT VALID — After seeing actual building position staked by Tectonic, shifting the building is not feasible. Revised plan: grade site first, then Tectonic returns for final layout
 
 ### 🔴 WINDOW SHOP DRAWINGS
 | Field | Value |
@@ -193,6 +193,42 @@
 | **Source** | Daily Truth / Construction Meeting |
 | **Status** | 🟡 BOB WORKING ON IT |
 | **Action Required** | Bob to prepare full construction schedule for CM review |
+
+### 🟡 SOFFIT ISSUE — Exposed Simpson Brackets
+| Field | Value |
+|-------|-------|
+| **Item** | No soffits called for on plan. No finish specified for open soffits (raw wood). All Simpson brackets would be exposed to weather — must be stainless steel |
+| **Identified** | 2026-04-06 |
+| **Source** | Daily Truth — Nick and Ritchie Price identified during plan review |
+| **Status** | 🟡 PENDING — Need architect direction on soffit finish |
+| **Action Required** | Richie Price to confirm with Paige Lewis (Lewis + Lewis) on soffit specification; SS Simpson brackets may require CO |
+
+### 🟡 CULTEC SUBMITTAL
+| Field | Value |
+|-------|-------|
+| **Item** | Cultec submittal — Robert Wasp needs to review |
+| **Identified** | 2026-04-06 |
+| **Source** | Daily Truth — Bob's direction |
+| **Status** | 🟡 PENDING — Richie Price to contact Robert Wasp |
+| **Action Required** | Richie Price to contact Robert Wasp about Cultec submittal (Bob's direction) |
+
+### 🟡 ROB WASP SITE VISIT
+| Field | Value |
+|-------|-------|
+| **Item** | Rob Wasp wants to visit site to review building and its current position |
+| **Identified** | 2026-04-06 |
+| **Source** | Daily Truth — Richie Price reached out to Rob Wasp |
+| **Status** | 🟡 PENDING — Awaiting Rob Wasp's site visit |
+| **Action Required** | Coordinate site visit with Rob Wasp |
+
+### 🟡 ORDER NEW LASER
+| Field | Value |
+|-------|-------|
+| **Item** | New laser needed for building layout |
+| **Identified** | 2026-04-06 |
+| **Source** | Daily Truth — Bob approved |
+| **Status** | 🟡 PENDING — Nick to order |
+| **Action Required** | Nick to order new laser for building layout |
 
 ## 🟡 FIBERGLASS WINDOW SUBMITTAL
 | Field | Value |
