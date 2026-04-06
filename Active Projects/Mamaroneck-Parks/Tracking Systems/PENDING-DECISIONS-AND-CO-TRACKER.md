@@ -1,7 +1,7 @@
 # 📋 PENDING DECISIONS & CHANGE ORDER TRACKER — Mamaroneck Parks
 ## 150 Myrtle Ave, Mamaroneck, NY
 **Project:** Town of Mamaroneck Parks Dept & Sign Shop Facility  
-**Last Full Update:** 2026-04-04 (Daily Truth updates — March 25 through April 3)  
+**Last Full Update:** 2026-04-06 (Submittal log from Ritchie Price received today — April 6)  
 **Tracker Status:** DEMOLITION COMPLETE — SURVEY IN PROGRESS — NEW CONSTRUCTION APRIL 6+  
 **Maintained by:** Supervisor (@super)
 
@@ -82,12 +82,13 @@
 | **Item** | Possible shift of building to avoid rock encountered during survey |
 | **Identified** | 2026-03-31 |
 | **Source** | Daily Truth |
-| **Status** | 🟡 PENDING — Tectonic assessing Monday April 6 |
-| **Action Required** | Chris Posada + Tectonic crew returning Monday 7AM to set four corners and assess shift |
+| **Status** | 🔴 IN PROGRESS — Tectonic assessing TODAY April 6 |
+| **Action Required** | Chris Posada + Tectonic crew on site 7AM today — set four corners and evaluate building shift feasibility |
 
 **History:**
 - 2026-03-31: 🟡 DISCUSSED — Katarina/Tectonic discussed shifting building to avoid rock
 - 2026-04-03: 🟡 ASSESSMENT SCHEDULED — Chris Posada + crew returning Monday 7AM to set four corners and evaluate building shift feasibility
+- 2026-04-06: 🔴 IN PROGRESS — Chris Posada + crew on site today 7AM for assessment
 
 ### 🔴 WINDOW SHOP DRAWINGS
 | Field | Value |
@@ -97,6 +98,56 @@
 | **Source** | Daily Truth / Construction Meeting |
 | **Status** | 🔴 OPEN |
 | **Action Required** | Submittal review — window shop drawings |
+
+---
+
+## 📋 SUBMITTAL LOG — Ritchie Price (April 6, 2026)
+**Source:** Ritchie Price — Autodesk Forma submittal log — March 27, 2026
+**Document:** `Active Projects/Mamaroneck-Parks/Documents/2026-04-06-Submittal-Log-Ritchie.md`
+
+### 🔴 SUBMITTALS — OVERDUE (10 of 16 items)
+
+| Submittal | Spec Section | Due Date | Days Late | Reviewer | Action Required |
+|-----------|-------------|----------|-----------|---------|----------------|
+| Joint Sealant Samples (#079200-2) | 079200 Joint Sealants | Mar 2 | **25 days** | Paige Lewis (Lewis+Lewis) | Resubmit |
+| Sheet Metal Flashing (#076200-1) | 076200 Sheet Metal | Mar 2 | **25 days** | Paige Lewis (Lewis+Lewis) | Resubmit |
+| Fire Alarm System (#284600-1) | Fire Detection | Mar 12 | **15 days** | Erica Alvarez | HELD — nothing attached |
+| Main Distribution Panels (#260000-7) | Electrical | Mar 12 | **15 days** | Erica Alvarez | Resubmit |
+| Diffusers/Grilles (#230000-9) | HVAC | Mar 15 | **12 days** | Erica Alvarez | Resubmit |
+| Motorized Damper (#230000-10) | HVAC | Mar 19 | **8 days** | Erica Alvarez | Need revised shop drawing |
+| Shingle Samples (#073100-3) | Shingles | Mar 19 | **8 days** | Paige Lewis | Awaiting color selection |
+| Lighting Fixtures (#265000-1) | Lighting | Mar 19 | **8 days** | Erica Alvarez | Resubmit |
+| Electric Water Heater (#230000-7) | HVAC | Mar 20 | **7 days** | Erica Alvarez | Resubmit |
+| Lighting Control System (#265000-6) | Lighting | Mar 26 | **1 day** | Erica Alvarez | Resubmit |
+
+### ✅ SUBMITTALS — APPROVED (2 of 16)
+
+| Submittal | Spec Section | Status | Notes |
+|-----------|-------------|--------|-------|
+| Painting Product Data (#099100-4) | Painting | ✅ NO EXCEPTIONS TAKEN | Waiting on last paint sample |
+| Shingles Product Data (#073100-4) | Shingles | ✅ NO EXCEPTIONS TAKEN | Returned 3/27 |
+
+### ⚠️ SUBMITTALS — NEEDS ACTION (4 of 16)
+
+| Submittal | Spec Section | Status | Action Required | Owner |
+|-----------|-------------|--------|----------------|-------|
+| Disconnect Switches (#260000-2) | Electrical | Submitted | **Need revised shop drawings** | Bob/Ritchie |
+| Ductwork Shop Drawings (#230000-2) | HVAC | In Review | **FORCED RETURN — resubmit required** | Bob |
+| Painting Samples (#099100-5) | Painting | Submitted | **Nothing attached — resubmit** | Bob/Ritchie |
+| Shingle Samples (#073100-3) | Shingles | In Review | **Awaiting color selection** | Owner/Paige |
+
+### ✅ SUBMITTALS — RESOLVED
+
+| Submittal | Status | Notes |
+|-----------|--------|-------|
+| Site Drainage (#02500-1) | ✅ RESOLVED | Per Nick 4/6/26 — ⚠️ verify |
+
+### 🔴 SUBMITTAL ACTION PLAN
+1. **Bob Camilli** — responsible contractor for all submittals
+2. **Erica Alvarez (Cuono Engineering)** — primary reviewer for HVAC + electrical — chase down 8 overdue items
+3. **Paige Lewis (Lewis + Lewis)** — architectural reviewer — color selection for shingles needed
+4. **Ritchie Price (Calgi)** — chasing down Disconnect Switches revision, Painting samples with nothing attached
+5. **Robert Wasp** — Site Drainage submittal was with him — confirmed resolved per Nick
 
 ### 🔴 DUCTWORK SHOP DRAWINGS
 | Field | Value |
@@ -259,8 +310,8 @@
 
 | Date | Event | Project | Status |
 |------|-------|---------|--------|
-| **March 24-25** | Tectonic Survey, 8:00 AM | Parks | ⏳ PENDING |
-| **March 26** | Construction Progress Meeting | Parks | ✅ COMPLETED |
+| **April 6** | Tectonic/Chris Posada — 4 corners + rock assessment | Parks | 🔴 TODAY |
+| **April 7** | Steve — chipping machine delivery at Parks | Parks | 📅 UPCOMING |
 | **April 9 (TBD)** | Next Construction Progress Meeting | Parks | 📅 UPCOMING |
 | **April (TBD)** | New construction start | Parks | ⏳ PENDING |
 

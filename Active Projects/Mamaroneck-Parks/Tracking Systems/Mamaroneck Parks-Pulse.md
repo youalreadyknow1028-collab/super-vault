@@ -3,9 +3,9 @@
 ## Peter Camilli & Sons Construction Ltd.
 ## Complete Chronological Project History
 
-**Last Updated:** April 3, 2026  
+**Last Updated:** April 6, 2026  
 **Prepared by:** Supervisor Agent (@super)  
-**Status:** ACTIVE PROJECT — Control points + benchmark established April 3 — Four corners + retaining walls: April 6, 2026
+**Status:** ACTIVE PROJECT — Survey in progress — Four corners + retaining walls: April 6, 2026
 
 ---
 
@@ -741,6 +741,72 @@ Bob C.
 - **Horizontal Control:** Off-site control point near rocks above construction area (protects layout markers from equipment damage)
 - **Possible building shift** to avoid rock — Chris evaluating on Monday
 - Nick left Parks at 1:30 PM — headed to office to drop checks off for Bob
+
+---
+
+## April 6, 2026 — Survey Crew Returns / Submittal Log Received
+
+**Source:** Daily Truth / Ritchie Price Submittal Log / Nick field notes
+
+### FIELD ACTIONS
+- **7:00 AM** — Chris Posada (Tectonic) + 1-man crew returned to Mamaroneck Parks
+- Mission: Set four corners of building, establish vertical/horizontal control, evaluate if building can shift to avoid rock
+- **Ritchie Price** (Calgi) on site with Chris — reviewed survey scope, signed timesheet for 8 hours
+
+### SUBMITTAL LOG RECEIVED
+- Ritchie Price provided full submittal log from Autodesk Forma — 16 submittal items
+- **Source document:** `2026-04-06-Submittal-Log-Ritchie.md` (filed in Documents folder)
+- **Key Reviewers:** Erica Alvarez (Cuono Engineering), Paige Lewis (Lewis + Lewis Architects), Robert Wasp (Town Eng), Ritchie Price (Calgi)
+
+### SUBMITTAL STATUS SUMMARY (as of April 6, 2026)
+
+**🔴 Overdue Items (10 of 16):**
+
+| Item | Spec | Due Date | Days Late |
+|------|------|----------|-----------|
+| Joint Sealant Samples (#079200-2) | 079200 Joint Sealants | Mar 2 | **25 days** |
+| Sheet Metal Flashing (#076200-1) | 076200 Sheet Metal | Mar 2 | **25 days** |
+| Fire Alarm System (#284600-1) | Fire Detection | Mar 12 | **15 days** |
+| Main Distribution Panels (#260000-7) | Electrical | Mar 12 | **15 days** |
+| Diffusers/Grilles (#230000-9) | HVAC | Mar 15 | **12 days** |
+| Motorized Damper (#230000-10) | HVAC | Mar 19 | **8 days** |
+| Shingle Samples (#073100-3) | Shingles | Mar 19 | **8 days** |
+| Lighting Fixtures (#265000-1) | Lighting | Mar 19 | **8 days** |
+| Electric Water Heater (#230000-7) | HVAC | Mar 20 | **7 days** |
+| Lighting Control System (#265000-6) | Lighting | Mar 26 | **1 day** |
+
+**✅ Approved Items (2 of 16):**
+- Painting Product Data (#099100-4) — No Exceptions Taken, returned to contractor
+- Shingles Product Data (#073100-4) — No Exceptions Taken, returned 3/27
+
+**⚠️ Needs Action (4 of 16):**
+- Disconnect Switches (#260000-2) — Need revised shop drawings
+- Ductwork Shop Drawings (#230000-2) — Forced return, resubmit required
+- Painting Samples (#099100-5) — Nothing attached, resubmit required
+- Shingle Samples (#073100-3) — Awaiting color selection from owner
+
+**✅ Resolved:**
+- Site Drainage (#02500-1) — Marked resolved per Nick (4/6/26) — ⚠️ verifying with Nick
+
+### KEY OPEN ITEMS
+| Item | Owner | Priority |
+|------|-------|----------|
+| Building shift decision — can building move to avoid rock? | Tectonic/Chris Posada | 🔴 HIGH |
+| Follow up with Erica Alvarez on overdue submittals | Ritchie/Bob | 🔴 HIGH |
+| Revised shop drawings — Disconnect Switches | Bob | 🔴 HIGH |
+| Color selection for shingles | Owner/Paige Lewis | 🟡 MEDIUM |
+| Ductwork forced return — resubmit | Bob | 🔴 HIGH |
+| Painting samples — resubmit with attachments | Bob | 🟡 MEDIUM |
+| Painting product data — waiting on final paint | Paige Lewis | 🟡 MEDIUM |
+| Building permit | Calgi/Town | 🔴 HIGH |
+
+### PERMITS
+| Permit | Status | Date | Notes |
+|--------|--------|------|-------|
+| Demolition Permit | ✅ ISSUED | March 2026 | Complete |
+| Commercial Rock Removal Permit | ✅ ISSUED | March 25, 2026 | One year to complete |
+| Rock Chipping Permit | ✅ OBTAINED | March 25, 2026 | Fee waived per Michael Perri |
+| Building Permit | ⏳ PENDING | — | Not yet issued |
 
 ### OPEN ITEM
 - Building shift to avoid rock — Chris Posada evaluating Monday April 6 with Bob
