@@ -110,7 +110,6 @@
 |------|---------|------|
 | Morning | Pick up 2x2 emergency lights from 210 Marble Avenue → Home Depot for gravel → meet Timmy at Yorktown | Nick |
 | Morning | Pick up paint → head to Yorktown DPW to start painting bunk room | Timmy |
-| Morning | Chipper machine drops at Mamaroneck Parks | Steve Governale |
 
 ---
 
