@@ -85,6 +85,7 @@ type: crm-index
 | [[Jose Delfino]] | Insulation | [[Delfino Insulation]] | — | (516) 312-1552 | [[Jose-Delfino]] |
 | [[Con Kilmentis]] | Contractor | [[KC Construction]] | — | (516) 233-5375 | [[Con-Kilmentis]] |
 | [[Eric Strack]] | Director of Facilities | [[Mount Pleasant Central School District]] | — | (914) 327-1430 | [[Eric-Strack]] |
+| [[Steve Governale]] | Site Work / Excavation | [[East Port Excavation]] | [[Mamaroneck Parks]] | (631) 416-1822 | [[Steve-Governale]] |
 
 ### 🟢 P3-ONGOING (Workers / Day Labor)
 
@@ -142,6 +143,7 @@ type: crm-index
 | [[G&C Marble]] | Marble/Stone | TBD | — | (516) 338-9459 | [[GC-Marble]] |
 | [[Mount Pleasant Central School District]] | School District | [[Eric Strack]] | — | (914) 327-1430 | [[Eric-Strack]] |
 | [[Luchiana Midnight Express]] | Heavy Haul Transport | TBD | — | (718) 930-3253 | [[Luchiana-Midnight-Express]] |
+| [[East Port Excavation]] | Excavation / Site Work | [[Steve Governale]] | [[Mamaroneck Parks]] | (631) 416-1822 | [[East-Port-Excavation]] |
 
 ---
 
