@@ -127,11 +127,10 @@
 |-------|---------|-------|-------|
 | Survey | Tectonic Engineering (Chris Posada + Chad) | 2 | 8 |
 | Project Management | Ritchie Price (Calgi) | 1 | ~4 |
+| GC Owner | Bob Camilli | 1 | ~2 |
+| Site Work | Steve Governale (Eastport Excavation) | 1 | ~1 |
+| Equipment Delivery | United Tool Rental | 1 | — |
 | Site Supervision | Nick Flanagan | 1 | Full day |
-| Site Work | Steve Governale (Eastport Excavation) | 1 | ~4 |
-| Cabinetry | Spruce Construction | TBD | Today |
-
-**Total:** ~5-6 workers + Nick
 
 ---
 
