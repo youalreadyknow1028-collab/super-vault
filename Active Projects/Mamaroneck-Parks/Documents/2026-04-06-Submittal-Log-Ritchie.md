@@ -35,7 +35,7 @@
 | 13 | 1.2-A-Product Data (Sheet Metal) | #076200-1 | 🔴 Open — In Review | 076200 Sheet Metal Flashing and Trim | 0 | Product Data | Robert Camilli Jr (Peter Camilli & Sons) | Paige Lewis +1 optional | Mar 2, 2026 | — | **⚠️ 25 DAYS LATE** |
 | 14 | 1.2-A-Product Data (Shingles) | #073100-4 | ✅ Open — Reviewed | 073100 Shingles and Shakes | 0 | Product Data | Robert Camilli Jr (Peter Camilli & Sons) | ~~Ritchie Price~~ (crossed out) | Mar 19, 2026 | No Exceptions Taken — Paige Lewis (Lewis & Lewis) | **↩️ RETURNED 3/27** |
 | 15 | 1.2-B-Samples (Shingles) | #073100-3 | 🔴 Open — In Review | 073100 Shingles and Shakes | 0 | Sample | Robert Camilli Jr (Peter Camilli & Sons) | Paige Lewis +1 optional | Mar 19, 2026 | — | **⚠️ 8 DAYS LATE — ✏️ AWAITING COLOR SELECTION** |
-| 16 | Site Drainage | #02500-1 | 🟡 Open — In Review | 02500 Site Work - Storm Water Site Drainage | 0 | Product Data | Robert Camilli Jr (Peter Camilli & Sons) | Robert Wasp +1 optional | Mar 28, 2026 | — | **✏️ WITH R. WASP** |
+| 16 | Site Drainage | #02500-1 | ✅ Resolved | 02500 Site Work - Storm Water Site Drainage | 0 | Product Data | Robert Camilli Jr (Peter Camilli & Sons) | Robert Wasp +1 optional | Mar 28, 2026 | — | **✅ ALREADY RESOLVED — per Nick 4/6/26** |
 
 ---
 
@@ -83,7 +83,6 @@
 | Painting Samples | Nothing attached — resubmit required | Ritchie Price |
 | Painting Product Data | Waiting on final paint sample | Paige Lewis |
 | Shingle Samples | Awaiting color selection from owner | Paige Lewis |
-| Site Drainage | With Robert Wasp — follow up | Robert Wasp |
 
 ---
 
