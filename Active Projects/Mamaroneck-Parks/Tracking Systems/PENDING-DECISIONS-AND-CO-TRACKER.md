@@ -33,33 +33,37 @@
 
 ## 🔴 CRITICAL — PENDING DECISIONS
 
-### 🔴 CO-P-001: DOOR HARDWARE CHANGES
+### ✅ CO-P-001: DOOR HARDWARE CHANGES — RESOLVED
 | Field | Value |
 |-------|-------|
 | **Item** | 3'-0" doors with standard hinges instead of specified hardware |
 | **Identified** | 2026-02-26 |
 | **Source** | Meeting Minutes |
-| **Status** | 🔴 PENDING CO |
-| **Budget Impact** | TBD |
-| **Action Needed** | Nick to approve direction |
+| **Status** | ✅ RESOLVED — Bob Camilli approved: NO official CO, NO cost change |
+| **Resolution** | Owner-requested changes per revised drawings A-2.0/A-6.0/A-6.1 — absorbed as baseline scope. "Camilli to advise if cost is affected" → Answer: no cost impact |
+| **Budget Impact** | $0 — No CO needed |
 
 **History:**
 - 2026-02-26: 🔴 IDENTIFIED — Owner requested 3'-0" doors with standard hinges
-- 2026-03-26: 🔴 STILL PENDING — Awaiting Nick direction
+- 2026-02-26: 🟡 "Camilli to advise if cost is affected" — Bob Camilli determined: no cost change
+- 2026-03-26: 🔴 Tracker showed PENDING — but decision was already resolved by Bob Camilli
+- 2026-04-07: ✅ CORRECTED — Decision source: March 30 MASTER-TODO notes from daily truths. Bob Camilli approved: no CO, no cost change. Changes incorporated into revised drawings as baseline scope.
 
-### 🔴 CO-P-002: TOILET WALL RELOCATION
+### ✅ CO-P-002: TOILET WALL RELOCATION — RESOLVED
 | Field | Value |
 |-------|-------|
 | **Item** | Wall location revised per Drawings A-2.0, A-6.0, A-6.1 |
 | **Identified** | 2026-02-26 |
 | **Source** | Meeting Minutes |
-| **Status** | 🔴 PENDING CO |
-| **Budget Impact** | TBD |
-| **Action Needed** | Nick to approve scope and pricing |
+| **Status** | ✅ RESOLVED — Bob Camilli approved: NO official CO, NO cost change |
+| **Resolution** | Per revised drawings A-2.0/A-6.0/A-6.1 (1/21/26). "Camilli to advise if cost is affected" → Answer: no cost impact |
+| **Budget Impact** | $0 — No CO needed |
 
 **History:**
 - 2026-02-26: 🔴 IDENTIFIED — Wall location revised per updated drawings
-- 2026-03-26: 🔴 STILL PENDING — Awaiting Nick approval
+- 2026-02-26: 🟡 "Camilli to advise if cost is affected" — Bob Camilli determined: no cost change
+- 2026-03-26: 🔴 Tracker showed PENDING — but decision was already resolved by Bob Camilli
+- 2026-04-07: ✅ CORRECTED — Decision source: March 30 MASTER-TODO notes from daily truths. Bob Camilli approved: no CO, no cost change. Changes incorporated into revised drawings as baseline scope.
 
 ### 🔴 CRITICAL — NEW ITEMS (March-April 2026)
 
@@ -333,12 +337,14 @@
 |------|--------|-------------|
 | **Demolition** | ✅ COMPLETE | 2026-03-19 |
 | **Abatement** | ✅ COMPLETE | 2026-03-25 |
-| **Containers** | 🟡 2 REMAINING | 2026-03-27 |
+| **Containers** | ✅ ALL PULLED | 2026-03-26 |
 | **Temp Water** | ✅ ACTIVE | 2026-03-10 |
 | **Permits** | ✅ ACTIVE | 2026-03-24 |
+| **Survey** | ✅ COMPLETE | 2026-04-06 |
 | **RFIs** | 🟡 IN PROGRESS | 2026-03-26 |
-| **Change Orders** | 🔴 2 PENDING | 2026-03-26 |
-| **New Construction** | ⏳ PENDING | — |
+| **Change Orders** | 🟡 1 IN PROGRESS (CO-P-003 loft stairs) | 2026-04-07 |
+| **Soffit Issue** | 🔴 NEW — Pending architect direction | 2026-04-07 |
+| **New Construction** | ⏳ PENDING — Grade site first | 2026-04-07 |
 
 ---
 
