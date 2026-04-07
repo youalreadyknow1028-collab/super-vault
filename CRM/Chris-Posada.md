@@ -52,3 +52,7 @@ last_updated: 2026-04-03
 ---
 **Last Updated:** 2026-04-03
 **Source:** [[Nick Flanagan]] field notes / April 3 Daily Truth
+
+## 📅 PULSE — Recent Activity (April 4–7, 2026)
+
+**April 6, 2026** — On site at Mamaroneck Parks at 7:00 AM with 1 additional crew member (Chad). Established all survey points: 4 corners of building, 2 corners of storage area, 6 retaining wall corners, 2 control points, elevation benchmark at 47 ft on Billy and Pete's wall. Building shift evaluated — NOT VALID after seeing actual staked position. Revised sequence planned: grade site first, then one final Tectonic visit for final offsets. [Source: April 6 Daily Truth]

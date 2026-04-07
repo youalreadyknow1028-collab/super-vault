@@ -86,6 +86,7 @@ type: crm-index
 | [[Con Kilmentis]] | Contractor | [[KC Construction]] | — | (516) 233-5375 | [[Con-Kilmentis]] |
 | [[Eric Strack]] | Director of Facilities | [[Mount Pleasant Central School District]] | — | (914) 327-1430 | [[Eric-Strack]] |
 | [[Steve Governale]] | Site Work / Excavation | [[East Port Excavation]] | [[Mamaroneck Parks]] | (631) 416-1822 | [[Steve-Governale]] |
+| [[Chris Posada]] | Surveyor / Crew Chief | [[Tectonic Surveying]] | [[Mamaroneck Parks]] | Unknown | [[Chris-Posada]] |
 
 ### 🟢 P3-ONGOING (Workers / Day Labor)
 
@@ -95,6 +96,7 @@ type: crm-index
 | [[Anthony Puleo]] | Ceiling Grid / Drywall | [[Spruce Contracting]] | [[Yorktown DPW]] | TBD | [[Anthony-Puleo]] |
 | [[Jose Tile]] | Tile / Sheetrock | — | — | (516) 751-3892 | [[Jose-Tile]] |
 | [[Andrew Kilmentis]] | Contractor | — | — | (516) 369-1770 | [[Andrew-Kilmentis]] |
+| [[Chad]] | Survey Crew | [[Tectonic Surveying]] | [[Mamaroneck Parks]] | Unknown | [[Chad-Tectonic]] |
 
 ### ⚪ P4-COMPLETED / INACTIVE
 

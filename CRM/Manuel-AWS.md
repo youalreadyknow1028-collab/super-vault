@@ -59,3 +59,13 @@
 ---
 
 **Hashtags:** #crm #contact #aws #advanced-wall-systems #yorktown #eifs #2026-04-03
+
+## 📅 PULSE — Recent Activity (April 1–7, 2026)
+
+**April 6, 2026** — AWS waterproofing membrane on breaks — continuing EIFS work. [Source: April 6 Daily Truth — needs confirmation from April 6 DT]
+
+**April 3, 2026** — Not confirmed on site.
+
+**April 2, 2026** — On site at Yorktown DPW — setting up scaffolding and beginning EIFS installation. Applied waterproofing membrane to sheathing seams. One man on site. [Source: April 2 Daily Truth]
+
+**April 1, 2026** — On site at Yorktown DPW — dropping off scaffold and material to start stucco work. [Source: April 1 Daily Truth]
