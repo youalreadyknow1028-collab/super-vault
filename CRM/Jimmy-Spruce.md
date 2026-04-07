@@ -47,7 +47,8 @@
 
 ## 📝 Notes
 - New contact — introduced by Richie Puleo / Spruce Construction at Yorktown DPW
-- Working with Anthony on ceiling grid installation in break room
+- NOT Anthony's brother — both work for Spruce Construction
+- Working alongside Anthony (Spruce carpenter/foreman) on ceiling grid installation
 - Coordinate all Spruce Construction matters through Richie Puleo
 
 ---
