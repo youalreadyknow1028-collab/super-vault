@@ -20,7 +20,7 @@ MASTER-TODO.md -> Super/MASTER-TODO.md
 
 ### Daily Outputs
 Daily Log -> Super/Daily Log/YYYY-MM-DD-Daily-Log.md
-Daily Report -> Super/Daily-reports/
+Daily Report -> Super/Operations & Reporting/Daily-reports/
 Morning Brief -> Super/Morning-briefs/
 Midday Report -> Super/Midday Reports/
 Supervisor Log -> Super/Supers Notes and Logs/Daily-Logs/
