@@ -59,6 +59,6 @@ type: contact
 
 ## 📅 PULSE — Recent Activity (April 6–7, 2026)
 
-**April 7, 2026** — Chipping machine dropped at Mamaroneck Parks. [Source: Nick correction, April 7 morning brief]
+**April 7, 2026** — On site at Mamaroneck Parks at 12:00 PM. Chipped approximately 60% of rock. Returns April 8 with containers to remove chipped rock and begin grading. Stockpiling dirt at top of hill. [Source: April 7 Daily Truth + Ritchie Price email chain]
 
 **April 6, 2026** — Excavator delivered by United Tool Rental at Mamaroneck Parks. Placed away from survey points. [Source: April 6 Daily Truth]

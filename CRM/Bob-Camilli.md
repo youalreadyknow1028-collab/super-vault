@@ -832,19 +832,21 @@ tags:
 
 ## 🔴 ACTIVE ISSUES
 
-### Items Requiring Bob's Attention (as of April 1, 2026)
+### Items Requiring Bob's Attention (as of April 7, 2026)
 
 | Issue | Project | Urgency | Status | Source |
 |-------|---------|---------|--------|--------|
-| **RFI-Y-7: Gas line in kitchen wall** | [[Yorktown DPW]] | 🔴 HIGH | **ONE WEEK OVERDUE** from [[David Tetro]] — safety + scope | [[2026-03-27-Weekly-Brief]] |
-| **RFI-Y-9: Door D8 ADA condition** | [[Yorktown DPW]] | 🔴 HIGH | **ONE WEEK OVERDUE** from [[David Tetro]] — code issue | [[2026-03-27-Weekly-Brief]] |
-| **EIFS pan flashing coordination** | [[Yorktown DPW]] | 🔴 HIGH | Bob to call [[David Tetro]] when ready for EIFS | [[2026-03-27-Weekly-Brief]] |
-| **Stucco sample delivery** | [[Yorktown DPW]] | 🟡 MEDIUM | [[Andrew Luzzi]] gave to Nick — Nick to deliver to Bob | [[2026-04-01-Bob-Report]] |
-| **Ardsley Signs access** | [[Ardsley High School]] | 🟡 MEDIUM | Nick calling Billy Cerutti | [[2026-04-01-Bob-Report]] |
-| **CO-P-001: Door hardware** | [[Mamaroneck Parks]] | 🟡 MEDIUM | Nick needs to decide direction | [[2026-03-27-Weekly-Brief]] |
-| **CO-P-002: Toilet wall relocation** | [[Mamaroneck Parks]] | 🟡 MEDIUM | Nick needs to approve | [[2026-03-27-Weekly-Brief]] |
-| **CO-LMC-001: Shelves/doors** | [[Mamaroneck LMC]] | 🟡 MEDIUM | Waiting on [[Richie Puleo]] date | [[2026-03-31-Daily-Log]] |
-| **LMC closeout** | [[Mamaroneck LMC]] | 🟡 MEDIUM | Daikin startup + shop vac removal pending | [[2026-04-01-Bob-Report]] |
+| **🔴 NEW — 2-Week Lookahead for Rob Wasp** | [[Mamaroneck Parks]] | 🔴 HIGH | Rob Wasp requested 2-week lookahead in April 6 email. Bob needs to provide. | [[Rob Wasp email Apr 6]] |
+| **RFI-Y-7: Gas line in kitchen wall** | [[Yorktown DPW]] | 🔴 HIGH | Pending [[David Tetro]] direction — cap or locking valve | [[2026-03-27-Weekly-Brief]] |
+| **RFI-Y-9: Door D8 ADA condition** | [[Yorktown DPW]] | 🔴 HIGH | Pending [[David Tetro]] direction | [[2026-03-27-Weekly-Brief]] |
+| **ABM Mechanical** | [[Yorktown DPW]] | 🔴 HIGH | Bob contacted 4/6 — awaiting response for condensate + cassette leveling | [[2026-04-07-Daily-Truth]] |
+| **Spruce cabinet doors wrong size** | [[Mamaroneck LMC]] | 🔴 HIGH | Richie Puleo needs to return to fix — schedule needed | [[2026-04-07-Daily-Truth]] |
+| **Formal punchlist from Sarah/KGD** | [[Mamaroneck LMC]] | 🔴 HIGH | Still not received — blocking closeout | [[2026-04-07-Daily-Truth]] |
+| **Building permit** | [[Mamaroneck Parks]] | 🔴 HIGH | Still pending | [[2026-04-07-Daily-Truth]] |
+| **Parking lot shift east** | [[Mamaroneck Parks]] | 🔴 HIGH | May need to shift entire layout east — more rock removal on east side | [[Ritchie Price email Apr 6]] |
+| **CO-P-001/CO-P-002: Door hardware + Toilet wall** | [[Mamaroneck Parks]] | ✅ RESOLVED | APPROVED — no official CO, no cost change | [[2026-03-31-Daily-Truth]] |
+| **CO-P-003: Loft stairs** | [[Mamaroneck Parks]] | 🟡 OPEN | Loft stairs back on plan — pending revised architect drawings + CO | [[2026-03-26-Daily-Truth]] |
+| **Ardsley Signs access** | [[Ardsley High School]] | 🟡 MEDIUM | Waiting on Dorothy (Tumen) revised date | [[2026-04-07-Daily-Truth]] |
 
 ---
 

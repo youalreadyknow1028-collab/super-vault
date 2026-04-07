@@ -52,6 +52,9 @@ last_updated: 2026-04-01
 
 | Date | Subject | Actual Quote / Decision |
 |------|---------|------------------------|
+| **2026-04-07** | FW: 202502 Mamaroneck Sign Shop - Stakes set for Building Layout. | Ritchie forwarded chain to Nick + team keeping them in loop. Email confirms afternoon site visit with Rob Wasp + Paige Lewis. Six items to discuss: building layout near paths, outdoor storage shortening, path shift, higher retaining wall, eaves/soffits enclosure, emergency generator location. |
+| **2026-04-06, 3:29 PM** | 202502 Mamaroneck Sign Shop - Stakes set for Building Layout. | "We have set stakes for the building and parking lot layout as per drawings. There doesn't appear to be much savings in excavation by moving the building around any. Best recommendation right now is to leave the building and parking lot as designed. The one corner of the parking lot appears very close to the walkway along the tennis courts, so moving the whole setup east a little might be the only recommendation, but this would involve removing some more rock on the east side. The excavating sub moved his machine on site today, and is planning to start digging either tomorrow or Wednesday most likely. As such we will need to get the Cultec submittal back soon." |
+|------|---------|------------------------|
 | 2025-12-17 | Mamaroneck Sign Shop - Construction Meeting, 1/14/2026 | *"Our next meeting is scheduled for Wednesday, 1/14/2026, at 10:00 am. The location will be the current and soon to be razed Sign Shop."* |
 | 2026-01-05 | Happy New Year and... | *"Happy New Year and what can we do to get started? I was going to contact Robert Violante at GEO Environmental about the abatement process but wanted to check in first with you."* |
 | 2026-01-08 | Demolition Conference Minutes | *"Please see the attached minutes from our meeting this morning at the Mamaroneck Parks Sign Shop, discussing the demolition and abatement work."* |
@@ -73,6 +76,7 @@ last_updated: 2026-04-01
 
 | Date | Details |
 |------|---------|
+| 2026-04-07 | On site Mamaroneck Parks (before doctor at 11:30 AM). Discussed 6 building layout issues with Rob Wasp + Paige Lewis during afternoon site visit. |
 | 2026-03-31 | Arrived on site ~9:30 AM. Nick brought him up to speed on the Tectonic survey that happened that morning with Katarina Legener. Discussed building layout, rock issue, and building shift plan. |
 
 ## ACTIVE ISSUES

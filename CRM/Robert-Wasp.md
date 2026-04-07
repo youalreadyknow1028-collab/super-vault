@@ -93,6 +93,12 @@ Robert Wasp is the Town Engineer (P.E., C.D.T.) for the Town of Mamaroneck and s
 
 **March 26, 2026** — Asked about water meter (Town of Mamaroneck Engineering) — Rob Wasp said it's Westchester Joint Water Works' call.
 
+## 📅 PULSE — Recent Activity (April 4–7, 2026)
+
+**2026-04-06, 3:44 PM EDT** — Email to Ritchie Price + Paige Lewis: *"Thanks for the update. I'll plan to visit the site tomorrow afternoon to review the stakes. We'll also get the drainage system components submittal returned. Has Bob provided an updated 2 week lookahead?"* — Site visit confirmed for April 7. Cultec/drainage submittal to be returned. **ACTION FOR BOB: Provide 2-week lookahead.**
+
+**2026-04-07, Afternoon** — On site at Mamaroneck Parks with Chris Lonegro (Lewis+Lewis) and Michael Perri (Town) for site visit. Reviewed building layout issues including path conflicts, outdoor storage area, and retaining wall adjustments.
+
 ---
 
 *PULSE LAST UPDATED: 2026-04-03 | Source: Daily Truth (March 26)*
