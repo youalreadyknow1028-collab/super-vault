@@ -1,6 +1,6 @@
 # 🗃️ CRM PULSE — Manuel
 ## Advanced Wall Systems — Yorktown DPW
-**Last Updated:** 2026-04-02
+**Last Updated:** 2026-04-07
 **Status:** ACTIVE
 **Maintained by:** Supervisor (@super)
 
@@ -41,6 +41,7 @@
 ## 🔄 Pulse Log
 | Date | Entry | Source |
 |------|-------|--------|
+| 2026-04-07 | EIFS waterproofing 100% complete, foam 100% complete — finish coat timeline pending. Door restriction 90° not yet done. | Nick daily truth |
 | 2026-04-02 | On site — setting up scaffolding and beginning EIFS installation. One man on site. | Nick update |
 
 ---
