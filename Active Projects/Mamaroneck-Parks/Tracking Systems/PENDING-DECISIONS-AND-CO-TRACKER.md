@@ -204,7 +204,7 @@
 | **Item** | No soffits called for on plan. No finish specified for open soffits (raw wood). All Simpson brackets would be exposed to weather — must be stainless steel finish |
 | **Identified** | 2026-04-06 |
 | **Source** | Daily Truth — Nick and Ritchie Price identified during plan review |
-| **Status** | 🔴 PENDING — Need architect direction from Paige Lewis (Lewis + Lewis Architects) |
+| **Status** | 🔴 PENDING — LINKED TO EAVES/SOFFITS DECISION (Item 5 from April 7 site visit). Enclosing eaves/soffits was identified as a new scope item during site visit. |
 | **Action Required** | Richie Price to confirm with Paige Lewis on soffit finish specification; SS Simpson brackets likely require CO |
 
 ### 🟡 CULTEC SUBMITTAL
@@ -213,17 +213,41 @@
 | **Item** | Cultec submittal — Robert Wasp needs to review |
 | **Identified** | 2026-04-06 |
 | **Source** | Daily Truth — Bob's direction |
-| **Status** | 🟡 PENDING — Richie Price to contact Robert Wasp |
-| **Action Required** | Richie Price to contact Robert Wasp about Cultec submittal (Bob's direction) |
+| **Status** | 🟡 IN PROGRESS — Rob Wasp committed to return it — per April 6 email: "We'll also get the drainage system components submittal returned" |
+| **Action Required** | Awaiting Rob Wasp to return the submittal |
 
-### 🟡 ROB WASP SITE VISIT
+### ✅ ROB WASP SITE VISIT — COMPLETED
 | Field | Value |
 |-------|-------|
 | **Item** | Rob Wasp wants to visit site to review building and its current position |
 | **Identified** | 2026-04-06 |
 | **Source** | Daily Truth — Richie Price reached out to Rob Wasp |
-| **Status** | 🟡 PENDING — Awaiting Rob Wasp's site visit |
-| **Action Required** | Coordinate site visit with Rob Wasp |
+| **Status** | ✅ COMPLETED April 7 — Rob Wasp + Chris Lonegro (Lewis+Lewis) + Michael Perri (Town) on site reviewing building layout issues |
+| **Source Email** | Rob Wasp email April 6, 3:44 PM: "I'll plan to visit the site tomorrow afternoon to review the stakes." |
+
+### 🔴 BUILDING LAYOUT DECISIONS (6 items — April 7 site visit)
+| Field | Value |
+|-------|-------|
+| **Item** | Six building layout issues identified during April 7 site visit with Rob Wasp + Chris Lonegro + Michael Perri |
+| **Identified** | 2026-04-07 |
+| **Source** | Daily Truth + Ritchie Price email chain (April 6–7) |
+| **Status** | 🔴 PENDING — Paige Lewis (Lewis+Lewis) needs to provide revised design/direction |
+| **Decisions Required:** | |
+| 1 | Building layout close to paths (2 locations) |
+| 2 | Shorten covered Outdoor Storage area to clear path — no room for fence |
+| 3 | Move path to clear Outdoor Storage — either shift a couple feet or re-route around rock |
+| 4 | Higher retaining wall at side doorway to Workshop |
+| 5 | Enclose eaves and soffits (new scope — affects Simpson bracket finish) |
+| 6 | Emergency generator location to review |
+
+### 🔴 PARKING LOT SHIFT EAST
+| Field | Value |
+|-------|-------|
+| **Item** | Parking lot corner very close to walkway along tennis courts — may need to shift entire layout east |
+| **Identified** | 2026-04-07 |
+| **Source** | Daily Truth + Ritchie Price email April 6, 3:29 PM |
+| **Status** | 🔴 PENDING — Would require additional rock removal on east side |
+| **Action Required** | Owner/Town decision; Paige Lewis to revise layout; affects grading cost |
 
 ### 🟡 ORDER NEW LASER
 | Field | Value |

@@ -82,20 +82,23 @@ date: 2026-04-07
 
 - [ ] #priority-critical **Grade site first — Steve Governale** | [[Mamaroneck Parks]] | #Sitework | 🔴 REVISED SEQUENCE — grade before Tectonic returns for final offsets
 - [ ] #priority-critical **Tectonic final offsets** | [[Mamaroneck Parks]] | #Survey | 🔴 AFTER GRADING — Tectonic returns for one final visit to set building + retaining wall offsets
-- [ ] #priority-critical **Rob Wasp site visit** | [[Mamaroneck Parks]] | #Coordination | 🔴 PENDING — Ritchie Price coordinating with Rob Wasp to review building position
-- [ ] #priority-critical **Soffit issue — exposed Simpson brackets** | [[Mamaroneck Parks]] | #Architecture | 🔴 NEW — no soffits on plan, raw wood exposure, Simpson brackets exposed to weather — need stainless steel finish; Ritchie → Paige Lewis (Lewis + Lewis)
-- [ ] #priority-critical **Richie Price → Rob Wasp: Cultec submittal** | [[Mamaroneck Parks]] | #Submittal | 🔴 BOB'S DIRECTION — not yet done
-- [ ] #priority-critical **10 overdue submittals** | [[Mamaroneck Parks]] | #Submittal | 🔴 CHASE DOWN — Bob responsible; Erica Alvarez (Cuono) reviewer for most
+- [x] ✅ **Rob Wasp site visit** | [[Mamaroneck Parks]] | #Coordination | ✅ COMPLETED April 7 — Rob Wasp + Chris Lonegro + Michael Perri on site; reviewed building layout issues
+- [ ] #priority-critical **Bob — 2-week lookahead for Rob Wasp** | [[Mamaroneck Parks]] | 🔴 Rob Wasp requested via April 6 email — NOT PROVIDED YET — ACTION FOR BOB
+- [ ] #priority-critical **Parking lot shift east** | [[Mamaroneck Parks]] | #Sitework | 🔴 Parking lot corner close to tennis court walkway — may need to shift entire layout east = more rock removal on east side
+- [ ] #priority-critical **Building layout decisions (6 items from April 7 site visit)** | [[Mamaroneck Parks]] | #Architecture | 🔴 Paige Lewis (Lewis+Lewis) needs to provide revised design for:
+  - Shorten Outdoor Storage to clear path
+  - Path shift/re-route around rock
+  - Higher retaining wall at Workshop doorway
+  - Enclose eaves and soffits (new scope — affects soffit issue)
+  - Emergency generator location
+- [ ] #priority-critical **Soffit issue — Simpson brackets exposed** | [[Mamaroneck Parks]] | #Architecture | 🔴 Linked to eaves/soffits enclosure decision — need SS Simpson brackets; Paige Lewis to advise
+- [ ] #priority-critical **Rob Wasp → returning Cultec/drainage submittal** | [[Mamaroneck Parks]] | #Submittal | 🟡 Rob Wasp committed in April 6 email — awaiting return
+- [ ] #priority-critical **10 overdue submittals** | [[Mamaroneck Parks]] | #Submittal | 🔴 CHASE DOWN — Bob responsible; Erica Alvarez (Cuono) reviewer
+- [ ] #priority-critical **Building permit** | [[Mamaroneck Parks]] | #Permits | 🔴 Still pending
+- [ ] #priority-critical **CO-P-003: Loft stairs redesign** | [[Mamaroneck Parks]] | #ChangeOrder | 🔴 LOFT STAIRS BACK ON PLAN — need revised architect drawings + CO
 - [x] ✅ **CO-P-001: Door hardware** | [[Mamaroneck Parks]] | #ChangeOrder | ✅ APPROVED — no official CO, no cost change (Bob Camilli decision per Feb 26 meeting)
 - [x] ✅ **CO-P-002: Toilet wall relocation** | [[Mamaroneck Parks]] | #ChangeOrder | ✅ APPROVED — no official CO, no cost change (Bob Camilli decision per Feb 26 meeting)
-- [ ] #priority-critical **CO-P-003: Loft stairs redesign** | [[Mamaroneck Parks]] | #ChangeOrder | 🔴 LOFT STAIRS BACK ON PLAN — need revised architect drawings + CO
-- [x] #para-archives ✅ **Laser: picked up + delivered to Parks** | [[Mamaroneck Parks]] | #Equipment | ✅ DELIVERED APRIL 7 — for building layout
-- [ ] #priority-critical **🔴 NEW — BUILDING LAYOUT DECISIONS (April 7)** | [[Mamaroneck Parks]] | #Architecture | 🔴 Rob Wasp, Chris Lonegro, Michael Perri on site TODAY (April 7) — multiple decisions needed:
-  - Covered Outdoor Storage: shorten to clear path
-  - Path: shift/re-route around rock area
-  - Higher retaining wall at Workshop side doorway
-  - Enclose eaves and soffits (new scope — affects soffit issue)
-  - Emergency generator location to review
+- [x] ✅ **Laser: picked up + delivered to Parks** | [[Mamaroneck Parks]] | #Equipment | ✅ DELIVERED APRIL 7
 - [ ] #priority-critical **Steve Governale — grading + rock removal** | [[Mamaroneck Parks]] | #Sitework | 🔴 ~60% rock chipped April 7 — returns April 8 with containers, grading starts
 - [x] #para-archives ✅ **Tectonic survey — COMPLETE** | [[Mamaroneck Parks]] | ✅ CONTROL POINTS DONE April 3; FOUR CORNERS SET April 6
 - [x] #para-archives ✅ **Building shift NOT VALID** | [[Mamaroneck Parks]] | ❌ After seeing actual staked position, building cannot shift — revised sequence: grade first, then Tectonic final offsets
