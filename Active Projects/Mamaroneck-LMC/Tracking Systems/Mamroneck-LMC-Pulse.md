@@ -1,7 +1,7 @@
 # 📍 MAMARONECK LMC PULSE — Complete History
 ## 740 Boston Post Rd, Mamaroneck, NY
 **Project:** Mamaroneck Language Commissioner Office Renovation  
-**Last Updated:** 2026-04-03 EDT  
+**Last Updated:** 2026-04-07 EDT  
 **Phase:** NEAR CLOSEOUT  
 **Maintained by:** Supervisor (@super)
 
@@ -16,8 +16,8 @@
 | HVAC Startup | 🔴 UNCONFIRMED | 2026-04-02 |
 | Architect Punchlist | 🔴 NOT RECEIVED | 2026-04-02 |
 | Site Items | 🔴 Shop vac + ladders STILL ON SITE | 2026-04-02 |
-| Cabinet Door CO | 🟡 SCHEDULED APRIL 6 | 2026-04-03 |
-| Missing Shelving | 🟡 SCHEDULED APRIL 6 | 2026-04-03 |
+| Cabinet Door CO | 🟡 ON SITE APRIL 6 — inspection pending | 2026-04-07 |
+| Missing Shelving | 🟡 ON SITE APRIL 6 — inspection pending | 2026-04-07 |
 | Closeout | 🟡 BLOCKED | 2026-04-02 |
 
 ---
@@ -31,10 +31,15 @@
 | **Paint touch-up blocked (blue base molding)** | painting | 🔴 OPEN |
 | **Paint splatter on glass** | painting | 🔴 OPEN |
 
-## 📋 APRIL 3 UPDATE
+## 📋 APRIL 6 UPDATE
 | Item | Status | Notes |
 |------|--------|-------|
-| Spruce cabinet doors + shelving CO | 🔎 PENDING INSPECTION — Nick checking today | 2026-04-07 |
+| Spruce cabinet doors + shelving | 🟡 ON SITE APRIL 6 | Spruce on site to finish cabinet door CO + install missing shelving — per Daily Truth |
+
+## 📋 APRIL 7 UPDATE
+| Item | Status | Notes |
+|------|--------|-------|
+| Spruce cabinet doors + shelving | 🔎 PENDING INSPECTION | Spruce was on site April 6. Nick checking today — no completion confirmation yet |
 
 ## 📋 APRIL 2 UPDATE
 | Item | Status | Notes |

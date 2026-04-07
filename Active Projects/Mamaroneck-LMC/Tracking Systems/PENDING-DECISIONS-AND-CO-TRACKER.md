@@ -1,7 +1,7 @@
 # 📋 PENDING DECISIONS & CHANGE ORDER TRACKER — Mamaroneck LMC
 ## 740 Boston Post Rd, Mamaroneck, NY
 **Project:** Mamaroneck Language Commissioner (LMC) Office Renovation  
-**Last Full Update:** 2026-03-26 11:30 EDT  
+**Last Full Update:** 2026-04-07 EDT  
 **Tracker Status:** NEAR CLOSEOUT  
 **Maintained by:** Supervisor (@super)
 
@@ -48,6 +48,23 @@
 - 2026-03-25: ✅ JUAN WIRING COMPLETE — Rooftop condenser wiring done
 - 2026-03-25: ✅ WILLY POWERED UP — All equipment powered by Buchanan Mechanical
 - 2026-03-26: 🟡 SCHEDULED — Daikin startup Friday or Monday (TBD)
+
+---
+
+## 🟡 SPRUCE CONTRACTING — CABINET DOORS & MISSING SHELVING
+| Field | Value |
+|-------|-------|
+| **Item** | Spruce Contracting — cabinet door CO + missing shelving |
+| **Contractor** | Richie Puleo / Spruce Construction |
+| **Scheduled** | April 6, 2026 |
+| **Status** | 🟡 IN PROGRESS — ON SITE APRIL 6 |
+| **Inspection** | 🔎 PENDING — Nick to approve |
+| **Updated** | 2026-04-07 |
+
+**History:**
+- 2026-04-03: 🟡 SCHEDULED — Spruce/Anthony to finish cabinet door CO + install missing shelving (April 6)
+- 2026-04-06: 🟡 ON SITE APRIL 6 — Spruce on site to complete CO + missing shelving (per Daily Truth)
+- 2026-04-07: 🔎 PENDING INSPECTION — Nick checking/approving — no completion confirmation yet
 
 ---
 
@@ -171,6 +188,6 @@
 
 ---
 
-**Last Updated:** 2026-03-26 11:30 EDT  
+**Last Updated:** 2026-04-07 EDT  
 **Next Update:** After Daikin startup + Sarah punchlist received  
 **Agent:** Supervisor (@super)
