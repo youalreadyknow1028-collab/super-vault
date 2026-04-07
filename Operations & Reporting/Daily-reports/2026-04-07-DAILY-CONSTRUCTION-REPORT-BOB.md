@@ -1,5 +1,4 @@
-# 🏗️ Daily Construction Report
-## Peter Camilli & Sons
+# 🏗️ Daily Construction Report — Peter Camilli & Sons
 **Date:** Tuesday, April 7, 2026
 **Day:** Tuesday
 **Weather:** ☀️ Clear
@@ -9,212 +8,194 @@
 
 ---
 
-## 🎯 Executive Summary
+## 📊 PARA Classification
+- **Category:** PROJECTS
+- **Path:** 1_Projects/Daily-Reports/
+- **Priority:** HIGH
 
-| Project | Status | Today |
-|---------|--------|-------|
-| 🟡 **Yorktown DPW** | Active Construction | EIFS 100% waterproofing + foam complete. Priming done. Break room still dark. ABM pending. |
-| 🟡 **Mamaroneck Parks** | Pre-Construction | Rob Wasp + team on site for layout review. 6 decisions needed. 60% rock chipped. |
-| 🔴 **Mamaroneck LMC** | Near Closeout — ISSUE | Cabinet doors WRONG SIZE. Spruce needs to return. |
+## 🕸️ Ontology Links
+- [[Nick]] OVERSEES [[Yorktown-DPW]]
+- [[Nick]] OVERSEES [[Mamaroneck-Parks]]
+- [[Nick]] OVERSEES [[Mamaroneck-LMC]]
+- [[Steve-Governale]] PERFORMS_site_work AT [[Mamaroneck-Parks]]
+- [[Ritchie-Price]] COORDINATES [[Mamaroneck-Parks]]
+- [[Rob-Wasp]] REVIEWED_site AT [[Mamaroneck-Parks]]
+- [[Chris-Lonegro]] REVIEWED_site AT [[Mamaroneck-Parks]]
+- [[Michael-Perri]] REVIEWED_site AT [[Mamaroneck-Parks]]
+- [[Bob-Camilli]] RECEIVES daily_reports FROM [[Supervisor]]
+- [[Richie-Puleo]] INSTALLED_cabinetry AT [[Mamaroneck-LMC]]
+- [[Andrew]] COMPLETED_waterproofing AT [[Yorktown-DPW]]
+- [[Timmy]] PRIMED_doors AT [[Yorktown-DPW]]
 
-**Overall Status:** 🟡 Yorktown progressing. Parks layout decisions needed from Paige Lewis (Lewis+Lewis). **LMC — action needed: Spruce cabinet doors wrong size.**
+## 🏷️ Tags
+#super #construction #daily-report #yorktown-dpw #mamaroneck-parks #mamaroneck-lmc #para-projects #priority-high #bob-camilli
+
+---
+
+## 📝 Executive Summary
+
+**Active Projects:** 3 sites operational
+**Overall Status:** 🟡 Yorktown active / 🟡 Parks pre-construction decisions needed / 🟡 LMC near closeout — action required
+
+**Key Highlights:**
+- **Yorktown DPW:** EIFS waterproofing and foam 100% complete. Door swing issue + break room power still unresolved. ABM Mechanical awaiting response.
+- **Mamaroneck Parks:** Rob Wasp + Chris Lonegro + Michael Perri on site — 6 building layout decisions needed from Paige Lewis. ~60% rock chipped. 2-week lookahead needed from Bob for Rob Wasp.
+- **Mamaroneck LMC:** 🔴 Cabinet doors WRONG SIZE — Spruce needs to return. Formal punchlist not received from Sarah Dirsa.
 
 ---
 
 ## 📍 Project Updates
 
 ### 1. 🏗️ Yorktown DPW — 281 Underhill Avenue
-**Status:** 🔨 Active Construction
+**Status:** [[Yorktown-DPW]] IS active_construction
 
-#### Today's Accomplishments
+#### Completed Today:
+- ✅ **EIFS Waterproofing + Foam:** [[Andrew]]/AWS — 100% complete. Finish coat pending.
+- ✅ **Doors:** [[Timmy]] primed bunk room doors — 2 coats
+- ✅ **GC:** [[Nick]] picked up emergency 2x2 panel lights from 210 Marble Ave
 
-| Trade | Company | Work Performed | Status |
-|-------|---------|----------------|--------|
-| **EIFS / Stucco** | Advanced Wall Systems (AWS) | Waterproofing membrane 100% complete. Foam 100% complete. Finish coat pending. | ✅ COMPLETE (waterproofing + foam) |
-| **Carpentry / Finishing** | Timmy | Primed bunk room doors — 2 coats | ✅ DONE |
-| **GC** | Nick | Picked up emergency 2x2 panel lights from 210 Marble Ave | ✅ DONE |
+#### Tomorrow at Yorktown:
+- EIFS finish application — [[Andrew]]/AWS
+- Painting — finish color on walls, bunk room — [[Timmy]]
 
-#### ⚠️ Findings / Issues
+#### Coordination:
+- **[[Andrew]]/AWS:** Door D8 opens 180° — must restrict to 90° before base coat starts. Not done yet.
+- **ABM Mechanical:** Awaiting response — condensate drains, ERV ductwork, cassette height adjustments
+- **[[Hanover-Electric]] / Town:** Break room has no power — room is dark. Needs coordination.
+- **[[Taub Flooring]]:** Need date for floor prep and installation
+- **[[Paul-Revans]]:** Direction needed — cap off or install locking valve on gas line removed from break room
+- **Northeast Sprinkler:** Were they on site today? Unconfirmed.
 
-| Item | Location | Trade | Action Needed |
-|------|----------|-------|--------------|
-| 🔴 **Door swing restriction** | Main entry | AWS / Andrew | Door D8 opens 180° — must restrict to 90° before AWS starts base coat. Andrew/AWS to handle. NOT DONE YET. |
-| 🔴 **Break room dark — no power** | Break room | Electrical / Town | Break room has no power. Room is dark, can't finish work. Hanover Electric / Town of Yorktown coordination needed. |
-| 🔴 **Northeast Sprinkler** | Site | Fire Suppression | Were they on site today? **Unconfirmed.** |
-| 🟡 **ABM Mechanical** | Break room + bunk room | HVAC | Bob contacted 4/6. Awaiting response: condensate drains + cassette leveling. |
-| 🟡 **Taub Flooring** | Break room | Flooring | Need date to schedule floor prep + installation. |
-| 🟡 **Paul Revans** | Break room | HVAC | Direction needed: cap off or install locking valve on existing gas line removed from break room. |
+#### ❓ Questions for Bob
 
-#### Pending
-
-| Item | Owner | Priority |
-|------|-------|----------|
-| Northeast Sprinkler — did they show up today? | Nick to confirm | 🔴 HIGH |
-| ABM Mechanical — date for condensate + cassette work | Bob | 🔴 HIGH |
-| Break room power — coordinate with Town of Yorktown / Hanover Electric | Bob / Nick | 🔴 HIGH |
-| Door D8 restrict to 90° | Andrew/AWS | 🔴 HIGH |
-| Taub Flooring — schedule floor prep | Bob / Nick | 🟡 MEDIUM |
-| Paul Revans — gas pipe direction (cap or locking valve) | Bob | 🟡 MEDIUM |
+| # | Question | Project | Priority |
+|---|----------|---------|----------|
+| 1 | **ABM Mechanical date?** Condensate drains + cassette leveling | [[Yorktown-DPW]] | 🔴 URGENT |
+| 2 | **Break room power?** Coordinate with Town / [[Hanover-Electric]] | [[Yorktown-DPW]] | 🔴 URGENT |
+| 3 | **Door D8 90° restriction?** Confirm AWS handles | [[Yorktown-DPW]] | 🔴 URGENT |
+| 4 | **Northeast Sprinkler — did they show up?** | [[Yorktown-DPW]] | 🟡 |
+| 5 | **Taub Flooring date?** | [[Yorktown-DPW]] | 🟡 |
+| 6 | **Gas line — cap or locking valve?** | [[Yorktown-DPW]] | 🟡 |
 
 ---
 
 ### 2. 🏗️ Mamaroneck Parks — 150 Myrtle Ave
-**Status:** 🎯 Pre-Construction — Layout Decisions Needed
+**Status:** [[Mamaroneck-Parks]] IS pre-construction
 
-#### Today's Accomplishments
+#### Completed Today:
+- ✅ **Site Coordination:** [[Nick]] + [[Ritchie-Price]] on site 10 AM — building layout issues identified
+- ✅ **Rock Chipping:** [[Steve-Governale]] chipped ~60% of rock — on site 12 PM
+- ✅ **Site Visit:** [[Rob-Wasp]] (Town Eng) + [[Chris-Lonegro]] (Lewis+Lewis) + [[Michael-Perri]] (Town) — reviewed building layout, path conflicts, retaining walls
 
-| Trade | Company | Work Performed | Status |
-|-------|---------|----------------|--------|
-| **Site Coordination** | Nick + Ritchie Price (Calgi) | On site 10 AM with Ritchie Price and Steve Governale. Building layout issues identified. | ✅ DONE |
-| **Site Work** | Steve Governale (Eastport Excavation) | Chipped ~60% of rock. On site 12 PM. | ✅ IN PROGRESS |
-| **Survey Coordination** | Ritchie Price (Calgi) | Confirmed with Tectonic that building shift is NOT valid — leave building as designed. | ✅ DONE |
-| **Layout** | Nick | Picked up laser from 210 Marble Ave → delivered to Parks. Berger Hardware marking paint picked up. | ✅ DONE |
-| **Site Visit** | Rob Wasp (Town Eng) + Chris Lonegro (Lewis+Lewis) + Michael Perri (Town) | On site afternoon — reviewed building layout, path conflicts, retaining walls. | ✅ DONE |
+#### Tomorrow at Mamaroneck Parks:
+- [[Steve-Governale]] returns with containers — removes chipped rock, starts grading, stockpiles dirt
+- Laser + marking paint delivered to site
 
-#### ⚠️ Findings / Issues
+#### Coordination:
+- **[[Paige-Lewis]] (Lewis+Lewis):** 6 building layout decisions needed — revised design required for:
+  1. Building too close to paths (2 locations)
+  2. Shortening Outdoor Storage to clear path + fence
+  3. Path shift or reroute around rock area
+  4. Higher retaining wall at Workshop side doorway
+  5. Enclose eaves and soffits (new scope — affects Simpson bracket finish)
+  6. Emergency generator location
+- **Parking lot:** Corner very close to tennis court walkway — may need to shift entire layout east = more rock removal on east side
+- **[[Rob-Wasp]]:** Returning Cultec submittal — committed per April 6 email
+- **Building permit:** Still pending
 
-| Item | Location | Trade | Action Needed |
-|------|----------|-------|--------------|
-| 🔴 **BOB — 2 WEEK LOOKAHEAD NEEDED** | All | Owner | **Rob Wasp requested 2-week lookahead via email April 6. Bob has not provided yet.** |
-| 🔴 **6 Building Layout Decisions needed** | Site | Architectural | Paige Lewis (Lewis+Lewis) to provide revised design for: (1) Building too close to paths, (2) Outdoor Storage shortening to clear path + fence, (3) Path shift/reroute around rock, (4) Higher retaining wall at Workshop doorway, (5) Enclose eaves and soffits (new scope — affects Simpson bracket finish), (6) Emergency generator location. |
-| 🔴 **Parking lot shift east** | Parking lot | Site / Architectural | Parking lot corner very close to tennis court walkway. May need to shift entire layout east = more rock removal on east side. |
-| 🔴 **Soffit issue — Simpson brackets exposed** | Building | Architectural | No soffits on plan, raw wood exposure. Simpson brackets exposed to weather. Linked to eaves/soffits enclosure decision (Item 5 above). Paige Lewis to advise on SS Simpson brackets. |
-| 🟡 **Cultec submittal** | Drainage | Submittal | Rob Wasp committed to return it — per April 6 email: "We'll also get the drainage system components submittal returned." |
-| 🟡 **Building permit** | All | Permits | Still pending. |
-| 🟡 **Parking lot shift east = more rock removal** | East side of site | Site Work | If layout shifts east, additional rock removal needed on east side. Cost impact unknown. |
+#### ❓ Questions for Bob
 
-#### Site Visit Outcomes (April 7 — Rob Wasp + Chris Lonegro + Michael Perri)
-
-Six items discussed on site, per Ritchie Price email chain:
-1. Building layout very close to paths (2 locations)
-2. Shortening covered Outdoor Storage to clear path better — no room for fence
-3. Moving path to clear Outdoor Storage — either shift a couple feet or reroute around rock area
-4. Higher retaining wall at side doorway to Workshop
-5. Enclosing eaves and soffits for easier maintenance (new scope)
-6. Emergency generator location to review
-
-#### Revised Sequence
-
-1. Steve Governale grades the site
-2. Tectonic returns for one final visit → sets final offsets for building and retaining walls
-3. New construction begins
-
-#### Pending
-
-| Item | Owner | Priority |
-|------|-------|----------|
-| 🔴 **Bob — 2-week lookahead for Rob Wasp** | Bob | 🔴 HIGH |
-| Paige Lewis — revised design for 6 building layout items | Paige Lewis / Ritchie | 🔴 HIGH |
-| Parking lot shift east — owner/Town decision | Bob / Rob Wasp | 🔴 HIGH |
-| Building permit | Bob | 🔴 HIGH |
-| Rob Wasp — return Cultec submittal | Rob Wasp | 🟡 MEDIUM |
-| Soffit finish (SS Simpson brackets) | Paige Lewis | 🟡 MEDIUM |
+| # | Question | Project | Priority |
+|---|----------|---------|----------|
+| 1 | **2-week lookahead for [[Rob-Wasp]]?** Wasp specifically requested April 6 — NOT YET PROVIDED | [[Mamaroneck-Parks]] | 🔴 URGENT |
+| 2 | **Parking lot shift east?** Owner/Town decision — cost impact unknown | [[Mamaroneck-Parks]] | 🔴 URGENT |
+| 3 | **[[Paige-Lewis]] revised design?** 6 items above | [[Mamaroneck-Parks]] | 🔴 URGENT |
+| 4 | **Building permit?** | [[Mamaroneck-Parks]] | 🟡 |
 
 ---
 
 ### 3. 🏗️ Mamaroneck LMC — 740 Boston Post Rd
-**Status:** 🟡 Near Closeout
+**Status:** [[Mamaroneck-LMC]] IS near_closeout — ACTION REQUIRED
 
-#### Today's Accomplishments
+#### Completed Today:
+- ✅ **Carpentry:** [[Richie-Puleo]]/Spruce on site — found cabinet doors WRONG SIZE
 
-| Trade | Company | Work Performed | Status |
-|-------|---------|----------------|--------|
-| **Carpentry** | Richie Puleo (Spruce) | On site — found cabinet doors are WRONG SIZE | ⚠️ ISSUE |
+#### Tomorrow at Mamaroneck LMC:
+- Remove shop vac + ladder from site
 
-#### ⚠️ Findings / Issues
+#### Coordination:
+- **[[Richie-Puleo]]/Spruce:** Needs to return — doors are wrong size. Schedule required.
+- **[[Sarah-Dirsa]]/KGD:** Formal punchlist not yet received — blocking final closeout
 
-| Item | Location | Trade | Action Needed |
-|------|----------|-------|--------------|
-| 🔴 **Cabinet doors — WRONG SIZE** | Throughout | Spruce Construction | Richie Puleo on site April 7. Doors are wrong size. **Spruce needs to return to fix/reinstall.** Schedule needed. |
-| 🔴 **Formal punchlist not received** | All | Owner | Sarah Dirsa (KGD) has not sent formal punchlist. Blocking final closeout. |
-| 🟡 **Shop vac + ladder on site** | Site | GC | Must be removed from site. |
+#### ❓ Questions for Bob
 
-#### Pending
-
-| Item | Owner | Priority |
-|------|-------|----------|
-| Spruce — schedule return for cabinet door correction | Bob / Richie Puleo | 🔴 HIGH |
-| Formal punchlist from Sarah Dirsa (KGD) | Bob | 🔴 HIGH |
-| Remove shop vac + ladder from site | Nick | 🟡 MEDIUM |
+| # | Question | Project | Priority |
+|---|----------|---------|----------|
+| 1 | **Spruce return date?** Cabinet doors wrong size | [[Mamaroneck-LMC]] | 🔴 URGENT |
+| 2 | **Formal punchlist from [[Sarah-Dirsa]]?** | [[Mamaroneck-LMC]] | 🔴 URGENT |
 
 ---
 
 ### 4. 🏗️ Ardsley High School — Sign Installation
-**Status:** 🟡 On Hold — Awaiting Signage
+**Status:** On Hold — Awaiting signage
 
-#### Pending
+#### Coordination:
+- **[[Dorothy]]/Tumen Signage:** Revised date needed for Type C (7) + Type WV (9) signs
 
-| Item | Owner | Priority |
-|------|-------|----------|
-| Dorothy (Tumen Signage) — revised date for missing Type C (7) + Type WV (9) signs | Dorothy / Bob | 🔴 HIGH |
-| Once date received → call Billy Cerutti for school hours access | Nick | 🟡 MEDIUM |
+#### ❓ Questions for Bob
 
----
-
-## 📅 Tomorrow — Wednesday, April 8
-
-| Time | Activity | Who |
-|------|---------|------|
-| All day | Rock removal — containers delivered, chip removal, grading begins, dirt stockpile | Steve Governale (Eastport Excavation) |
-| Morning | Painting — finish color on walls, bunk room | Timmy |
-| TBD | EIFS finish application | AWS / Manuel |
+| # | Question | Project | Priority |
+|---|----------|---------|----------|
+| 1 | **Dorothy/Tumen date?** | Ardsley | 🟡 |
 
 ---
 
-## 📦 Materials / Equipment On Site
+## 📅 Tomorrow's Plan (Wednesday, April 8)
 
-| Item | Location | Status |
-|------|----------|--------|
-| Excavator + chipping machine | Mamaroneck Parks | ✅ On site |
-| Emergency 2x2 panel lights | Yorktown DPW | ✅ Delivered April 7 |
-| Laser | Mamaroneck Parks | ✅ Delivered April 7 |
-| Marking paint | Mamaroneck Parks | ✅ Delivered April 7 |
-
----
-
-## 🏗️ Manpower Today
-
-| Trade | Company | Count | Hours |
-|-------|---------|-------|-------|
-| GC / Site Supervision | Nick Flanagan | 1 | Full day |
-| Site Work | Steve Governale (Eastport Excavation) | 1 | ~6 |
-| Project Management | Ritchie Price (Calgi) | 1 | ~4 |
-| EIFS / Stucco | Advanced Wall Systems (AWS) | 1 | Full day |
-| Carpentry / Finishing | Timmy | 1 | Full day |
-| Site Visit | Rob Wasp + Chris Lonegro + Michael Perri | 3 | ~2 |
+| Time | Activity | Project | Who |
+|------|---------|---------|-----|
+| All day | Rock removal — containers delivered, chip removal, grading begins, dirt stockpile | [[Mamaroneck-Parks]] | [[Steve-Governale]] |
+| Morning | Painting — finish color on walls, bunk room | [[Yorktown-DPW]] | [[Timmy]] |
+| TBD | EIFS finish application | [[Yorktown-DPW]] | [[Andrew]]/AWS |
+| TBD | Cabinet door correction | [[Mamaroneck-LMC]] | [[Richie-Puleo]]/Spruce |
 
 ---
 
-## 🌤️ Weather Impact
-**Condition:** Clear ☀️
-**Impact:** None — full productive day. All outdoor work proceeded normally.
+## 🗓️ Week Ahead
+- **Wed:** Rock removal + grading at Parks. EIFS finish + painting at Yorktown.
+- **Thu:** Tectonic returns for final offsets (after [[Steve-Governale]] grades site)
+- **Pending:** ABM Mechanical — condensate + cassette work at Yorktown
+- **Pending:** [[Paige-Lewis]] revised design — 6 building layout items at Parks
+- **Pending:** Spruce return — cabinet doors at LMC
+- **Pending:** Building permit — Parks
+- **Pending:** [[Rob-Wasp]] — Cultec submittal return
 
 ---
 
-## 🔴 Critical Blockers Summary
+## 📧 Email Summary
 
-| Blocker | Project | Owner | Action |
-|---------|---------|-------|--------|
-| 🔴 **2-week lookahead** | Mamaroneck Parks | Bob Camilli | Provide to Rob Wasp |
-| 🔴 **Cabinet doors wrong size** | Mamaroneck LMC | Bob / Richie Puleo | Schedule Spruce return |
-| 🔴 **6 building layout decisions** | Mamaroneck Parks | Paige Lewis | Provide revised design |
-| 🔴 **Northeast Sprinkler — unconfirmed** | Yorktown DPW | Nick | Confirm if they showed up |
-| 🔴 **Break room no power** | Yorktown DPW | Bob / Town | Coordinate with Hanover Electric / Town |
-| 🔴 **ABM Mechanical — awaiting response** | Yorktown DPW | Bob | Follow up with ABM |
-| 🔴 **Formal punchlist not received** | Mamaroneck LMC | Bob | Chase Sarah Dirsa / KGD |
-
----
-
-## 📧 Email Summary (April 6–7)
-
-**Rob Wasp → Ritchie Price (April 6, 3:44 PM EDT):**
+**[[Rob-Wasp]] → [[Ritchie-Price]] (April 6, 3:44 PM EDT):**
 > *"I'll plan to visit the site tomorrow afternoon to review the stakes. We'll also get the drainage system components submittal returned."*
 > *"Has Bob provided an updated 2 week lookahead?"*
 
-**Ritchie Price → Rob Wasp + Paige Lewis (April 6, 3:29 PM EDT):**
-> *"We have set stakes for the building and parking lot layout as per drawings. There doesn't appear to be much savings in excavation by moving the building around any. Best recommendation right now is to leave the building and parking lot as designed."*
+**[[Ritchie-Price]] → [[Rob-Wasp]] + [[Paige-Lewis]] (April 7, 9:45 AM EDT):**
+> *"Building layout very close to the paths (2 locations). Shortening the covered Outdoor Storage area to clear the path better, no room for the fence. Moving the path over to clear the Outdoor Storage, either by a couple of feet, or re-routing around the rock area. Higher retaining wall at the side doorway to Workshop. Review locations for emergency generator."*
+
+**[[Ritchie-Price]] → [[Rob-Wasp]] + [[Paige-Lewis]] (April 6, 3:29 PM EDT):**
 > *"The one corner of the parking lot appears very close to the walkway along the tennis courts, so moving the whole setup east a little might be the only recommendation, but this would involve removing some more rock on the east side."*
 
 ---
 
-**Agent:** Supervisor (@super) | **Report Date:** April 7, 2026 | **Time:** 4:15 PM EDT
+Full logs and photos: `Super/Daily Log/`
+
+---
+
+**Nick Flanagan**
+Site Superintendent
+[[Peter Camilli & Sons]] Construction Ltd.
+
+---
+*Report generated by [[Supervisor]] (@super) — 2026-04-07 16:15 EDT*
+
+## HASHTAGS
+#super #construction #daily-report #para-projects #priority-high #bob-camilli
