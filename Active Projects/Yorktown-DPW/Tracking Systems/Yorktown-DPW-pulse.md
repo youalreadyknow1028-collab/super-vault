@@ -17,13 +17,14 @@
 | Area | Status | Last Update |
 |------|--------|-------------|
 | Framing | ✅ COMPLETE | 2026-03-26 |
-| Electrical | 🟡 Hanover IN PROGRESS (break room rough-in passed 3/30); conduit not removed — blocking stucco | 2026-04-01 |
+| Electrical | 🔴 Break room dark — Hanover Electric / Town of Yorktown need to complete lighting | 2026-04-07 |
 | Plumbing | ✅ COMPLETE | 2026-03-23 |
-| Sheetrock | 🟢 Break room: ceiling tiles installed / Bunk room: spackle ~95% | 2026-04-02 |
-| HVAC | 🟡 ABM PENDING RESPONSE — Bob contacted 4/6, awaiting date; cassettes at wrong height + ERV ductwork + condensate drains outstanding | 2026-04-07 |
-| EIFS/Stucco | 🟢 STARTED — Manuel (AWS) waterproofing membrane applied | 2026-04-02 |
-| Closeout | 🟡 IN PROGRESS | 2026-04-02 |
-| **SCHEDULE CHANGE** | 🔴 Work paused April 3 — resuming April 6/7 | 2026-04-03 |
+| Sheetrock | ✅ Bunk room ~95% spackle / Break room: ceiling tiles installed | 2026-04-07 |
+| HVAC | 🔴 ABM MECHANICAL — awaiting date for condensate drains + cassette leveling | 2026-04-07 |
+| EIFS/Stucco | 🟢 EIFS: waterproofing 100%, foam 100% — awaiting finish coat | 2026-04-07 |
+| Painting | 🟡 STARTED — Timmy priming bunk room doors (2 coats done) | 2026-04-07 |
+| Closeout | 🟡 IN PROGRESS | 2026-04-07 |
+| Sprinkler | 🔎 UNCONFIRMED — were they on site April 7? | 2026-04-07 |
 
 ---
 
@@ -82,6 +83,27 @@
 **APRIL 7 (TUESDAY) — CONFIRMED:**
 - **Timmy:** Yorktown — gravel + paint + level spreader + painting bunk room + pipe insulation
 - **Northeast Sprinkler:** On site ✅
+
+#### 2026-04-07 — TODAY
+| Time | Event | Source | Status |
+|------|-------|--------|--------|
+| AM | Timmy primed bunk room doors (2 coats) | Nick | ✅ DONE |
+| AM | Finish coat on doors — waiting for other trades out | Nick | ⏳ PENDING |
+| AM | AWS/Manuel on site — EIFS continuing | Nick | 🟢 ACTIVE |
+| AM | EIFS waterproofing: 100% COMPLETE | Nick | ✅ DONE |
+| AM | EIFS foam: 100% COMPLETE | Nick | ✅ DONE |
+| AM | EIFS finish coat: AWAITING TIMELINE UPDATE | Nick | 🔴 PENDING |
+| AM | Door to open 90° restriction: NOT DONE YET | Nick | 🔴 PENDING |
+| AM | Emergency 2x2 panel lights picked up from office | Nick | ✅ DONE |
+| AM | Northeast Sprinkler: DID THEY SHOW UP? | Nick | 🔎 UNCONFIRMED |
+| AM | Break room: still dark, no power | Nick | 🔴 BLOCKER |
+| AM | ABM Mechanical: cassette leveling + condensate drains | Nick | 🔴 AWAITING DATE |
+| AM | Anthony (Taub Flooring): floor prep schedule needed | Nick | 🔴 PENDING |
+| AM | Hanover Electric: break room lighting needed | Nick | 🔴 PENDING |
+
+**Tomorrow (April 8):**
+- Timmy: painting at Yorktown — finish color on walls
+- AWS/Manuel: EIFS finish application
 
 ### MARCH 2026
 
@@ -267,14 +289,14 @@
 ## 🔴 CURRENT BLOCKERS
 | Blocker | Identified | Blocks | Status |
 |---------|------------|--------|--------|
-| **Stucco color approval** | 2026-04-02 | AWS stucco cannot start | ✅ **APPROVED — deliver sample to Bob for records** |
-| **Door restriction 180°** | 2026-04-02 | Door will hit stucco/base | 🔴 MUST RESOLVE |
-| **Level spreader / weeping pit** | 2026-03-31 | stormwater system | 🔴 TIMMY RE-DOING |
-| **ABM Mechanical contact** | 2026-04-02 | ERV ductwork + condensate | 🔴 NOT CONTACTED YET |
-| RFI-Y-7: Gas line | 2026-03-20 | Scope | 🔴 PENDING |
-| RFI-Y-8: Roof drains | 2026-03-20 | Waterproofing | 🔴 PENDING |
+| **Break room dark / no power** | 2026-04-07 | Finish work blocked | 🔴 Hanover Electric / Town of Yorktown coordination needed |
+| **Door restriction 90°** | 2026-04-02 | Door will hit stucco/base | 🔴 PENDING — Andrew/AWS to restrict |
+| **ABM Mechanical** | 2026-04-07 | Cassette leveling + condensate drains + ERV ductwork | 🔴 AWAITING DATE |
+| **Northeast Sprinkler** | 2026-04-07 | Must complete before closing ceilings | 🔎 WAS SCHEDULED TUESDAY APRIL 7 — CONFIRM |
+| **Taub Flooring** | 2026-04-07 | Break room floor prep needed | 🔴 SCHEDULE NEEDED |
+| RFI-Y-7: Gas line cap/lock valve | 2026-03-20 | Scope | 🔴 PAUL REVANS DIRECTION NEEDED |
 | RFI-Y-9: Door D8 | 2026-03-20 | ADA/Code | 🔴 PENDING |
-| **Water on break room floor** | 2026-03-31 | Unknown source | 🔴 MONITORING |
+| **EIFS finish timeline** | 2026-04-07 | Next phase | 🔴 PENDING — Andrew/AWS to advise |
 
 ---
 
@@ -306,9 +328,9 @@
 ## 📋 CHANGE ORDERS
 | CO | Description | Identified | Status | Budget |
 |----|-------------|------------|--------|--------|
-| W8 Shaft Wall | 2-hr shaft wall assembly per Tetro | 2026-03-20 | 🟡 FRAMING DONE | TBD |
-| Gas Line Removal | Removed for W8 wall | 2026-03-25 | 🟡 POSSIBLE CO | TBD |
-| Bump Out — Heater Pipe | CO in progress | 2026-03-31 | 🟡 IN PROGRESS | TBD |
+| W8 Shaft Wall | 2-hr shaft wall assembly per Tetro | 2026-03-20 | ✅ COMPLETE | TBD |
+| Gas Line Removal | Removed for W8 wall | 2026-03-25 | 🔴 PAUL REVANS to advise — cap or locking valve | TBD |
+| Bump Out — Heater Pipe | CO in progress | 2026-03-31 | ✅ COMPLETE — Spruce built bump-out, access door installed 4/2 | TBD |
 | W7 NOT a CO | XPS foam allowed | 2026-03-20 | ✅ NOT A CO | — |
 
 ---
@@ -326,5 +348,5 @@
 
 ---
 
-**Last Updated:** 2026-04-02  
+**Last Updated:** 2026-04-07  
 **Agent:** Supervisor (@super)

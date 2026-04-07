@@ -791,21 +791,23 @@ Bob C.
 ### KEY OPEN ITEMS
 | Item | Owner | Priority |
 |------|-------|----------|
-| Survey complete — building shift NOT VALID after seeing actual staked position | Tectonic/Chris Posada | 🔴 HIGH |
-| Grade site first — Steve Governale/Eastport Excavation | Steve Governale | 🔴 HIGH |
+| **🔴 BUILDING LAYOUT DECISIONS (April 7)** | Owner/Town/Architect | 🔴 HIGH |
+| — Covered Outdoor Storage: shorten to clear path + fence | Ritchie → Paige Lewis | 🔴 HIGH |
+| — Path: shift/re-route around rock area | Ritchie → Paige Lewis | 🔴 HIGH |
+| — Higher retaining wall at Workshop side doorway | Ritchie → Paige Lewis | 🔴 HIGH |
+| — Enclose eaves and soffits | Ritchie → Paige Lewis | 🔴 HIGH |
+| — Emergency generator location | Owner/Town | 🟡 MEDIUM |
+| Rob Wasp + Chris Lonegro + Michael Perri site visit TODAY (April 7) | Ritchie coordinating | 🔴 HIGH |
+| Grade site first — Steve Governale/Eastport Excavation (rock 60% chipped 4/7) | Steve Governale | 🔴 HIGH |
 | Tectonic to return after grading for final offsets (building + retaining walls) | Tectonic | 🔴 HIGH |
-| Rob Wasp (Town Engineer) wants to visit site — review building position | Rob Wasp / Ritchie Price coordinating | 🔴 HIGH |
 | Cultec submittal — Richie Price → Rob Wasp (Bob's direction) | Richie Price | 🔴 HIGH |
-| 🔴 NEW ISSUE — Soffit Issue: no soffits on plan, raw wood exposure, Simpson brackets exposed to weather — need stainless steel finish | Ritchie/Bob → Paige Lewis (Lewis + Lewis Architects) | 🔴 HIGH |
-| ABM Mechanical — date for condensate lines/cassettes | Bob | 🔴 HIGH |
-| New laser ordered for building layout (Bob approved, Nick ordered April 7) | Nick | 🟡 MEDIUM |
+| 🔴 SOFFIT ISSUE: no soffits on plan, Simpson brackets exposed to weather — need stainless steel finish | Ritchie → Paige Lewis | 🔴 HIGH |
 | Follow up with Erica Alvarez on overdue submittals | Ritchie/Bob | 🔴 HIGH |
+| Building permit | Calgi/Town | 🔴 HIGH |
 | Revised shop drawings — Disconnect Switches | Bob | 🔴 HIGH |
 | Color selection for shingles | Owner/Paige Lewis | 🟡 MEDIUM |
 | Ductwork forced return — resubmit | Bob | 🔴 HIGH |
 | Painting samples — resubmit with attachments | Bob | 🟡 MEDIUM |
-| Painting product data — waiting on final paint | Paige Lewis | 🟡 MEDIUM |
-| Building permit | Calgi/Town | 🔴 HIGH |
 
 ### PERMITS
 | Permit | Status | Date | Notes |
@@ -825,12 +827,21 @@ Bob C.
 - Evaluate if building can shift to avoid rock
 - If yes: lay out retaining walls
 
-### APRIL 7 TUESDAY
-- **Steve (site work contractor):** Drop off chipping machine at Parks
-- **Revised Construction Sequence (confirmed April 6):** Grade site first (Steve Governale / Eastport Excavation) → Tectonic returns for ONE FINAL VISIT to set final offsets for building and retaining walls
-- **Rob Wasp (Town Engineer):** Wants to visit site to review building position — Ritchie Price coordinating
-- **New laser:** Bob approved ordering new laser for building layout — Nick ordered it this morning (April 7)
-- **Richie Price → Rob Wasp:** Cultec submittal needs to go to Wasp — Bob's direction
+### APRIL 7 TUESDAY — ACTUAL SITE VISIT
+- **Laser:** Picked up from office (210 Marble Ave) → delivered to Mamaroneck Parks
+- **Richie Price (Calgi CM) on site** — discussed before he went to the doctor
+- **On-site meeting agenda — BUILDING LAYOUT ISSUES IDENTIFIED:**
+  1. Building layout very close to paths (2 locations) — conflict identified
+  2. **Covered Outdoor Storage area being shortened** to clear path — no room for fence
+  3. **Path being moved/shifted** to clear Outdoor Storage — either a couple feet or re-route around rock area
+  4. **Higher retaining wall at side doorway to Workshop**
+  5. **Enclosing eaves and soffits** for easier maintenance
+  6. Emergency generator location to review
+- **Rob Wasp (Town Engineer), Chris Lonegro (Lewis+Lewis), Michael Perri (Town)** arriving on site TODAY (site visit)
+- **Steve Governale (Eastport Excavation)** on site 12:00 PM — began chipping rock, removing stumps, preparing for grading
+  - ~60% of rock chipped today
+- **Steve returns tomorrow (4/8):** bringing containers, removing chipped rock, starting grading, stockpiling dirt at top of hill
+- **Berger Hardware:** Marking paint picked up for Parks
 
 ---
 
@@ -921,6 +932,7 @@ Ritchie Price (Calgi) to send calendar invitations for recurring bi-weekly meeti
 ---
 
 *Document compiled April 1, 2026 by Supervisor Agent*  
+*Updated April 7, 2026 — building layout decisions, site visit, rock removal*  
 *Source files: Daily Truth logs, Bob Reports, AOL email, Google Drive*  
 *All Nick Flanagan field notes preserved verbatim where shown*  
 *Bob Camilli's words on rock chipping scope dispute preserved exactly*

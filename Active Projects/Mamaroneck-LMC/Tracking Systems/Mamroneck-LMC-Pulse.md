@@ -14,11 +14,11 @@
 | Electrical | ✅ COMPLETE | 2026-03-26 |
 | HVAC Equipment | ✅ POWERED UP | 2026-03-25/26 |
 | HVAC Startup | 🔴 UNCONFIRMED | 2026-04-02 |
-| Architect Punchlist | 🔴 NOT RECEIVED | 2026-04-02 |
-| Site Items | 🔴 Shop vac + ladders STILL ON SITE | 2026-04-02 |
-| Cabinet Door CO | 🟡 ON SITE APRIL 6 — inspection pending | 2026-04-07 |
-| Missing Shelving | 🟡 ON SITE APRIL 6 — inspection pending | 2026-04-07 |
-| Closeout | 🟡 BLOCKED | 2026-04-02 |
+| Architect Punchlist | 🔴 NOT RECEIVED | 2026-04-07 |
+| Site Items | 🔴 Shop vac + ladders STILL ON SITE | 2026-04-07 |
+| Cabinet Door CO | 🔴 WRONG SIZE — Spruce needs to return | 2026-04-07 |
+| Missing Shelving | 🟡 PENDING | 2026-04-07 |
+| Closeout | 🔴 BLOCKED | 2026-04-07 |
 
 ---
 
@@ -39,7 +39,9 @@
 ## 📋 APRIL 7 UPDATE
 | Item | Status | Notes |
 |------|--------|-------|
-| Spruce cabinet doors + shelving | 🔎 PENDING INSPECTION | Spruce was on site April 6. Nick checking today — no completion confirmation yet |
+| Spruce cabinet doors | 🔴 WRONG SIZE — needs reschedule | Richie Puleo on site April 7 — doors were wrong size, Spruce needs to come back to fix/reinstall |
+| Missing shelving | 🔎 UNKNOWN | Pending resolution of cabinet door issue |
+| Shop vac + ladders | 🔴 STILL ON SITE | Still not removed — blocking closeout |
 
 ## 📋 APRIL 2 UPDATE
 | Item | Status | Notes |
