@@ -34,7 +34,7 @@
 ## 📋 APRIL 3 UPDATE
 | Item | Status | Notes |
 |------|--------|-------|
-| Spruce cabinet doors + shelving CO | ✅ CONFIRMED | Monday April 6 — Spruce finishing CO + missing shelving |
+| Spruce cabinet doors + shelving CO | 🔎 PENDING INSPECTION — Nick checking today | 2026-04-07 |
 
 ## 📋 APRIL 2 UPDATE
 | Item | Status | Notes |
