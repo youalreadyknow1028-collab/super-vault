@@ -12,9 +12,9 @@ tags:
   - #change-order
   - #punchlist
 created: 2026-03-27
-modified: 2026-04-02
+modified: 2026-04-07
 type: master-todo
-date: 2026-04-02
+date: 2026-04-07
 ---
 
 # MASTER-TODO
@@ -36,34 +36,33 @@ date: 2026-04-02
 
 ### Yorktown DPW
 
-- [ ] #priority-critical **RFI-Y-7: Gas line in kitchen wall** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~10 DAYS OVERDUE
-- [ ] #priority-critical **RFI-Y-9: Door D8 condition** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~10 DAYS OVERDUE
-- [ ] #priority-critical **EIFS pan flashing coordination** | [[Yorktown DPW]] | #EIFS | [[Bob Camilli]] to call [[David Tetro]] when ready
-- [ ] #priority-high **Deliver stucco sample to Bob for records** | [[Yorktown DPW]] | #Stucco | Nick to deliver — color ALREADY APPROVED
-- [ ] #priority-critical **Restrict door to 90°** | [[Yorktown DPW]] | #Stucco | Door opens 180° — will hit stucco/base when installed — must restrict before AWS starts
-- [ ] #priority-critical **ABM Mechanical — CEILING BLOCKER** | [[Yorktown DPW]] | #HVAC | 🔴 SCHEDULE NOW — Spruce waiting on this to finish ceilings
+- [ ] #priority-critical **RFI-Y-7: Gas line in kitchen wall** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~17 DAYS OVERDUE
+- [ ] #priority-critical **RFI-Y-9: Door D8 condition** | [[Yorktown DPW]] | #RFI | TO: [[David Tetro]] | ~17 DAYS OVERDUE
+- [ ] #priority-critical **ABM Mechanical — CEILING BLOCKER** | [[Yorktown DPW]] | #HVAC | 🔴 BOB CONTACTED APRIL 6 — AWAITING RESPONSE
   - 🔴 Condensate drains: all 3 cassettes (1 bunk room, 2 break room)
   - 🔴 ERV ductwork: break room + bunk room ceilings
   - 🔴 Cassette height adjustment: 2 cassettes in break room at DIFFERENT heights — MUST match before ceiling tiles
-- [ ] #priority-critical **Northeast Sprinkler on site** | [[Yorktown DPW]] | #FireSuppression | ✅ CONFIRMED — Tuesday April 7th — blocks ceiling close
-- [ ] #priority-critical **Schedule Taub Flooring (Anthony)** | [[Yorktown DPW]] | #Flooring | 🔴 SCHEDULE NOW — break room floor needs prep before finish
-- [ ] #priority-critical **Schedule Hanover Electric — lighting** | [[Yorktown DPW]] | #Electrical | 🔴 SCHEDULE NOW — room is dark, need lights to work
+- [ ] #priority-critical **Northeast Sprinkler on site** | [[Yorktown DPW]] | #FireSuppression | ✅ CONFIRMED — Tuesday April 7th
+- [ ] #priority-critical **Door D8 — restrict to 90°** | [[Yorktown DPW]] | #Stucco | Door opens 180° — will hit stucco/base when installed — must restrict before AWS starts base
+- [ ] #priority-critical **Paul Revans gas line details** | [[Yorktown DPW]] | #HVAC | Need engineered direction: cap off or install locking valve on existing gas line removed from break room kitchen
+- [ ] #priority-high **W8 formal CO** | [[Yorktown DPW]] | #ChangeOrder | 🟡 FORMAL CO PENDING
+- [ ] #priority-high **Gas Line CO** — removed for W8 wall | [[Yorktown DPW]] | #ChangeOrder | 🟡 POSSIBLE CO — pending Paul Revans direction
+- [ ] #priority-high **Level spreader / weeping pit** | [[Yorktown DPW]] | #Sitework | Gravel in (24 bags), pit dug correctly — 🔴 CONFIRM WITH BOB: concrete curb on one side per David Tetro specs?
 - [ ] #priority-high **Sheetrock break room** | [[Yorktown DPW]] | #Carpentry | 🟡 95% — one more coat + polish in some areas
-- [ ] #priority-high **Emergency lighting delivered — pickup from office** | [[Yorktown DPW]] | #Electrical | 🔴 NEEDED — delivered, sitting at office
 - [ ] #priority-high **Window trim** (J-bead or break-away tape) | [[Yorktown DPW]] | #Carpentry
 - [ ] #priority-high **Floor grinding** at bunk/break room doorway | [[Yorktown DPW]] | #General | 1/2" diff
-- [ ] #priority-high **W8 formal CO** | [[Yorktown DPW]] | #ChangeOrder
-- [ ] #priority-high **Gas Line CO** — removed for W8 wall | [[Yorktown DPW]] | #ChangeOrder
+- [ ] #priority-high **Emergency lighting** | [[Yorktown DPW]] | #Electrical | 🔴 NEEDED — pickup from office
+- [ ] #priority-high **Schedule Taub Flooring (Anthony)** | [[Yorktown DPW]] | #Flooring | 🔴 SCHEDULE NOW — break room floor needs prep before finish
+- [ ] #priority-high **Schedule Hanover Electric — lighting** | [[Yorktown DPW]] | #Electrical | 🔴 SCHEDULE NOW — room is dark, need lights to work
 - [x] #para-archives ✅ **Ceiling tiles — break room** | [[Yorktown DPW]] | #Carpentry | COMPLETE — Anthony + Jimmy installed April 2
 - [x] #para-archives ✅ **Access door — stormwater cleanout, break room** | [[Yorktown DPW]] | #Carpentry | COMPLETE — Spruce installed April 2
 - [x] #para-archives ✅ **4" gap kitchen wall base — bunk room** | [[Yorktown DPW]] | #Carpentry | COMPLETE — Timmy filled with structolite April 2
 - [x] #para-archives ✅ **Bump out around heater pipe (CO)** | [[Yorktown DPW]] | #ChangeOrder | 100% COMPLETE — Anthony installed access door April 2
-- [ ] #priority-high **Level spreader / weeping pit** | [[Yorktown DPW]] | #Sitework | Gravel in (24 bags), pit dug — 🔴 CONFIRM WITH BOB: concrete curb on one side per David Tetro specs?
-- [ ] #priority-high **Pipe insulation (hot/cold water lines)** | [[Yorktown DPW]] | #Plumbing | ✅ PICKED UP APRIL 2 — Timmy installing TUESDAY APRIL 7
-- [x] #para-archives ✅ **2x2 access door (bump out)** | [[Yorktown DPW]] | #Carpentry | COMPLETE — Anthony installed April 2
-- [ ] #priority-high **Gravel for level spreader** | [[Yorktown DPW]] | #Sitework | 🟡 PARTIAL — 24 bags picked up April 2 — need ~10 more bags TUESDAY APRIL 7
-- [ ] #priority-critical **Paul Revans gas line details** | [[Yorktown DPW]] | #HVAC | Need engineered direction: cap off or install locking valve on existing gas line removed from break room kitchen
-- [x] #para-archives ✅ **Sprinkler installation** | [[Yorktown DPW]] | #Fire-Suppression | CONFIRMED — Tuesday April 7th
+- [x] #para-archives ✅ **Pipe insulation (hot/cold water lines)** | [[Yorktown DPW]] | #Plumbing | ✅ PICKED UP APRIL 2 — Timmy installing TUESDAY APRIL 7
+- [x] #para-archives ✅ **Gravel for level spreader** | [[Yorktown DPW]] | #Sitework | ✅ 24 bags picked up April 2 — Timmy to finish TUESDAY APRIL 7
+- [x] #para-archives ✅ **EIFS color approved** | [[Yorktown DPW]] | #Stucco | ✅ APPROVED — Bob approved color April 2
+- [x] #para-archives ✅ **EIFS started** | [[Yorktown DPW]] | #Stucco | ✅ Manuel/AWS on site April 2 — waterproofing membrane applied
+- [x] #para-archives ✅ **Sprinkler installation** | [[Yorktown DPW]] | #Fire-Suppression | ✅ CONFIRMED — Tuesday April 7th
 - [x] #para-archives ✅ **Roof drain pipe glued** | [[Yorktown DPW]] | #Plumbing | 2026-03-31
 - [x] #para-archives ✅ **Water cleanup in break room** | [[Yorktown DPW]] | #Cleanup | 2026-03-31
 - [x] #para-archives ✅ **Hanover Electric rough-in — PASSED inspection** | [[Yorktown DPW]] | #Electrical | 2026-03-30 — sticker issued
@@ -72,13 +71,26 @@ date: 2026-04-02
 
 ### Mamaroneck LMC
 
-- [ ] #priority-critical **Formal punchlist from Sarah/KGD** | [[Mamaroneck LMC]] | #Punchlist | NOT RECEIVED
-- [ ] #priority-critical **Daikin HVAC startup — UNCONFIRMED** | [[Mamaroneck LMC]] | #HVAC | Was scheduled Fri/Mon — no confirmation
+- [ ] #priority-critical **Formal punchlist from Sarah/KGD** | [[Mamaroneck LMC]] | #Punchlist | NOT RECEIVED — blocking final closeout
 - [ ] #priority-critical **Remove shop vac + ladders from site** | [[Mamaroneck LMC]] | #General | STILL ON SITE
-- [ ] #priority-high **Spruce date for shelves and cabinet doors** | [[Mamaroneck LMC]] | #ChangeOrder | ✅ MONDAY APRIL 6 — Spruce finishing CO + missing shelving
+- [ ] #priority-critical **Daikin HVAC startup — UNCONFIRMED** | [[Mamaroneck LMC]] | #HVAC | Was scheduled Fri/Mon — no confirmation
+- [ ] #priority-high **Spruce cabinet CO — pending inspection** | [[Mamaroneck LMC]] | #ChangeOrder | 🟡 Richie Puleo/Spruce — CO + missing shelving done April 6 — pending inspection
+- [x] #para-archives ✅ **Spruce: cabinet doors + missing shelving** | [[Mamaroneck LMC]] | #Carpentry | ✅ COMPLETE April 6 — Spruce finished CO + installed missing shelving
 
 ### Mamaroneck Parks
 
+- [ ] #priority-critical **Grade site first — Steve Governale** | [[Mamaroneck Parks]] | #Sitework | 🔴 REVISED SEQUENCE — grade before Tectonic returns for final offsets
+- [ ] #priority-critical **Tectonic final offsets** | [[Mamaroneck Parks]] | #Survey | 🔴 AFTER GRADING — Tectonic returns for one final visit to set building + retaining wall offsets
+- [ ] #priority-critical **Rob Wasp site visit** | [[Mamaroneck Parks]] | #Coordination | 🔴 PENDING — Ritchie Price coordinating with Rob Wasp to review building position
+- [ ] #priority-critical **Soffit issue — exposed Simpson brackets** | [[Mamaroneck Parks]] | #Architecture | 🔴 NEW — no soffits on plan, raw wood exposure, Simpson brackets exposed to weather — need stainless steel finish; Ritchie → Paige Lewis (Lewis + Lewis)
+- [ ] #priority-critical **Richie Price → Rob Wasp: Cultec submittal** | [[Mamaroneck Parks]] | #Submittal | 🔴 BOB'S DIRECTION — not yet done
+- [ ] #priority-critical **10 overdue submittals** | [[Mamaroneck Parks]] | #Submittal | 🔴 CHASE DOWN — Bob responsible; Erica Alvarez (Cuono) reviewer for most
+- [ ] #priority-critical **CO-P-001: Door hardware** | [[Mamaroneck Parks]] | #ChangeOrder | 🔴 PENDING NICK APPROVAL
+- [ ] #priority-critical **CO-P-002: Toilet wall relocation** | [[Mamaroneck Parks]] | #ChangeOrder | 🔴 PENDING NICK APPROVAL
+- [ ] #priority-critical **CO-P-003: Loft stairs redesign** | [[Mamaroneck Parks]] | #ChangeOrder | 🔴 PENDING NICK APPROVAL — loft stairs back on plan; need revised drawings + CO
+- [ ] #priority-high **Laser ordered** | [[Mamaroneck Parks]] | #Equipment | ✅ ORDERED APRIL 7 — for building layout
+- [x] #para-archives ✅ **Tectonic survey — COMPLETE** | [[Mamaroneck Parks]] | ✅ CONTROL POINTS DONE April 3; FOUR CORNERS SET April 6
+- [x] #para-archives ✅ **Building shift NOT VALID** | [[Mamaroneck Parks]] | ❌ After seeing actual staked position, building cannot shift — revised sequence: grade first, then Tectonic final offsets
 - [x] #para-archives ✅ **Get full plans to Katarina (Tectonic)** | [[Mamaroneck Parks]] | ✅ DELIVERED — Bob gave plans to Katarina
 - [x] #para-archives ✅ **Groundbreaking ceremony** | [[Mamaroneck Parks]] | 2026-03-30
 - [x] #para-archives ✅ **SOV APPROVED** | [[Mamaroneck Parks]] | 2026-03-26
@@ -88,7 +100,6 @@ date: 2026-04-02
 - [x] #para-archives ✅ **Abatement 100%** | [[Mamaroneck Parks]] | 2026-03-25
 - [x] #para-archives ✅ **Demolition 100%** | [[Mamaroneck Parks]] | 2026-03-19
 - [x] #para-archives ✅ **Tectonic site visit** | [[Mamaroneck Parks]] | 2026-03-31
-- [ ] #priority-critical **Tectonic crew Monday 7am** | [[Mamaroneck Parks]] | #Survey | ✅ CONTROL POINTS DONE APRIL 3 — Monday April 6, 7:00 AM: set four corners + vertical/horizontal control on site + evaluate building shift + stake retaining walls
 
 ### Ardsley Signs
 
@@ -100,33 +111,21 @@ date: 2026-04-02
 
 ---
 
-## 📅 APRIL 2-3 — TODAY / UPCOMING
+## 📅 APRIL 7 — TODAY / UPCOMING
 
 | Date | Event | Project | Status |
 |------|-------|---------|--------|
-| **April 2 (Thu) — DONE** | Ceiling tiles — break room | Yorktown | ✅ COMPLETE |
-| **April 2 (Thu) — DONE** | Access door — stormwater cleanout | Yorktown | ✅ COMPLETE |
-| **April 2 (Thu) — DONE** | Manuel/AWS: waterproofing on sheathing seams | Yorktown | ✅ DONE |
-| **April 2 (Thu) — DONE** | 4" gap kitchen wall base — structolite | Yorktown | ✅ DONE |
-| **April 2 (Thu) — DONE** | Weeping pit dug correctly | Yorktown | ✅ DONE |
-| **April 2 (Thu) — DONE** | Bob approve stucco color | Yorktown | ✅ APPROVED |
-| **April 2 (Thu) — ⚠️ UNCLEAR** | Restrict door to 90° | Yorktown | 🔎 UNCLEAR — stucco/EIFS started April 2, need to confirm if door was restricted before base went on |
-| **April 2 (Thu) — STILL OPEN** | ABM Mechanical | Yorktown | 🔴 STILL NOT CONTACTED |
-| **April 2 (Thu) — STILL OPEN** | Taub Flooring scheduling | Yorktown | 🔴 STILL NEEDED |
-| **April 2 (Thu) — STILL OPEN** | Hanover Electric lighting scheduling | Yorktown | 🔴 STILL NEEDED |
-| **April 3 (Fri), 7:00 AM** | Nick: Mamaroneck Parks — meet Tectonic crew, stake 4 corners + retaining walls | Mamaroneck Parks | ✅ DONE |
-| **April 3 (Fri)** | Nick: at Mamaroneck Parks all day (until 1:30 PM) — survey with Chris Posada | Mamaroneck Parks | ✅ DONE |
-| **April 6 (Mon), 7:00 AM** | Chris Posada + 1 (Tectonic): set four corners, vertical/horizontal control, evaluate building shift | Parks | 📅 MONDAY |
-| **April 6 (Mon)** | Spruce spackler: finish bunk room 100%, break room 100%, Dave's office 100% | Yorktown | 📅 MONDAY |
-| **April 6 (Mon)** | Spruce Construction: cabinet doors CO + missing shelving | Mamaroneck LMC | 📅 MONDAY |
-| **April 7 (Tue)** | Timmy: pickup ~10 more bags gravel + paint → Yorktown, finish level spreader, begin painting bunk room, insulate copper lines | Yorktown | 📅 TUESDAY |
-| **April 7 (Tue)** | Northeast Sprinkler on site | Yorktown | ✅ CONFIRMED |
-| **April 7 (Tue)** | Steve (site work): drop off chipping machine | Parks | 📅 TUESDAY |
-| **April 9 (TBD)** | Next Construction Progress Meeting | Parks |
+| **April 7 (Tue) — TODAY** | Northeast Sprinkler on site | Yorktown | ✅ CONFIRMED |
+| **April 7 (Tue) — TODAY** | Timmy: pipe insulation (bunk + break room), gravel ~10 more bags, level spreader finish, paint bunk room | Yorktown | 📅 TODAY |
+| **April 7 (Tue) — TODAY** | Nick: order new laser for Parks building layout | Parks | 📅 TODAY |
+| **April 7 (Tue)** | Steve (site work): drop off chipping machine | Parks | 📅 TODAY |
+| **April 7 (Tue)** | Spruce: finish bunk room 100%, break room 100%, Dave's office 100% | Yorktown | 📅 TODAY |
+| **April 8 (Wed)** | ABM Mechanical response expected | Yorktown | 🟡 PENDING |
+| **April 9 (Thu, TBD)** | Next Construction Progress Meeting | Parks | 📅 TBD |
 
 ---
 
-## ✅ COMPLETED — WEEK OF MARCH 23-31
+## ✅ COMPLETED — WEEK OF MARCH 23 – APRIL 4
 
 ### Yorktown DPW
 - [x] Bunk room framing 100% — 2026-03-25
@@ -143,6 +142,11 @@ date: 2026-04-02
 - [x] Stucco color matched — 2026-03-26
 - [x] Highway Garage Heater decision — 2026-03-26 (bump-out)
 - [x] New subpanel — 2026-03-26
+- [x] Ceiling tiles — break room ✅ COMPLETE April 2
+- [x] EIFS color approved — Bob approved April 2
+- [x] EIFS started — Manuel/AWS on site April 2, waterproofing membrane applied
+- [x] Pipe insulation picked up — April 2
+- [x] Weeping pit dug correctly — April 2
 
 ### Mamaroneck Parks
 - [x] Demolition 100% — 2026-03-19
@@ -150,14 +154,17 @@ date: 2026-04-02
 - [x] Demolition Permit — 2026-03-25
 - [x] Rock Removal Permit — 2026-03-25
 - [x] SOV APPROVED — 2026-03-26
-- [x] Loft stairs BACK ON — 2026-03-26
 - [x] CAD drawings to Tectonic — 2026-03-26
 - [x] Groundbreaking — 2026-03-30 ✅
 - [x] Site visit with Katarina Legener (Tectonic) — 2026-03-31
+- [x] Tectonic control points established — April 3
+- [x] Tectonic four corners + retaining walls staked — April 6
+- [x] Building shift NOT VALID — revised sequence: grade first, then Tectonic final offsets
 
 ### Mamaroneck LMC
 - [x] Juan rooftop wiring — 2026-03-25
 - [x] Buchanan powered up equipment — 2026-03-25/26
+- [x] Spruce cabinet doors + missing shelving — April 6 ✅ COMPLETE
 
 ---
 
@@ -167,19 +174,20 @@ date: 2026-04-02
 | CO | Description | Status |
 |----|-------------|--------|
 | W8 Shaft Wall | 2-hr shaft wall assembly | 🟡 FORMAL CO PENDING |
-| Gas Line Removal | Removed for W8 wall | 🟡 POSSIBLE CO |
-| Bump out around heater pipe | Forced air heater removal | 🟡 PENDING — discussed with Spruce 2026-03-31 |
+| Gas Line Removal | Removed for W8 wall | 🟡 POSSIBLE CO — awaiting Paul Revans direction |
+| Bump out around heater pipe | Forced air heater removal | ✅ COMPLETE — 100% April 2 |
 
 ### Mamaroneck LMC
 | CO | Description | Status |
 |----|-------------|--------|
-| Shelves and cabinet doors | Spruce Construction | 🟡 PENDING — awaiting date from Richie Puleo |
+| Shelves and cabinet doors | Spruce Construction | ✅ COMPLETE April 6 — pending inspection |
 
 ### Mamaroneck Parks
 | CO | Description | Status |
 |----|-------------|--------|
 | CO-P-001 | Door hardware direction | 🔴 PENDING NICK APPROVAL |
 | CO-P-002 | Toilet wall relocation | 🔴 PENDING NICK APPROVAL |
+| CO-P-003 | Loft stairs redesign | 🔴 PENDING NICK APPROVAL |
 
 ---
 
@@ -193,16 +201,19 @@ date: 2026-04-02
 - [[David Tetro]] IS_ARCHITECT_FOR [[Mamaroneck LMC]]
 - [[Ritchie Price]] IS_PM_FOR [[Mamaroneck Parks]]
 - [[Paige Lewis]] IS_ARCHITECT_FOR [[Mamaroneck Parks]]
-- [[Katarina Legener]] PERFORMS_SURVEY_AT [[Mamaroneck Parks]] ON 2026-03-31
-- [[Katarina Legener]] SCHEDULED_SURVEY_AT [[Mamaroneck Parks]] ON 2026-04-03 07:00
+- [[Katarina Legener]] PERFORMS_SURVEY_AT [[Mamaroneck Parks]]
+- [[Chris Posada]] PERFORMS_SURVEY_AT [[Mamaroneck Parks]] ON 2026-04-03
 - [[Richie Puleo]] PERFORMS_CARPENTRY_AT [[Yorktown DPW]]
 - [[Richie Puleo]] PERFORMS_CARPENTRY_AT [[Mamaroneck LMC]]
 - [[Hanover Electric]] PERFORMS_ELECTRICAL_AT [[Yorktown DPW]]
 - [[Northeast Sprinkler]] PERFORMS_FIRE_SUPPRESSION_AT [[Yorktown DPW]]
 - [[Andrew/AWS]] PERFORMS_STUCCO_AT [[Yorktown DPW]]
 - [[Buchanan Mechanical]] PERFORMS_HVAC_AT [[Mamaroneck LMC]]
+- [[ABM Mechanical]] PERFORMS_HVAC_AT [[Yorktown DPW]]
 - [[Tectonic]] PERFORMS_SURVEY_AT [[Mamaroneck Parks]]
+- [[Rob Wasp]] IS_TOWN_ENGINEER_FOR [[Mamaroneck Parks]]
+- [[Steve Governale]] PERFORMS_EXCAVATION_AT [[Mamaroneck Parks]]
 
 ---
 
-*MASTER-TODO UPDATED: 2026-04-02 | Source: Daily Truth 2026-04-02, Nick's field notes*
+*MASTER-TODO UPDATED: 2026-04-07 | Source: Daily Truth, Pulse files, CO Trackers — all three projects refreshed*
