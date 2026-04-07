@@ -20,7 +20,7 @@
 | Electrical | 🟡 Hanover IN PROGRESS (break room rough-in passed 3/30); conduit not removed — blocking stucco | 2026-04-01 |
 | Plumbing | ✅ COMPLETE | 2026-03-23 |
 | Sheetrock | 🟢 Break room: ceiling tiles installed / Bunk room: spackle ~95% | 2026-04-02 |
-| HVAC | 🔴 ABM BLOCKERS — cassettes at wrong height + ERV ductwork + condensate drains | 2026-04-02 |
+| HVAC | 🟡 ABM PENDING RESPONSE — Bob contacted 4/6, awaiting date; cassettes at wrong height + ERV ductwork + condensate drains outstanding | 2026-04-07 |
 | EIFS/Stucco | 🟢 STARTED — Manuel (AWS) waterproofing membrane applied | 2026-04-02 |
 | Closeout | 🟡 IN PROGRESS | 2026-04-02 |
 | **SCHEDULE CHANGE** | 🔴 Work paused April 3 — resuming April 6/7 | 2026-04-03 |

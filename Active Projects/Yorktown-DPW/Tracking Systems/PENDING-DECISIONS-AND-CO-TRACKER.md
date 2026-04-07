@@ -155,20 +155,21 @@
 - 2026-03-25: 🟡 POSSIBLE CO — No answer from David Tetro on scope
 - 2026-04-02: 🔴 PAUL REVANS DETAILS NEEDED — Discussed cap or locking valve; decision needed
 
-### 🟡 CO-Y-W8: W8 SHAFT WALL ASSEMBLY
+### ✅ CO-Y-W8: W8 SHAFT WALL ASSEMBLY
 | Field | Value |
 |-------|-------|
 | **Item** | 2-hour shaft wall assembly per Tetro drawings |
 | **Identified** | 2026-03-25 |
 | **Source** | Updated drawings from David Tetro |
 | **Framing Status** | ✅ COMPLETE — 2026-03-25 |
-| **CO Status** | 🟡 FORMAL CO PENDING |
+| **CO Status** | ✅ **COMPLETED** |
 | **Budget Impact** | TBD |
 
 **History:**
 - 2026-03-20: 🟡 IDENTIFIED — New drawings received from Tetro
 - 2026-03-25: ✅ FRAMING COMPLETE — Nick completed framing
 - 2026-03-25: 🟡 FORMAL CO PENDING — Need to document for owner
+- 2026-04-07: ✅ COMPLETED — Framing and assembly verified complete
 
 ### CO-Y-GAS: GAS LINE REMOVAL
 | Field | Value |

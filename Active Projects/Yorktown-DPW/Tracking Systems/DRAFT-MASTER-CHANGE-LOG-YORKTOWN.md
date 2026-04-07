@@ -38,6 +38,7 @@
 * **2026-04-02:** Timmy correctly dug water spreader to David Tetro specs
 * **2026-04-02:** 🔴 ABM Mechanical blockers: cassette heights, condensate drains, ERV ductwork — all outstanding
 * **2026-04-03:** SCHEDULE CHANGE — Work paused. Spruce going Monday April 6, Timmy going Tuesday April 7
+* **2026-03-26–27:** ✅ CO-Y-HEATER COMPLETED — Forced air heater removed from break room + repipe/gas line capping per Paul Revans direction; Spruce Contracting built bump-out around remaining pipe (CO)
 
 ## Key Decisions & Changes
 * **HVAC Option:** Bump-out option selected (per March 26 decision)
