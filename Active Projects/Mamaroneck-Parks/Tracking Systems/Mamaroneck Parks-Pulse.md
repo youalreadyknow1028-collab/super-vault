@@ -3,9 +3,9 @@
 ## Peter Camilli & Sons Construction Ltd.
 ## Complete Chronological Project History
 
-**Last Updated:** April 6, 2026  
+**Last Updated:** April 7, 2026  
 **Prepared by:** Supervisor Agent (@super)  
-**Status:** ACTIVE PROJECT — Survey in progress — Four corners + retaining walls: April 6, 2026
+**Status:** ACTIVE PROJECT — Survey COMPLETE (April 6) — New construction sequence: grade site first, then Tectonic final offsets
 
 ---
 
@@ -21,8 +21,8 @@
 | **Architect** | Lewis + Lewis Architects (Paige) |
 | **Civil Engineer** | Tectonic Surveying (Katarina Legener) |
 | **Geotechnical** | Carlin-Simpson & Associates (2023 report) |
-| **Current Phase** | Demolition Complete — Survey In Progress — Four Corners + Retaining Walls April 6 |
-| **Next Milestone** | Building permit issuance — pending; possible building shift to avoid rock — Bob to confirm |
+| **Current Phase** | Demolition Complete — Survey COMPLETE April 6 — Revised Sequence: Grade site first → Tectonic returns for final offsets |
+| **Next Milestone** | Grade site (Steve Governale / Eastport Excavation) → Tectonic final offsets → Rob Wasp site visit → New laser ordered (April 7) |
 
 ---
 
@@ -791,14 +791,14 @@ Bob C.
 ### KEY OPEN ITEMS
 | Item | Owner | Priority |
 |------|-------|----------|
-| Survey complete — building shift NOT valid | Tectonic/Chris Posada | 🔴 HIGH |
+| Survey complete — building shift NOT VALID after seeing actual staked position | Tectonic/Chris Posada | 🔴 HIGH |
 | Grade site first — Steve Governale/Eastport Excavation | Steve Governale | 🔴 HIGH |
-| Tectonic to return after grading for final offsets | Tectonic | 🔴 HIGH |
-| Rob Wasp wants to visit site — review building position | Rob Wasp / Ritchie | 🔴 HIGH |
-| Cultec submittal — Richie Price to contact Robert Wasp | Richie Price | 🔴 HIGH |
-| Soffit issue — no soffits on plan, SS Simpson brackets needed | Ritchie/Bob/Paige | 🟡 MEDIUM |
+| Tectonic to return after grading for final offsets (building + retaining walls) | Tectonic | 🔴 HIGH |
+| Rob Wasp (Town Engineer) wants to visit site — review building position | Rob Wasp / Ritchie Price coordinating | 🔴 HIGH |
+| Cultec submittal — Richie Price → Rob Wasp (Bob's direction) | Richie Price | 🔴 HIGH |
+| 🔴 NEW ISSUE — Soffit Issue: no soffits on plan, raw wood exposure, Simpson brackets exposed to weather — need stainless steel finish | Ritchie/Bob → Paige Lewis (Lewis + Lewis Architects) | 🔴 HIGH |
 | ABM Mechanical — date for condensate lines/cassettes | Bob | 🔴 HIGH |
-| Order new laser for building layout | Nick | 🟡 MEDIUM |
+| New laser ordered for building layout (Bob approved, Nick ordered April 7) | Nick | 🟡 MEDIUM |
 | Follow up with Erica Alvarez on overdue submittals | Ritchie/Bob | 🔴 HIGH |
 | Revised shop drawings — Disconnect Switches | Bob | 🔴 HIGH |
 | Color selection for shingles | Owner/Paige Lewis | 🟡 MEDIUM |
@@ -827,6 +827,10 @@ Bob C.
 
 ### APRIL 7 TUESDAY
 - **Steve (site work contractor):** Drop off chipping machine at Parks
+- **Revised Construction Sequence (confirmed April 6):** Grade site first (Steve Governale / Eastport Excavation) → Tectonic returns for ONE FINAL VISIT to set final offsets for building and retaining walls
+- **Rob Wasp (Town Engineer):** Wants to visit site to review building position — Ritchie Price coordinating
+- **New laser:** Bob approved ordering new laser for building layout — Nick ordered it this morning (April 7)
+- **Richie Price → Rob Wasp:** Cultec submittal needs to go to Wasp — Bob's direction
 
 ---
 

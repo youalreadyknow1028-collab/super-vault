@@ -1,8 +1,8 @@
 # 📋 PENDING DECISIONS & CHANGE ORDER TRACKER — Mamaroneck Parks
 ## 150 Myrtle Ave, Mamaroneck, NY
 **Project:** Town of Mamaroneck Parks Dept & Sign Shop Facility  
-**Last Full Update:** 2026-04-06 (Submittal log from Ritchie Price received today — April 6)  
-**Tracker Status:** DEMOLITION COMPLETE — SURVEY IN PROGRESS — NEW CONSTRUCTION APRIL 6+  
+**Last Full Update:** 2026-04-07 (Survey complete April 6; revised sequence; soffit issue flagged; laser ordered)  
+**Tracker Status:** DEMOLITION COMPLETE — SURVEY COMPLETE — REVISED SEQUENCE: GRADE FIRST → TECTONIC FINAL OFFSETS  
 **Maintained by:** Supervisor (@super)
 
 ---
@@ -23,11 +23,11 @@
 | **Abatement** | ✅ 100% COMPLETE (Insaren) | 2026-03-25 |
 | **Containers** | ✅ ALL PULLED (19 total) | 2026-03-26 |
 | **Temp Water** | ✅ RESOLVED — Option 2 | 2026-03-10 |
-| **Tectonic Survey** | ✅ INITIAL SURVEY COMPLETE (March 31); Full stake-out April 3 at 7AM | 2026-03-31 |
+| **Tectonic Survey** | ✅ COMPLETE (April 6) — Four corners set; building shift NOT VALID; revised sequence: grade first → Tectonic returns for final offsets | 2026-04-06 |
 | **Survey Control Points** | ✅ ESTABLISHED — Chris Posada, April 3 | 2026-04-03 |
 | **Construction Meeting** | ✅ March 26 COMPLETED; Next TBD | 2026-03-26 |
 | **Groundbreaking** | ✅ COMPLETE — March 30 | 2026-03-30 |
-| **New Construction** | ⏳ PENDING — Four corners + retaining walls: April 6 | 2026-04-03 |
+| **New Construction** | ⏳ PENDING — Survey complete; revised sequence: grade site first, then Tectonic final offsets | 2026-04-07 |
 
 ---
 
@@ -82,13 +82,13 @@
 | **Item** | Possible shift of building to avoid rock encountered during survey |
 | **Identified** | 2026-03-31 |
 | **Source** | Daily Truth |
-| **Status** | ❌ NOT VALID — Building cannot shift; site will be graded first, then Tectonic returns for final offsets |
+| **Status** | ❌ NOT VALID — Building cannot shift; NOT FEASIBLE after seeing actual staked position. Revised plan: grade site first, then Tectonic returns for final offsets |
 | **Action Required** | Revised sequence: Steve Governale grades site → Tectonic returns for final building + retaining wall offsets |
 
 **History:**
 - 2026-03-31: 🟡 DISCUSSED — Katarina/Tectonic discussed shifting building to avoid rock
 - 2026-04-03: 🟡 ASSESSMENT SCHEDULED — Chris Posada + crew returning Monday 7AM to set four corners and evaluate building shift feasibility
-- 2026-04-06: ❌ NOT VALID — After seeing actual building position staked by Tectonic, shifting the building is not feasible. Revised plan: grade site first, then Tectonic returns for final layout
+- 2026-04-06: ❌ NOT VALID — NOT FEASIBLE after seeing actual building position staked by Tectonic. Revised plan: grade site first (Steve Governale / Eastport Excavation), then Tectonic returns for one final visit to set final offsets for building and retaining walls
 
 ### 🔴 WINDOW SHOP DRAWINGS
 | Field | Value |
@@ -194,14 +194,14 @@
 | **Status** | 🟡 BOB WORKING ON IT |
 | **Action Required** | Bob to prepare full construction schedule for CM review |
 
-### 🟡 SOFFIT ISSUE — Exposed Simpson Brackets
+### 🔴 SOFFIT ISSUE — Exposed Simpson Brackets
 | Field | Value |
 |-------|-------|
-| **Item** | No soffits called for on plan. No finish specified for open soffits (raw wood). All Simpson brackets would be exposed to weather — must be stainless steel |
+| **Item** | No soffits called for on plan. No finish specified for open soffits (raw wood). All Simpson brackets would be exposed to weather — must be stainless steel finish |
 | **Identified** | 2026-04-06 |
 | **Source** | Daily Truth — Nick and Ritchie Price identified during plan review |
-| **Status** | 🟡 PENDING — Need architect direction on soffit finish |
-| **Action Required** | Richie Price to confirm with Paige Lewis (Lewis + Lewis) on soffit specification; SS Simpson brackets may require CO |
+| **Status** | 🔴 PENDING — Need architect direction from Paige Lewis (Lewis + Lewis Architects) |
+| **Action Required** | Richie Price to confirm with Paige Lewis on soffit finish specification; SS Simpson brackets likely require CO |
 
 ### 🟡 CULTEC SUBMITTAL
 | Field | Value |
@@ -346,8 +346,11 @@
 
 | Date | Event | Project | Status |
 |------|-------|---------|--------|
-| **April 6** | Tectonic/Chris Posada — 4 corners + rock assessment | Parks | 🔴 TODAY |
+| **April 6** | Tectonic/Chris Posada — 4 corners + rock assessment | Parks | ✅ COMPLETE |
 | **April 7** | Steve — chipping machine delivery at Parks | Parks | 📅 UPCOMING |
+| **April (TBD)** | Grade site — Steve Governale / Eastport Excavation (FIRST) | Parks | 📅 UPCOMING |
+| **April (TBD)** | Tectonic returns for FINAL offsets — building + retaining walls (AFTER grading) | Parks | 📅 UPCOMING |
+| **April (TBD)** | Rob Wasp site visit — review building position (Ritchie coordinating) | Parks | 📅 UPCOMING |
 | **April 9 (TBD)** | Next Construction Progress Meeting | Parks | 📅 UPCOMING |
 | **April (TBD)** | New construction start | Parks | ⏳ PENDING |
 
