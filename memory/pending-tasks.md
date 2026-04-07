@@ -77,3 +77,20 @@
 ---
 
 *This is the parking lot. Items live here until they're done, abandoned, or promoted to a project tracker.*
+
+## CRITICAL WORKFLOW — ADDED 2026-04-07
+
+### The Nick Flanagan File Update Cycle (MUST FOLLOW EVERY TIME)
+
+1. **Update local files first** — workspace is safe space, backed up to GitHub
+2. **Send updates in Telegram** — show Nick the content/updates before anything is committed
+3. **Get Nick's confirmation** — wait for him to say "yes, that's correct" 
+4. **Git commit** — ONLY after Nick confirms, then it's backed up safely
+5. **Update Drive** — mirror the approved, committed file from local
+6. **Ask Nick if he sees it** — verify the sync worked
+7. **Done when Nick says "thank you super"** — NOT until then
+
+**NEVER skip steps. NEVER upload before showing Nick. NEVER commit without approval.**
+
+The workspace is the safe space. Drive is a mirror. Nick's approval is required before anything leaves the workspace.
+
