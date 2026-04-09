@@ -230,3 +230,18 @@ Tomorrow (Thursday, April 9)
 *All work emails from today captured and saved to Daily Truth.*
 *Additional emails added: 2026-04-08 16:40 EDT*
 
+---
+
+## 📧 BOB CAMILLI REPORT EMAIL SUMMARY (April 8, 2026)
+
+| From | Subject | Key Point |
+|------|---------|----------|
+| Rob Wasp (April 8 AM) | FW: Modification of Ex. Pathway | ✅ Path reconstruction ELIMINATED — Parks & Rec approved |
+| Michael Perri (April 8) | Retaining wall grade | West side dropping +/- 3ft per civil sheet C-2. CD-1 shows elevations, top of wall height + profile views |
+| Ritchie Price (April 8 PM) | Retaining wall | Targeting ~4ft — need structural engineer confirmation |
+| Daniel Binello (April 8) | Retaining wall footing | Taller wall = larger footing + reinforcement changes needed |
+| Ritchie Price | April 9 meeting cancelled | Next meeting April 23 — footings expected in ground |
+| Bob Camilli → Anne (April 8) | Flooring update | ✅ Delivery TOMORROW April 9. Install starts Monday April 13. Addition → breakroom → Dave's office. Bob visiting Friday to review. |
+| Bob Camilli → Team D&J (April 8) | Parks startup items | Rock removal and footing excavation underway. Bob contacting Armando for field visit. Nick added to chain. |
+| Bob Camilli → Nick (April 8) | LMC furniture feed | Sarah asked about converting furniture feed to whip for desks. Bob forwarded to Nick. |
+
