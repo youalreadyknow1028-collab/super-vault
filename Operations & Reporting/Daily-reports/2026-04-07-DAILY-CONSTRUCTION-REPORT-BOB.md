@@ -1,201 +1,168 @@
-# 🏗️ Daily Construction Report — Peter Camilli & Sons
+# 🏗️ DAILY CONSTRUCTION REPORT — PETER CAMILLI & SONS
 **Date:** Tuesday, April 7, 2026
-**Day:** Tuesday
 **Weather:** ☀️ Clear
-**Prepared by:** Nick Flanagan, Site Superintendent
-**Distribution:** Bob Camilli
-**Agent:** Supervisor (@super)
 
 ---
 
-## 📊 PARA Classification
-- **Category:** PROJECTS
-- **Path:** 1_Projects/Daily-Reports/
-- **Priority:** HIGH
-
-## 🕸️ Ontology Links
-- [[Nick]] OVERSEES [[Yorktown-DPW]]
-- [[Nick]] OVERSEES [[Mamaroneck-Parks]]
-- [[Nick]] OVERSEES [[Mamaroneck-LMC]]
-- [[Steve-Governale]] PERFORMS_site_work AT [[Mamaroneck-Parks]]
-- [[Ritchie-Price]] COORDINATES [[Mamaroneck-Parks]]
-- [[Rob-Wasp]] REVIEWED_site AT [[Mamaroneck-Parks]]
-- [[Chris-Lonegro]] REVIEWED_site AT [[Mamaroneck-Parks]]
-- [[Michael-Perri]] REVIEWED_site AT [[Mamaroneck-Parks]]
-- [[Bob-Camilli]] RECEIVES daily_reports FROM [[Supervisor]]
-- [[Richie-Puleo]] INSTALLED_cabinetry AT [[Mamaroneck-LMC]]
-- [[Andrew]] COMPLETED_waterproofing AT [[Yorktown-DPW]]
-- [[Timmy]] PRIMED_doors AT [[Yorktown-DPW]]
-
-## 🏷️ Tags
-#super #construction #daily-report #yorktown-dpw #mamaroneck-parks #mamaroneck-lmc #para-projects #priority-high #bob-camilli
+**🕸️ Ontology Links**
+[[Yorktown DPW]] · [[Mamaroneck Parks]] · [[Mamaroneck LMC]] · [[Bob Camilli]] · [[Richie Price]] · [[Steve Governale]] · [[Timmy Fudale]] · [[Advanced Wall Systems]] · [[Rob Wasp]] · [[Paige Lewis]]
 
 ---
 
-## 📝 Executive Summary
-
-**Active Projects:** 3 sites operational
-**Overall Status:** 🟡 Yorktown active / 🟡 Parks pre-construction decisions needed / 🟡 LMC near closeout — action required
-
-**Key Highlights:**
-- **Yorktown DPW:** EIFS waterproofing and foam 100% complete. Door swing issue + break room power still unresolved. ABM Mechanical awaiting response.
-- **Mamaroneck Parks:** Rob Wasp + Chris Lonegro + Michael Perri on site — 6 building layout decisions needed from Paige Lewis. ~60% rock chipped. 2-week lookahead needed from Bob for Rob Wasp.
-- **Mamaroneck LMC:** 🔴 Cabinet doors WRONG SIZE — Spruce needs to return. Formal punchlist not received from Sarah Dirsa.
+**🏷️ Tags**
+#yorktown #mamaroneck-parks #mamaroneck-lmc #BobReport
 
 ---
 
-## 📍 Project Updates
+## 📝 EXECUTIVE SUMMARY
 
-### 1. 🏗️ Yorktown DPW — 281 Underhill Avenue
-**Status:** [[Yorktown-DPW]] IS active_construction
-
-#### Completed Today:
-- ✅ **EIFS Waterproofing + Foam:** [[Andrew]]/AWS — 100% complete. Finish coat pending.
-- ✅ **Doors:** [[Timmy]] primed bunk room doors — 2 coats
-- ✅ **GC:** [[Nick]] picked up emergency 2x2 panel lights from 210 Marble Ave
-
-#### Tomorrow at Yorktown:
-- EIFS finish application — [[Andrew]]/AWS
-- Painting — finish color on walls, bunk room — [[Timmy]]
-
-#### Coordination:
-- **[[Andrew]]/AWS:** Door D8 opens 180° — must restrict to 90° before base coat starts. Not done yet.
-- **ABM Mechanical:** Awaiting response — condensate drains, ERV ductwork, cassette height adjustments
-- **[[Hanover-Electric]] / Town:** Break room has no power — room is dark. Needs coordination.
-- **[[Taub Flooring]]:** Need date for floor prep and installation
-- **[[Paul-Revans]]:** Direction needed — cap off or install locking valve on gas line removed from break room
-- **Northeast Sprinkler:** Were they on site today? Unconfirmed.
-
-#### ❓ Questions for Bob
-
-| # | Question | Project | Priority |
-|---|----------|---------|----------|
-| 1 | **ABM Mechanical date?** Condensate drains + cassette leveling | [[Yorktown-DPW]] | 🔴 URGENT |
-| 2 | **Break room power?** Coordinate with Town / [[Hanover-Electric]] | [[Yorktown-DPW]] | 🔴 URGENT |
-| 3 | **Door D8 90° restriction?** Confirm AWS handles | [[Yorktown-DPW]] | 🔴 URGENT |
-| 4 | **Northeast Sprinkler — did they show up?** | [[Yorktown-DPW]] | 🟡 |
-| 5 | **Taub Flooring date?** | [[Yorktown-DPW]] | 🟡 |
-| 6 | **Gas line — cap or locking valve?** | [[Yorktown-DPW]] | 🟡 |
+- **Yorktown:** Timmy primed bunk room doors and walls. AWS EIFS waterproofing 100% / foam 100%. Door restriction to 90° pending — Nick following up with Andrew. Northeast Sprinkler unconfirmed.
+- **Parks:** Meeting held with Rob Wasp, Chris Lonegro, Michael Perri. Steve Governale chipped ~60% of rock. Building position confirmed. Path closure confirmed. Path relocation subject to Parks & Recreation review. Several items still undecided.
+- **LMC:** Spruce on site — cabinet doors WRONG SIZE. Correction needed.
+- **Ardsley High School:** Waiting on Dorothy (Tumen Signage) for missing Type C and Type WV sign dates.
 
 ---
 
-### 2. 🏗️ Mamaroneck Parks — 150 Myrtle Ave
-**Status:** [[Mamaroneck-Parks]] IS pre-construction
+## 📍 PROJECT UPDATES
 
-#### Completed Today:
-- ✅ **Site Coordination:** [[Nick]] + [[Ritchie-Price]] on site 10 AM — building layout issues identified
-- ✅ **Rock Chipping:** [[Steve-Governale]] chipped ~60% of rock — on site 12 PM
-- ✅ **Site Visit:** [[Rob-Wasp]] (Town Eng) + [[Chris-Lonegro]] (Lewis+Lewis) + [[Michael-Perri]] (Town) — reviewed building layout, path conflicts, retaining walls
+### 🏗️ 1. Yorktown DPW — 281 Underhill Avenue
 
-#### Tomorrow at Mamaroneck Parks:
-- [[Steve-Governale]] returns with containers — removes chipped rock, starts grading, stockpiles dirt
-- Laser + marking paint delivered to site
+**Status:** 🔨 Active Construction
 
-#### Coordination:
-- **[[Paige-Lewis]] (Lewis+Lewis):** 6 building layout decisions needed — revised design required for:
-  1. Building too close to paths (2 locations)
-  2. Shortening Outdoor Storage to clear path + fence
-  3. Path shift or reroute around rock area
-  4. Higher retaining wall at Workshop side doorway
-  5. Enclose eaves and soffits (new scope — affects Simpson bracket finish)
-  6. Emergency generator location
-- **Parking lot:** Corner very close to tennis court walkway — may need to shift entire layout east = more rock removal on east side
-- **[[Rob-Wasp]]:** Returning Cultec submittal — committed per April 6 email
-- **Building permit:** Still pending
+#### Completed Today
+- **Timmy** — primed bunk room doors (2 coats) and walls. Finish coat on hold until other trades clear.
+- **Advanced Wall Systems (AWS/Manuel)** — EIFS waterproofing 100% complete. Foam 100%. Finish timeline TBD.
+- Picked up emergency 2x2 panel lights from 210 Marble Ave.
 
-#### ❓ Questions for Bob
+#### Tomorrow
+- Timmy continues painting — begins applying finish color to walls.
 
-| # | Question | Project | Priority |
-|---|----------|---------|----------|
-| 1 | **2-week lookahead for [[Rob-Wasp]]?** Wasp specifically requested April 6 — NOT YET PROVIDED | [[Mamaroneck-Parks]] | 🔴 URGENT |
-| 2 | **Parking lot shift east?** Owner/Town decision — cost impact unknown | [[Mamaroneck-Parks]] | 🔴 URGENT |
-| 3 | **[[Paige-Lewis]] revised design?** 6 items above | [[Mamaroneck-Parks]] | 🔴 URGENT |
-| 4 | **Building permit?** | [[Mamaroneck-Parks]] | 🟡 |
+#### Coordination Needed
+| Item | Owner | Status |
+|------|-------|--------|
+| Door swing restriction to 90° | Nick → Andrew | 🟡 Pending — Nick following up |
+| Northeast Sprinkler | Bob | 🔴 UNCONFIRMED — did they show up today? |
+| ABM Mechanical — condensate drains + cassette leveling | Bob | 🟡 Awaiting date |
+| Anthony/Taub Flooring — floor prep + installation | Bob | 🟡 Awaiting date |
+| Town of Yorktown — break room power | Bob | 🟡 Awaiting date |
+| Town of Yorktown — finish colors | Bob | 🟡 Awaiting selection |
+| Paul Revans — gas pipe cap or locking valve | Paul | 🟡 Awaiting direction |
 
 ---
 
-### 3. 🏗️ Mamaroneck LMC — 740 Boston Post Rd
-**Status:** [[Mamaroneck-LMC]] IS near_closeout — ACTION REQUIRED
+### 🏗️ 2. Mamaroneck Parks Department — 150 Myrtle Avenue
 
-#### Completed Today:
-- ✅ **Carpentry:** [[Richie-Puleo]]/Spruce on site — found cabinet doors WRONG SIZE
+**Status:** 🔨 Site Work Active
 
-#### Tomorrow at Mamaroneck LMC:
-- Remove shop vac + ladder from site
+#### Completed Today
+- **Richie Price (Calgi CM)** on site before doctor appointment.
+- **Rob Wasp (Town Eng), Chris Lonegro (Lewis+Lewis), Michael Perri (Town)** on site — meeting held.
+- **Steve Governale (Eastport)** 12pm — chipped ~60% of rock, removed stumps, preparing for grading.
+- Ordered new laser (while at office with Bob). Picked up old laser from 185 Marble Ave (shop) → brought to Parks site.
+- Marking paint picked up from Berger Hardware.
 
-#### Coordination:
-- **[[Richie-Puleo]]/Spruce:** Needs to return — doors are wrong size. Schedule required.
-- **[[Sarah-Dirsa]]/KGD:** Formal punchlist not yet received — blocking final closeout
+#### Meeting Discussions
+| # | Item | Status |
+|---|------|--------|
+| 1 | Building position | ✅ Confirmed — per survey stakes per contract drawings |
+| 2 | Path at NW parking corner | ✅ 6" abuts tennis court path — acceptable |
+| 3 | Path at SW Outdoor Storage corner | ✅ Path will be closed and ultimately removed |
+| 4 | Path relocation | 🔄 Rob Wasp consulting Parks & Recreation on necessity |
+| 5 | Higher retaining wall at Workshop door | 🔄 Architect/Engineer working on details — up to 10' discussed |
+| 6 | Emergency generator location | 🔄 Undecided — screening location TBD |
+| 7 | Covered Outdoor Storage | 🔄 Shortened to clear path — final design TBD |
+| 8 | Eaves and soffits enclosure | 🔄 Undecided |
 
-#### ❓ Questions for Bob
+#### Tomorrow (April 8)
+- **Steve Governale** — containers, rock removal, grading start, dirt stockpile at top of hill.
 
-| # | Question | Project | Priority |
-|---|----------|---------|----------|
-| 1 | **Spruce return date?** Cabinet doors wrong size | [[Mamaroneck-LMC]] | 🔴 URGENT |
-| 2 | **Formal punchlist from [[Sarah-Dirsa]]?** | [[Mamaroneck-LMC]] | 🔴 URGENT |
-
----
-
-### 4. 🏗️ Ardsley High School — Sign Installation
-**Status:** On Hold — Awaiting signage
-
-#### Coordination:
-- **[[Dorothy]]/Tumen Signage:** Revised date needed for Type C (7) + Type WV (9) signs
-
-#### ❓ Questions for Bob
-
-| # | Question | Project | Priority |
-|---|----------|---------|----------|
-| 1 | **Dorothy/Tumen date?** | Ardsley | 🟡 |
-
----
-
-## 📅 Tomorrow's Plan (Wednesday, April 8)
-
-| Time | Activity | Project | Who |
-|------|---------|---------|-----|
-| All day | Rock removal — containers delivered, chip removal, grading begins, dirt stockpile | [[Mamaroneck-Parks]] | [[Steve-Governale]] |
-| Morning | Painting — finish color on walls, bunk room | [[Yorktown-DPW]] | [[Timmy]] |
-| TBD | EIFS finish application | [[Yorktown-DPW]] | [[Andrew]]/AWS |
-| TBD | Cabinet door correction | [[Mamaroneck-LMC]] | [[Richie-Puleo]]/Spruce |
+#### Pending
+| Item | Owner | Status |
+|------|-------|--------|
+| 🔴 **2-Week Lookahead** | **Bob** | **Rob Wasp requested April 6 — still outstanding** |
+| Path relocation decision | Rob Wasp / Parks & Rec | 🔄 Under review |
+| Paige Lewis revised design | Bob → Paige | 🟡 Several items need direction |
+| Cultec submittal return | Rob Wasp | 🟡 Returning |
+| Building permit | Bob | 🟡 Status unknown |
+| EIFS finish timeline | Andrew/AWS | 🟡 Awaiting update |
 
 ---
 
-## 🗓️ Week Ahead
-- **Wed:** Rock removal + grading at Parks. EIFS finish + painting at Yorktown.
-- **Thu:** Tectonic returns for final offsets (after [[Steve-Governale]] grades site)
-- **Pending:** ABM Mechanical — condensate + cassette work at Yorktown
-- **Pending:** [[Paige-Lewis]] revised design — 6 building layout items at Parks
-- **Pending:** Spruce return — cabinet doors at LMC
-- **Pending:** Building permit — Parks
-- **Pending:** [[Rob-Wasp]] — Cultec submittal return
+### 🏗️ 3. Mamaroneck LMC — 150 Myrtle Avenue
+
+**Status:** 🔨 Punchlist Stage
+
+#### Completed Today
+- **Richie Puleo (Spruce)** on site — installed cabinet doors and shelving.
+- **Issue:** Cabinet doors WRONG SIZE. Correction needed.
+
+#### Tomorrow
+- **Richie Puleo** — return date TBD to fix/reinstall.
+
+#### Pending
+| Item | Owner | Status |
+|------|-------|--------|
+| Richie Puleo return | Bob | 🟡 Schedule correction date |
+| Spruce — shelving 100% complete? | Bob | 🟡 Confirm |
+| Spruce spacklers — break room + Dave's office | Bob | 🟡 Confirm complete |
+| Sarah Dirsa punchlist | Sarah | 🟡 Still outstanding |
+| Shop vac + ladder on site | Nick | 🟡 Remove |
 
 ---
 
-## 📧 Email Summary
+### 🏗️ 4. Ardsley High School — Mamaroneck LMC Type C + Type WV Signs
 
-**[[Rob-Wasp]] → [[Ritchie-Price]] (April 6, 3:44 PM EDT):**
-> *"I'll plan to visit the site tomorrow afternoon to review the stakes. We'll also get the drainage system components submittal returned."*
-> *"Has Bob provided an updated 2 week lookahead?"*
+**Status:** 🟡 Waiting
 
-**[[Ritchie-Price]] → [[Rob-Wasp]] + [[Paige-Lewis]] (April 7, 9:45 AM EDT):**
-> *"Building layout very close to the paths (2 locations). Shortening the covered Outdoor Storage area to clear the path better, no room for the fence. Moving the path over to clear the Outdoor Storage, either by a couple of feet, or re-routing around the rock area. Higher retaining wall at the side doorway to Workshop. Review locations for emergency generator."*
-
-**[[Ritchie-Price]] → [[Rob-Wasp]] + [[Paige-Lewis]] (April 6, 3:29 PM EDT):**
-> *"The one corner of the parking lot appears very close to the walkway along the tennis courts, so moving the whole setup east a little might be the only recommendation, but this would involve removing some more rock on the east side."*
+- Waiting on **Dorothy (Tumen Signage)** for missing Type C and Type WV sign delivery date.
+- Once date received → call **Billy Cerutti** for school access hours.
 
 ---
 
-Full logs and photos: `Super/Daily Log/`
+## ❓ QUESTIONS FOR BOB
+
+| Priority | Project | Question |
+|----------|---------|----------|
+| 🔴 | **Parks** | **2-Week Lookahead — send to Rob Wasp immediately. Requested April 6.** |
+| 🟡 | Yorktown | Northeast Sprinkler — did they show up today? |
+| 🟡 | Yorktown | ABM Mechanical date for condensate drains + cassette? |
+| 🟡 | Yorktown | Anthony/Taub Flooring date? |
+| 🟡 | Yorktown | Town of Yorktown break room power date? |
+| 🟡 | Yorktown | Town of Yorktown finish color selection? |
+| 🟡 | Yorktown | Paul Revans — gas pipe cap or locking valve? |
+| 🟡 | LMC | Schedule Richie Puleo return for cabinet door correction |
+| 🟡 | LMC | Confirm Spruce shelving 100%? |
+| 🟡 | LMC | Spruce spacklers done? |
+| 🟡 | Parks | Building permit status? |
+
+---
+
+## 📅 TOMORROW'S PLAN — Wednesday, April 8
+
+| Time | Activity | Who | Location |
+|------|---------|-----|----------|
+| Morning | Rock removal, containers, grading start | Steve Governale | Parks |
+| Morning | Dirt stockpile at top of hill | Steve Governale | Parks |
+| Morning | Painting — finish color on walls | Timmy | Yorktown |
+| TBD | Cabinet door correction | Richie Puleo | LMC |
+| TBD | EIFS finish application | AWS/Manuel | Yorktown |
+
+---
+
+## 📧 EMAIL SUMMARY
+
+| From | Subject | Key Point |
+|------|---------|----------|
+| Rob Wasp (April 6) | Site visit + 2-week lookahead | 🔴 **Bob needs to send lookahead** |
+| Ritchie Price (April 7 AM) | 6 building layout items | Items discussed at afternoon meeting |
+| Ritchie Price (April 7 PM) | Meeting notes | Path closure confirmed, path relocation under review, several items undecided |
 
 ---
 
 **Nick Flanagan**
-Site Superintendent
-[[Peter Camilli & Sons]] Construction Ltd.
+superintendent
+peter camilli & sons construction ltd.
+est. 1915
 
 ---
-*Report generated by [[Supervisor]] (@super) — 2026-04-07 16:15 EDT*
-
-## HASHTAGS
-#super #construction #daily-report #para-projects #priority-high #bob-camilli
+*Report generated by Super | 2026-04-07*

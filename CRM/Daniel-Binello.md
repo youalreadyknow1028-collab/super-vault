@@ -7,7 +7,7 @@ email: dbinello@cuonoengineering.com
 phone: 19143915216
 projects: Mamaroneck LMC
 priority: P2-ACTIVE
-last_updated: 2026-03-31
+last_updated: 2026-04-08
 aliases:
   - Dan Binello
   - Daniel Binello Cuono
@@ -19,7 +19,7 @@ aliases:
 **Organization:** [[Cuono Engineering]]
 **Email:** dbinello@cuonoengineering.com
 **Phone:** 19143915216
-**Projects:** [[Mamaroneck LMC]]
+**Projects:** [[Mamaroneck LMC]], [[Mamaroneck Parks]]
 
 ---
 
@@ -39,6 +39,7 @@ aliases:
 ## ONTOLOGY RELATIONSHIPS
 - [[Daniel Binello]] WORKS_AT [[Cuono Engineering]]
 - [[Cuono Engineering]] PROVIDES_ENGINEERING_FOR [[Mamaroneck LMC]]
+- [[Daniel Binello]] PROVIDES_STRUCTURAL_ENGINEERING_FOR [[Mamaroneck Parks]]
 
 ---
 
